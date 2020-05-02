@@ -1,4 +1,4 @@
-const teas = [
+[
   {
     "zh": "平陽黃湯",
     "type": "黃茶",
@@ -1998,5 +1998,3 @@ const teas = [
     ]
   }
 ]
-
-export default teas
