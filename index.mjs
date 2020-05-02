@@ -1,5 +1,5 @@
 import express from 'express'
-import db from './teas'
+import db from './teas.mjs'
 
 const app = express()
 app.get('/api/v1/teas', (req, res) => {
@@ -10,8 +10,12 @@ app.get('/api/v1/teas', (req, res) => {
     })
 })
 
-const PORT = 5000
-
-app.listen(PORT, () => {
-    console.log(`server running on port ${PORT}`)
+app.get('/', (req, res) => {
+    res.status(200).send({
+        success: 'true',
+        message: 'teas retrieved successfully',
+        teas: db
+    })
 })
+
+app.listen(process.env.PORT || 3000, () => console.log("Server is running..."))
