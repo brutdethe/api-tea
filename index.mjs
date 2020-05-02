@@ -3,9 +3,12 @@ import express from 'express'
 
 const app = express()
 
-res.status(200).send({
-    xx        api: JSON.parse(fs.readFileSync('./data/json/api-tea.json', 'utf8'))
-})
+app.get('/', (req, res) => {
+    res.status(200).send({
+        success: 'true',
+        message: 'API-tea documentation',
+        api: JSON.parse(fs.readFileSync('./data/json/api-tea.json', 'utf8'))
+    })
 })
 
 app.get('/api/v1/teas', (req, res) => {
