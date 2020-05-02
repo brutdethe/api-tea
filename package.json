@@ -10,10 +10,14 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --experimental-modules --no-warnings index.mjs"
+    "start": "node --experimental-modules --no-warnings index.mjs",
+    "yaml2json": "node --experimental-modules --no-warnings convertYamlToJson.mjs"
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "js-yaml": "^3.13.1"
   }
 }

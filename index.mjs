@@ -6,7 +6,7 @@ app.get('/api/v1/teas', (req, res) => {
     res.status(200).send({
         success: 'true',
         message: 'teas retrieved successfully',
-        teas: JSON.parse(fs.readFileSync('teas.json', 'utf8'))
+        teas: JSON.parse(fs.readFileSync('./data/json/teas.json', 'utf8'))
     })
 })
 
@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     res.status(200).send({
         success: 'true',
         message: 'API-tea documentation',
-        api: JSON.parse(fs.readFileSync('api-tea.json', 'utf8'))
+        api: JSON.parse(fs.readFileSync('./data/json/api-tea.json', 'utf8'))
     })
 })
 
