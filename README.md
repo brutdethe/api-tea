@@ -4,7 +4,7 @@ An API to serve Chinese teas
 
 It allows you to retrieve information such as Chinese name, cultivars, type, families, picking, etc.
 
-La documentation est proposée à la racine du site :
+The documentation is proposed at the root of the site :
 https://api-tea.herokuapp.com
 
 ## Licence
