@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import express from 'express'
+import cors from 'cors'
 import getSummary from './summary.mjs'
 
 const endPoints = [
@@ -17,6 +18,8 @@ const endPoints = [
 
 const app = express()
 
+app.options('*', cors())
+
 function AddEndPointsRoutes(endPoints, app) {
     const getJsonPath = name =>
         path.format({
@@ -27,7 +30,7 @@ function AddEndPointsRoutes(endPoints, app) {
         })
 
     endPoints.forEach(endPoint =>
-        app.get(`/api/v1/${endPoint}`, (req, res) => {
+        app.get(`/api/v1/${endPoint}`, cors(), (req, res) => {
             res.status(200).send({
                 success: 'true',
                 message: `${endPoint} retrieved successfully`,
@@ -37,7 +40,7 @@ function AddEndPointsRoutes(endPoints, app) {
     )
 }
 
-app.get('/', (req, res) => {
+app.get('/', cors(), (req, res) => {
     const host = new URL('api/v1/', `${req.protocol}://${req.get('host')}/`)
     res.status(200).send({
         success: 'true',
