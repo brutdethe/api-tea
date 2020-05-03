@@ -29,9 +29,7 @@ const getJsonPath = name =>
 
 const app = express()
 
-app.options('*', cors())
-
-app.get('/', (req, res) => {
+app.get('/', cors(), (req, res) => {
     const host = {
         protocol: req.protocol,
         pathname: 'api/v1/',
@@ -49,7 +47,7 @@ function getTea(zh) {
     return teas.filter(tea => tea.zh === zh)[0]
 }
 
-app.get('/api/v1/tea/:zh', (req, res) => {
+app.get('/api/v1/tea/:zh', cors({ origin: '*' }), (req, res) => {
     const query = req.params.zh
     const result = getTea(query)
     if (result) {
@@ -68,7 +66,7 @@ app.get('/api/v1/tea/:zh', (req, res) => {
 
 function AddCommonEndPointsRoutes(endPoints, app) {
     endPoints.forEach(endPoint =>
-        app.get(`/api/v1/${endPoint}`, (req, res) => {
+        app.get(`/api/v1/${endPoint}`, cors({ origin: '*' }), (req, res) => {
             res.status(200).send({
                 success: 'true',
                 message: `${endPoint} retrieved successfully`,
