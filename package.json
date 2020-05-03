@@ -10,7 +10,7 @@
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node --experimental-modules --no-warnings index.mjs",
+        "start": "node --experimental-modules --no-warnings ./src/index.mjs",
         "yaml2json": "node --experimental-modules --no-warnings ./scripts/convertYamlToJson.mjs",
         "classifyJsonFields": "node --experimental-modules --no-warnings ./scripts/classifyJsonFields.mjs"
     },
