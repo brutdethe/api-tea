@@ -1,9 +1,11 @@
+import url from 'url'
+
 function getSummary(host, names) {
     const summary = {}
     names.forEach(name => {
-        const hostClone = new URL(host.toString())
+        const hostClone = { ...host }
         hostClone.pathname += name
-        summary[`${name}_url`] = hostClone.toString()
+        summary[`${name}_url`] = url.format(hostClone, { unicode: true })
     })
     return summary
 }
