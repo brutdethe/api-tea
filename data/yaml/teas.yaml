@@ -1775,7 +1775,7 @@
   - 春季
   - 夏季
   - 秋季 
-  fermentation: post-fermentation
+  post-fermentation: true
   brewing:
   - type: 煮泡法
     temperature:
