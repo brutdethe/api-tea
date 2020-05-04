@@ -1734,13 +1734,16 @@
       times: 10
   pinyin: Diān Hóng
 
-- zh: 六堡黑茶
+- zh: 廣西六堡茶
   type: 黑茶
   province: 中國廣西
+  town: 蒼梧縣
   elevation:
     - 1000
     - 1500
-  cultivar: 桂青
+  cultivar: 
+    - 當地羣體種
+    - 廣西大中葉種
   picking:
     - 一芽 二三葉
     - 一芽 三四葉
@@ -1748,10 +1751,72 @@
   image: true
   brewing:
     - type: 煮泡法
-      temperature:
-        - 95
-        - 99
+      temperature： 100
       quantity: 1:100
-      duration: 300
+      duration: 
+        - 300
+        - 600
       times: 1
   pinyin: LiùBǎoHēiChá
+  
+  - zh: 湖南安化黑茶
+  type: 黑茶
+  province: 中國湖南
+  town: 益陽市安化縣
+  elevation:
+    - 600
+    - 1400
+  cultivar: 
+    - 雲臺山大葉種
+    - 楮葉齊
+  picking:
+    - 一芽 三葉
+    - 一芽 三四葉
+    - 一芽 五六葉
+   harvest:
+    - 春季
+    - 夏季
+    - 秋季 
+  fermentation: post-fermentation
+  image: 
+  brewing:
+    - type: 煮泡法
+      temperature:
+        - 100
+      quantity: 1:100
+      duration: 
+        - 300
+        - 600
+      times: 1
+
+ - zh: 湖北青磚
+  type: 黑茶
+  province: 中國湖北
+  town: 
+    - 蒲圻
+    - 咸寧
+    - 通山
+    - 通城
+    - 崇陽
+  elevation:
+    - 100
+    - 800
+  cultivar: 
+    - 當地品種
+  picking:
+    
+   harvest:
+    - 春季
+    - 夏季
+    - 秋季 
+  fermentation: post-fermentation
+  image: 
+  brewing:
+    - type: 煮泡法
+      temperature:
+        - 100
+      quantity: 1:100
+      duration: 
+        - 300
+        - 600
+      times: 1
