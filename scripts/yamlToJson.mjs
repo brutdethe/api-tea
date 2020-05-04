@@ -35,9 +35,8 @@ names.forEach(name => convertYamlToJson(getFilePaths(name)))
 function convertYamlToJson({ yamlFile, jsonFile }) {
     try {
         const content = yaml.safeLoad(fs.readFileSync(yamlFile), 'utf8')
-        const dirname = path.dirname('data/json')
-        if (!fs.existsSync(dirname)) {
-            fs.mkdirSync(dirname)
+        if (!fs.existsSync('data/json')) {
+            fs.mkdirSync('data/json', { recursive: true })
         }
         fs.writeFileSync(jsonFile, JSON.stringify(content, null, 2), 'utf8')
         console.info('save', jsonFile)
