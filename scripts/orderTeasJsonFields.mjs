@@ -20,6 +20,7 @@ const fields = [
     'picking',
     'elevation',
     'fermentation',
+    'post-fermentation',
     'brewing'
 ]
 

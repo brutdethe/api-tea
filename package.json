@@ -11,8 +11,9 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node --experimental-modules --no-warnings ./src/index.mjs",
-        "yaml2json": "node --experimental-modules --no-warnings ./scripts/convertYamlToJson.mjs",
-        "classifyJsonFields": "node --experimental-modules --no-warnings ./scripts/classifyJsonFields.mjs"
+        "yaml2json": "node --experimental-modules --no-warnings ./scripts/yamlToJson.mjs",
+        "pinyinTranslation": "node --experimental-modules --no-warnings ./scripts/pinyinTranslation.mjs",
+        "orderTeasJsonFields": "node --experimental-modules --no-warnings ./scripts/orderTeasJsonFields.mjs"
     },
     "dependencies": {
         "babel-preset-es2015": "^6.24.1",
