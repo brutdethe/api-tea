@@ -3,15 +3,16 @@ import fs from 'fs'
 import yaml from 'js-yaml'
 
 const names = [
-    'brewing-types',
-    'families',
-    'picking',
-    'towns',
-    'cultivars',
-    'harvests',
-    'provinces',
     'teas',
-    'types'
+    'types',
+    'families',
+    'harvests',
+    'cultivars',
+    'provinces',
+    'towns',
+    'picking',
+    'brewing-types',
+    'themes'
 ]
 
 const getFilePaths = name => ({
