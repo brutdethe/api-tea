@@ -2282,13 +2282,12 @@
     "zh": "湖南安化黑茶",
     "pinyin": "Húnán Ān Huà HēiChá",
     "type": "黑茶",
-    "harvest": [
-      "春季",
-      "夏季",
-      "秋季"
-    ],
     "province": "中國湖南",
     "town": "益陽市安化縣",
+    "elevation": [
+      600,
+      1400
+    ],
     "cultivar": [
       "雲臺山大葉種",
       "楮葉齊"
@@ -2298,9 +2297,10 @@
       "一芽 三四葉",
       "一芽 五六葉"
     ],
-    "elevation": [
-      600,
-      1400
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
     ],
     "post-fermentation": true,
     "brewing": [
@@ -2322,11 +2322,6 @@
     "zh": "湖北青磚",
     "pinyin": "HúBěi QīngZhuān",
     "type": "黑茶",
-    "harvest": [
-      "春季",
-      "夏季",
-      "秋季"
-    ],
     "province": "中國湖北",
     "town": [
       "蒲圻",
@@ -2335,10 +2330,15 @@
       "通城",
       "崇陽"
     ],
-    "cultivar": "當地品種",
     "elevation": [
       100,
       800
+    ],
+    "cultivar": "當地品種",
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
     ],
     "post-fermentation": true,
     "brewing": [

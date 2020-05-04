@@ -14,6 +14,7 @@ const filesEndPoints = [
     'towns',
     'brewing-types',
     'harvests',
+    'themes',
     'pinyin'
 ]
 

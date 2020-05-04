@@ -2,7 +2,7 @@ import path from 'path'
 import fs from 'fs'
 import yaml from 'js-yaml'
 
-const names = [
+const themes = [
     'brewing-types',
     'families',
     'picking',
@@ -32,16 +32,16 @@ const getJsonPath = name =>
 
 writeJSON(
     getJsonPath('pinyin'),
-    names.flatMap(name => {
+    themes.flatMap(theme => {
         try {
             const items = yaml.safeLoad(
-                fs.readFileSync(getYamlPath(name)),
+                fs.readFileSync(getYamlPath(theme)),
                 'utf8'
             )
             return items.map(item => ({
                 zh: item.zh,
                 pinyin: item.pinyin,
-                class: name
+                theme: theme
             }))
         } catch (e) {
             console.log(`${jsonFile} error:`, e)
