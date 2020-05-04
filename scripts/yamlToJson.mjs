@@ -1,5 +1,5 @@
-import path from 'path'
 import fs from 'fs'
+import path from 'path'
 import yaml from 'js-yaml'
 
 const names = [
@@ -35,6 +35,10 @@ names.forEach(name => convertYamlToJson(getFilePaths(name)))
 function convertYamlToJson({ yamlFile, jsonFile }) {
     try {
         const content = yaml.safeLoad(fs.readFileSync(yamlFile), 'utf8')
+        const dirname = path.dirname('data/json')
+        if (!fs.existsSync(dirname)) {
+            fs.mkdirSync(dirname)
+        }
         fs.writeFileSync(jsonFile, JSON.stringify(content, null, 2), 'utf8')
         console.info('save', jsonFile)
     } catch (e) {
