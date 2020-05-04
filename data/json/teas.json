@@ -1429,7 +1429,7 @@
   },
   {
     "zh": "安溪鐵觀音",
-    "pinyin": "AnXī TiěGuānYīn",
+    "pinyin": "ĀnXī TiěGuānYīn",
     "type": "青茶",
     "family": "閩南烏龍",
     "harvest": [
@@ -2247,11 +2247,15 @@
     ]
   },
   {
-    "zh": "六堡黑茶",
-    "pinyin": "LiùBǎoHēiChá",
+    "zh": "廣西六堡茶",
+    "pinyin": "GuǎngXī LiùBǎoChá",
     "type": "黑茶",
     "province": "中國廣西",
-    "cultivar": "桂青",
+    "town": "蒼梧縣",
+    "cultivar": [
+      "當地羣體種",
+      "廣西大中葉種"
+    ],
     "picking": [
       "一芽 二三葉",
       "一芽 三四葉"
@@ -2264,12 +2268,90 @@
     "brewing": [
       {
         "type": "煮泡法",
+        "temperature": 100,
+        "quantity": "1:100",
+        "duration": [
+          300,
+          600
+        ],
+        "times": 1
+      }
+    ]
+  },
+  {
+    "zh": "湖南安化黑茶",
+    "pinyin": "Húnán Ān Huà HēiChá",
+    "type": "黑茶",
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
+    ],
+    "province": "中國湖南",
+    "town": "益陽市安化縣",
+    "cultivar": [
+      "雲臺山大葉種",
+      "楮葉齊"
+    ],
+    "picking": [
+      "一芽 三葉",
+      "一芽 三四葉",
+      "一芽 五六葉"
+    ],
+    "elevation": [
+      600,
+      1400
+    ],
+    "post-fermentation": true,
+    "brewing": [
+      {
+        "type": "煮泡法",
         "temperature": [
-          95,
-          99
+          100
         ],
         "quantity": "1:100",
-        "duration": 300,
+        "duration": [
+          300,
+          600
+        ],
+        "times": 1
+      }
+    ]
+  },
+  {
+    "zh": "湖北青磚",
+    "pinyin": "HúBěi QīngZhuān",
+    "type": "黑茶",
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
+    ],
+    "province": "中國湖北",
+    "town": [
+      "蒲圻",
+      "咸寧",
+      "通山",
+      "通城",
+      "崇陽"
+    ],
+    "cultivar": "當地品種",
+    "elevation": [
+      100,
+      800
+    ],
+    "post-fermentation": true,
+    "brewing": [
+      {
+        "type": "煮泡法",
+        "temperature": [
+          100
+        ],
+        "quantity": "1:100",
+        "duration": [
+          300,
+          600
+        ],
         "times": 1
       }
     ]
