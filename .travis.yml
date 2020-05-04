@@ -3,3 +3,5 @@ node_js:
     - 11
 script:
     - npm run yaml2json
+    - npm run orderTeasJsonFields
+    - npm run pinyinTranslation
