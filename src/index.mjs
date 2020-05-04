@@ -4,7 +4,7 @@ import express from 'express'
 import cors from 'cors'
 import getSummary from './summary.mjs'
 
-const commonEndPoints = [
+const filesEndPoints = [
     'teas',
     'types',
     'cultivars',
@@ -13,11 +13,12 @@ const commonEndPoints = [
     'provinces',
     'towns',
     'brewing-types',
-    'harvests'
+    'harvests',
+    'pinyin'
 ]
 
-const specificEndpoints = ['tea/{zh}']
-const endPoints = commonEndPoints.concat(specificEndpoints)
+const dynamicEndpoints = ['tea/{zh}']
+const endPoints = filesEndPoints.concat(dynamicEndpoints)
 
 const getJsonPath = name =>
     path.format({
@@ -64,7 +65,7 @@ app.get('/api/v1/tea/:zh', cors({ origin: '*' }), (req, res) => {
     }
 })
 
-function AddCommonEndPointsRoutes(endPoints, app) {
+function AddStaticEndPointsRoutes(endPoints, app) {
     endPoints.forEach(endPoint =>
         app.get(`/api/v1/${endPoint}`, cors({ origin: '*' }), (req, res) => {
             res.status(200).send({
@@ -76,7 +77,7 @@ function AddCommonEndPointsRoutes(endPoints, app) {
     )
 }
 
-AddCommonEndPointsRoutes(commonEndPoints, app)
+AddStaticEndPointsRoutes(filesEndPoints, app)
 
 app.listen(process.env.PORT || 5000, function() {
     console.log('Server is running : http://localhost:5000')
