@@ -1,0 +1,677 @@
+[
+  {
+    "zh": "蓋碗泡法",
+    "pinyin": "GàiWǎn PàoFǎ",
+    "theme": "brewing-types"
+  },
+  {
+    "zh": "茶盅泡法",
+    "pinyin": "CháZhōng PàoFǎ",
+    "theme": "brewing-types"
+  },
+  {
+    "zh": "茶壺泡法",
+    "pinyin": "ChaHu PàoFǎ",
+    "theme": "brewing-types"
+  },
+  {
+    "zh": "茶杯泡法",
+    "pinyin": "CháBēi PàoFǎ",
+    "theme": "brewing-types"
+  },
+  {
+    "zh": "煮泡法",
+    "pinyin": "Zhu PàoFǎ",
+    "theme": "brewing-types"
+  },
+  {
+    "zh": "廣東烏龍",
+    "pinyin": "Guǎngdōng WūLóng",
+    "theme": "families"
+  },
+  {
+    "zh": "閩南烏龍",
+    "pinyin": "MǐnNán WūLóng",
+    "theme": "families"
+  },
+  {
+    "zh": "紅碎茶",
+    "pinyin": "Hóng Suì Chá",
+    "theme": "families"
+  },
+  {
+    "zh": "臺灣烏龍",
+    "pinyin": "TáiWān WūLóng",
+    "theme": "families"
+  },
+  {
+    "zh": "閩北烏龍",
+    "pinyin": "MǐnBěi WūLóng",
+    "theme": "families"
+  },
+  {
+    "zh": "小種紅茶",
+    "pinyin": "XiǎoZhǒng HóngChá",
+    "theme": "families"
+  },
+  {
+    "zh": "工夫紅茶",
+    "pinyin": "GōngFū HóngChá",
+    "theme": "families"
+  },
+  {
+    "zh": "黃芽茶",
+    "pinyin": "HuángYáChá",
+    "theme": "families"
+  },
+  {
+    "zh": "黃小茶",
+    "pinyin": "HuángXiǎoChá",
+    "theme": "families"
+  },
+  {
+    "zh": "黃大茶",
+    "pinyin": "HuángDàChá",
+    "theme": "families"
+  },
+  {
+    "zh": "炒青绿茶",
+    "pinyin": "Chǎo Qīng LǜChá",
+    "theme": "families"
+  },
+  {
+    "zh": "烘青绿茶",
+    "pinyin": "Hōng Qīng Lǜchá",
+    "theme": "families"
+  },
+  {
+    "zh": "一芽",
+    "pinyin": "YīYá",
+    "theme": "picking"
+  },
+  {
+    "zh": "一二葉",
+    "pinyin": "Yi Èr Yè",
+    "theme": "picking"
+  },
+  {
+    "zh": "嫩芽",
+    "pinyin": "Nèn Yá",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 一葉",
+    "pinyin": "YīYá YīYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 二葉",
+    "pinyin": "YīYá ÈrYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 一二葉",
+    "pinyin": "Yī Yá YīÈr Yè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽三葉",
+    "pinyin": "YīYá SānYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 一二葉嫩芽",
+    "pinyin": "Yī yá yī'èr yè nèn yá",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 二三葉",
+    "pinyin": "YīYá ÈrSānYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 三四葉",
+    "pinyin": "YīYá SānSìYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "三葉",
+    "pinyin": "Sān Yè",
+    "theme": "picking"
+  },
+  {
+    "zh": "芽葉",
+    "pinyin": "Yá Yè",
+    "theme": "picking"
+  },
+  {
+    "zh": "單壯葉",
+    "pinyin": "Dān Zhuàng Yè",
+    "theme": "picking"
+  },
+  {
+    "zh": "木柵",
+    "pinyin": "MùShān",
+    "theme": "towns"
+  },
+  {
+    "zh": "安溪",
+    "pinyin": "ĀnXī",
+    "theme": "towns"
+  },
+  {
+    "zh": "文山區",
+    "pinyin": "WénShān Qū",
+    "theme": "towns"
+  },
+  {
+    "zh": "武夷山市",
+    "pinyin": "WǔYíShān Shì",
+    "theme": "towns"
+  },
+  {
+    "zh": "武夷市",
+    "pinyin": "WǔYí Shì",
+    "theme": "towns"
+  },
+  {
+    "zh": "潮州市",
+    "pinyin": "CháoZhōu Shì",
+    "theme": "towns"
+  },
+  {
+    "zh": "鐵觀音",
+    "pinyin": "TiěGuānYīn",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "鳳凰水仙",
+    "pinyin": "FèngHuáng ShuǐXiān",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "青心烏龍",
+    "pinyin": "QīngXīn WūLóng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "桂青",
+    "pinyin": "Guì Qīng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "景谷大白茶",
+    "pinyin": "JǐngGǔ Dà BáiChá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "雲南大白茶",
+    "pinyin": "Yúnnán Dà BáiChá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "福鼎大毫茶",
+    "pinyin": "Fú Dǐng Dà HáoChá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "政和大白茶",
+    "pinyin": "ZhèngHé Dà BáiChá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "平陽特皁茶",
+    "pinyin": "PíngYáng Tè ZàoChá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "武夷肉桂",
+    "pinyin": "WǔYí RòuGuì",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "本山",
+    "pinyin": "BěnShān",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "毛蟹",
+    "pinyin": "MáoXiè",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "黃旦",
+    "pinyin": "Huáng Dàn",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "小菜茶羣體種",
+    "pinyin": "XiǎoCài Chá Qún Tǐ Zhǒng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "祁門種",
+    "pinyin": "Qímén Zhǒng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "武夷野生奇種",
+    "pinyin": "WǔYí YěShēng Qí Zhǒng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "雲南大葉種拼配",
+    "pinyin": "YúnNán DàYè Zhòng Pīn Pèi",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "福安大白茶",
+    "pinyin": "FúĀn Dà BáiChá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "其他拼配",
+    "pinyin": "QíTā Pīn Pèi",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "奇丹",
+    "pinyin": "Qí Dān",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "白毛猴",
+    "pinyin": "Bái Máo Hóu",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "青心大某",
+    "pinyin": "Qīng Xīn Dà Mǒu",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "金萱",
+    "pinyin": "Jīn Xuān",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "硬枝紅心烏龍",
+    "pinyin": "Yìng Zhī HóngXīn WūLóng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "四季春",
+    "pinyin": "SìJìChūn",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "翠玉",
+    "pinyin": "CuìYù",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "春季",
+    "pinyin": "ChūnJì",
+    "theme": "harvests"
+  },
+  {
+    "zh": "夏季",
+    "pinyin": "XiàJì",
+    "theme": "harvests"
+  },
+  {
+    "zh": "秋季",
+    "pinyin": "QiūJì",
+    "theme": "harvests"
+  },
+  {
+    "zh": "冬季",
+    "pinyin": "DōngJì",
+    "theme": "harvests"
+  },
+  {
+    "zh": "臺灣",
+    "pinyin": "Táiwān",
+    "theme": "provinces"
+  },
+  {
+    "zh": "臺灣臺北",
+    "pinyin": "TáiWān TáiBěi",
+    "theme": "provinces"
+  },
+  {
+    "zh": "臺灣南投",
+    "pinyin": "TáiWān NánTóu",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國福建",
+    "pinyin": "ZhōngGuó FúJiàn",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國江蘇",
+    "pinyin": "ZhōngGuó JiāngSū",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國河南",
+    "pinyin": "ZhōngGuó HéNán",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國雲南",
+    "pinyin": "ZhōngGuó YúnNán",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國浙江",
+    "pinyin": "ZhōngGuó ZhèJiāng",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國湖南",
+    "pinyin": "ZhōngGuó HúNán",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國安徽",
+    "pinyin": "ZhōngGuó ĀnHuī",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國四川",
+    "pinyin": "ZhōngGuó SìChuān",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國廣東",
+    "pinyin": "ZhōngGuó GuǎngDōng",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國貴州",
+    "pinyin": "ZhōngGuó GuìZhōu",
+    "theme": "provinces"
+  },
+  {
+    "zh": "中國廣西",
+    "pinyin": "ZhōngGuó GuǎngXī",
+    "theme": "provinces"
+  },
+  {
+    "zh": "平陽黃湯",
+    "pinyin": "PíngYáng HuángTāng",
+    "theme": "teas"
+  },
+  {
+    "zh": "北港毛尖",
+    "pinyin": "BěiGǎng MáoJiān",
+    "theme": "teas"
+  },
+  {
+    "zh": "溈山毛尖",
+    "pinyin": "WéiShān MáoJiān",
+    "theme": "teas"
+  },
+  {
+    "zh": "霍山黃芽",
+    "pinyin": "HuòShān HuángYá",
+    "theme": "teas"
+  },
+  {
+    "zh": "君山銀針",
+    "pinyin": "JūnShān YínZhēn",
+    "theme": "teas"
+  },
+  {
+    "zh": "蒙頂黃芽",
+    "pinyin": "MéngDǐng HuángYá",
+    "theme": "teas"
+  },
+  {
+    "zh": "廣東大葉青",
+    "pinyin": "GuǎngDōng DàyèQīng",
+    "theme": "teas"
+  },
+  {
+    "zh": "霍山黃大茶",
+    "pinyin": "HuòShān HuángDàChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "碧螺春",
+    "pinyin": "BìLuóChūn",
+    "theme": "teas"
+  },
+  {
+    "zh": "湄潭翠芽",
+    "pinyin": "MéiTánCuìYá",
+    "theme": "teas"
+  },
+  {
+    "zh": "黄山毛峰",
+    "pinyin": "HuángShān MáoFēng",
+    "theme": "teas"
+  },
+  {
+    "zh": "龍井茶",
+    "pinyin": "LóngJǐng",
+    "theme": "teas"
+  },
+  {
+    "zh": "都勻毛尖",
+    "pinyin": "DūYún MáoJiān",
+    "theme": "teas"
+  },
+  {
+    "zh": "信阳毛尖",
+    "pinyin": "XìnYáng MáoJiān",
+    "theme": "teas"
+  },
+  {
+    "zh": "竹葉青",
+    "pinyin": "ZhúYèGīng",
+    "theme": "teas"
+  },
+  {
+    "zh": "頂谷大方",
+    "pinyin": "DǐngGǔDàFāng",
+    "theme": "teas"
+  },
+  {
+    "zh": "太平猴魁",
+    "pinyin": "TàiPíng HóuKuí",
+    "theme": "teas"
+  },
+  {
+    "zh": "綠寶石",
+    "pinyin": "LǜBǎoShí",
+    "theme": "teas"
+  },
+  {
+    "zh": "珠茶",
+    "pinyin": "ZhūChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "六安瓜片",
+    "pinyin": "LiùĀn GuāPiàn",
+    "theme": "teas"
+  },
+  {
+    "zh": "四季春",
+    "pinyin": "SìJìChūn",
+    "theme": "teas"
+  },
+  {
+    "zh": "金萱",
+    "pinyin": "Jīn Xuān",
+    "theme": "teas"
+  },
+  {
+    "zh": "文山包種",
+    "pinyin": "WénShān BāoZhǒng",
+    "theme": "teas"
+  },
+  {
+    "zh": "高山茶",
+    "pinyin": "GāoShānChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "木柵鐵觀音",
+    "pinyin": "MùShān TiěGuānYīn",
+    "theme": "teas"
+  },
+  {
+    "zh": "凍頂烏龍",
+    "pinyin": "DòngDǐng WūLóng",
+    "theme": "teas"
+  },
+  {
+    "zh": "東方美人",
+    "pinyin": "DōngFāngMěiRén",
+    "theme": "teas"
+  },
+  {
+    "zh": "大紅袍",
+    "pinyin": "DàHóngPáo",
+    "theme": "teas"
+  },
+  {
+    "zh": "武夷水仙",
+    "pinyin": "WǔYí ShuǐXiān",
+    "theme": "teas"
+  },
+  {
+    "zh": "肉桂",
+    "pinyin": "RòuGuì",
+    "theme": "teas"
+  },
+  {
+    "zh": "鳳凰單叢",
+    "pinyin": "FèngHuáng DānCóng",
+    "theme": "teas"
+  },
+  {
+    "zh": "安溪鐵觀音",
+    "pinyin": "ĀnXī TiěGuānYīn",
+    "theme": "teas"
+  },
+  {
+    "zh": "本山茶",
+    "pinyin": "BěnShānChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "毛蟹茶",
+    "pinyin": "MáoXièChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "黃金桂",
+    "pinyin": "HuángJīnGuì",
+    "theme": "teas"
+  },
+  {
+    "zh": "白毫銀針",
+    "pinyin": "BáiHáo YínZhēn",
+    "theme": "teas"
+  },
+  {
+    "zh": "白牡丹",
+    "pinyin": "BáiMǔDān",
+    "theme": "teas"
+  },
+  {
+    "zh": "月光白",
+    "pinyin": "YuèGuāngBái",
+    "theme": "teas"
+  },
+  {
+    "zh": "壽眉",
+    "pinyin": "Shòu Méi",
+    "theme": "teas"
+  },
+  {
+    "zh": "雲南白茶磚",
+    "pinyin": "YúnNán BáiChá Zhuān",
+    "theme": "teas"
+  },
+  {
+    "zh": "正山小種",
+    "pinyin": "ZhèngShānXiǎoZhǒng",
+    "theme": "teas"
+  },
+  {
+    "zh": "祁門紅茶",
+    "pinyin": "QíMén HóngChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "坦洋",
+    "pinyin": "Tǎn Yáng",
+    "theme": "teas"
+  },
+  {
+    "zh": "金駿眉",
+    "pinyin": "JīnJùnMéi",
+    "theme": "teas"
+  },
+  {
+    "zh": "紅碎茶",
+    "pinyin": "Hóng Suì Chá",
+    "theme": "teas"
+  },
+  {
+    "zh": "滇紅",
+    "pinyin": "Diān Hóng",
+    "theme": "teas"
+  },
+  {
+    "zh": "廣西六堡茶",
+    "pinyin": "GuǎngXī LiùBǎoChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "湖南安化黑茶",
+    "pinyin": "Húnán Ān Huà HēiChá",
+    "theme": "teas"
+  },
+  {
+    "zh": "湖北青磚",
+    "pinyin": "HúBěi QīngZhuān",
+    "theme": "teas"
+  },
+  {
+    "zh": "綠茶",
+    "pinyin": "LǜChá",
+    "theme": "types"
+  },
+  {
+    "zh": "白茶",
+    "pinyin": "BáiChá",
+    "theme": "types"
+  },
+  {
+    "zh": "黃茶",
+    "pinyin": "HuángChá",
+    "theme": "types"
+  },
+  {
+    "zh": "青茶",
+    "pinyin": "QīngChá",
+    "theme": "types"
+  },
+  {
+    "zh": "紅茶",
+    "pinyin": "HóngChá",
+    "theme": "types"
+  },
+  {
+    "zh": "黑茶",
+    "pinyin": "HēiChá",
+    "theme": "types"
+  }
+]

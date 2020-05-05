@@ -1,0 +1,56 @@
+[
+  {
+    "zh": "茶",
+    "pinyin": "Chá",
+    "fr": "thé",
+    "en": "teas"
+  },
+  {
+    "zh": "茶類型",
+    "pinyin": "Chá LèiXíng",
+    "fr": "types",
+    "en": "types"
+  },
+  {
+    "zh": "茶族",
+    "pinyin": "Chá Zú",
+    "fr": "famille",
+    "en": "families"
+  },
+  {
+    "zh": "茶叶收获",
+    "pinyin": "CháYè ShōuHuò",
+    "fr": "récolte",
+    "en": "harvests"
+  },
+  {
+    "zh": "省",
+    "pinyin": "Shěng",
+    "fr": "province",
+    "en": "provinces"
+  },
+  {
+    "zh": "市",
+    "pinyin": "Shì",
+    "fr": "ville",
+    "en": "towns"
+  },
+  {
+    "zh": "品種茶",
+    "pinyin": "PǐnZhǒng Chá",
+    "fr": "cultivar",
+    "en": "cultivars"
+  },
+  {
+    "zh": "採茶",
+    "pinyin": "Cǎi Chá",
+    "fr": "cueillette",
+    "en": "picking"
+  },
+  {
+    "zh": "泡法",
+    "pinyin": "PàoFǎ",
+    "fr": "infusion",
+    "en": "brewing-type"
+  }
+]
