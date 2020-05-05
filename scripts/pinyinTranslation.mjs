@@ -51,7 +51,6 @@ writeJSON(
 
 function writeJSON(jsonFile, content) {
     try {
-        const dirname = path.dirname('data/json')
         if (!fs.existsSync('data/json')) {
             fs.mkdirSync('data/json', { recursive: true })
         }
