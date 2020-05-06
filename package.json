@@ -13,7 +13,8 @@
         "start": "node --experimental-modules --no-warnings ./src/index.mjs",
         "yaml2json": "node --experimental-modules --no-warnings ./scripts/yamlToJson.mjs",
         "pinyinTranslation": "node --experimental-modules --no-warnings ./scripts/pinyinTranslation.mjs",
-        "orderTeasJsonFields": "node --experimental-modules --no-warnings ./scripts/orderTeasJsonFields.mjs"
+        "orderTeasJsonFields": "node --experimental-modules --no-warnings ./scripts/orderTeasJsonFields.mjs",
+        "deploy": "./scripts/deploy.sh"
     },
     "dependencies": {
         "babel-preset-es2015": "^6.24.1",
