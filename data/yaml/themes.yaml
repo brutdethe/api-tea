@@ -2,32 +2,32 @@
   pinyin: Chá
   fr: thé
   en: teas
-- zh: 茶類型
-  pinyin: Chá LèiXíng
+- zh: 六大茶類
+  pinyin: Liù Dà Chá Lèi
   fr: types
   en: types
-- zh: 茶族
-  pinyin: Chá Zú
+- zh: 分類
+  pinyin: Fēn Lèi
   fr: famille
   en: families
-- zh: 茶叶收获
-  pinyin: CháYè ShōuHuò
-  fr: récolte
+- zh: 採摘季節
+  pinyin: CǎiZhāi JìJié
+  fr: récoltes
   en: harvests
-- zh: 省
-  pinyin: Shěng
-  fr: province
+- zh: 國名和省
+  pinyin: Guó MínGhé shěng
+  fr: provinces
   en: provinces
 - zh: 市
   pinyin: Shì
-  fr: ville
+  fr: villes
   en: towns
-- zh: 品種茶
-  pinyin: PǐnZhǒng Chá
+- zh: 茶樹品種
+  pinyin: CháShù PǐnZhǒng
   fr: cultivar
   en: cultivars
-- zh: 採茶
-  pinyin: Cǎi Chá
+- zh: 採摘標準
+  pinyin: CǎiZhāi BiāoZhǔn
   fr: cueillette
   en: picking
 - zh: 泡法
