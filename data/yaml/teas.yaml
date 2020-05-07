@@ -1710,9 +1710,10 @@
     - 30
     times: 10
 
-- zh: 廣西六堡茶
-  pinyin: GuǎngXī LiùBǎoChá
+- zh: 六堡茶
+  pinyin: LiùBǎoChá
   type: 黑茶
+  family: 六堡茶
   province: 中國廣西
   town: 蒼梧縣
   cultivar: 
@@ -1734,9 +1735,10 @@
     - 600
     times: 1
 
-- zh: 湖南安化黑茶
-  pinyin: Húnán ĀnHuà HēiChá
+- zh: 安化黑茶
+  pinyin: ĀnHuà HēiChá
   type: 黑茶
+  family: 湖南黑茶
   province: 中國湖南
   town: 益陽市安化縣
   elevation:
@@ -1764,9 +1766,10 @@
     - 600
     times: 1
 
-- zh: 湖北青磚
-  pinyin: HúBěi QīngZhuān
+- zh: 青磚茶
+  pinyin: QīngZhuān Chá
   type: 黑茶
+  family: 湖北青磚茶
   province: 中國湖北
   town: 
   - 蒲圻
