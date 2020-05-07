@@ -542,6 +542,7 @@
     "zh": "都勻毛尖",
     "pinyin": "DūYún MáoJiān",
     "type": "綠茶",
+    "family": "炒青綠茶",
     "province": "中國貴州",
     "picking": "一芽 一葉",
     "brewing": [
@@ -571,6 +572,7 @@
     "zh": "信阳毛尖",
     "pinyin": "XìnYáng MáoJiān",
     "type": "綠茶",
+    "family": "炒青綠茶",
     "province": "中國河南",
     "picking": "一芽 一葉",
     "brewing": [
@@ -696,6 +698,7 @@
     "zh": "綠寶石",
     "pinyin": "LǜBǎoShí",
     "type": "綠茶",
+    "family": "炒青綠茶",
     "province": "中國貴州",
     "picking": [
       "一芽 二三葉"
@@ -1704,6 +1707,7 @@
     "zh": "白毫銀針",
     "pinyin": "BáiHáo YínZhēn",
     "type": "白茶",
+    "family": "芽茶",
     "harvest": "春季",
     "province": "中國福建",
     "town": [
@@ -1760,6 +1764,7 @@
     "zh": "白牡丹",
     "pinyin": "BáiMǔDān",
     "type": "白茶",
+    "family": "葉茶",
     "harvest": "春季",
     "province": "中國福建",
     "town": [
@@ -1871,6 +1876,7 @@
     "zh": "壽眉",
     "pinyin": "Shòu Méi",
     "type": "白茶",
+    "family": "葉茶",
     "harvest": [
       "春季",
       "夏季",
@@ -2205,7 +2211,7 @@
     "zh": "滇紅",
     "pinyin": "Diān Hóng",
     "type": "紅茶",
-    "family": "功夫紅茶",
+    "family": "工夫紅茶",
     "harvest": [
       "春季",
       "夏季",
@@ -2282,7 +2288,7 @@
   },
   {
     "zh": "湖南安化黑茶",
-    "pinyin": "Húnán Ān Huà HēiChá",
+    "pinyin": "Húnán ĀnHuà HēiChá",
     "type": "黑茶",
     "harvest": [
       "春季",
