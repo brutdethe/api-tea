@@ -1293,6 +1293,7 @@
 - zh: 白毫銀針
   pinyin: BáiHáo YínZhēn
   type: 白茶
+  family: 芽茶
   harvest: 春季
   province: 中國福建
   town:
@@ -1335,6 +1336,7 @@
 - zh: 白牡丹
   pinyin: BáiMǔDān
   type: 白茶
+  family: 葉茶
   harvest: 春季
   province: 中國福建
   town:
@@ -1420,6 +1422,7 @@
 - zh: 壽眉
   pinyin: Shòu Méi
   type: 白茶
+  family: 葉茶
   harvest:
   - 春季
   - 夏季
