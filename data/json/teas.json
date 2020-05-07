@@ -2255,9 +2255,10 @@
     ]
   },
   {
-    "zh": "廣西六堡茶",
-    "pinyin": "GuǎngXī LiùBǎoChá",
+    "zh": "六堡茶",
+    "pinyin": "LiùBǎoChá",
     "type": "黑茶",
+    "family": "六堡茶",
     "province": "中國廣西",
     "town": "蒼梧縣",
     "cultivar": [
@@ -2287,9 +2288,10 @@
     ]
   },
   {
-    "zh": "湖南安化黑茶",
-    "pinyin": "Húnán ĀnHuà HēiChá",
+    "zh": "安化黑茶",
+    "pinyin": "ĀnHuà HēiChá",
     "type": "黑茶",
+    "family": "湖南黑茶",
     "harvest": [
       "春季",
       "夏季",
@@ -2327,9 +2329,10 @@
     ]
   },
   {
-    "zh": "湖北青磚",
-    "pinyin": "HúBěi QīngZhuān",
+    "zh": "青磚茶",
+    "pinyin": "QīngZhuān Chá",
     "type": "黑茶",
+    "family": "湖北青磚茶",
     "harvest": [
       "春季",
       "夏季",
