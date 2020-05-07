@@ -725,6 +725,10 @@
   - 夏季
   - 秋季
   province: 臺灣
+  cultivar:
+  - 青心烏龍
+  - 金萱
+  - 翠玉
   picking: 一芽 二葉
   elevation: 1000
   fermentation:
