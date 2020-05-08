@@ -316,6 +316,8 @@
   type: 綠茶
   family: 炒青绿茶
   province: 中國江蘇
+  town: 蘇州市
+  cultivar: 東 西山羣體種
   picking: 芽葉
   brewing:
   - type: 蓋碗泡法
@@ -336,6 +338,11 @@
   type: 綠茶
   family: 炒青绿茶
   province: 中國貴州
+  town: 遵義市
+  elevation:
+    - 800
+    - 1300
+  cultivar: 當地中小葉品種
   picking: 芽葉
   brewing:
   - type: 蓋碗泡法
@@ -357,6 +364,13 @@
   type: 綠茶
   family: 烘青绿茶
   province: 中國安徽
+  town: 黃山區
+  elevation: 
+    - 400
+    - 800
+  culivar: 
+    - 黃山大葉種
+    - 祁門楮葉種
   picking: 一芽 一葉
   brewing:
   - type: 蓋碗泡法
@@ -383,6 +397,13 @@
   type: 綠茶
   family: 炒青绿茶
   province: 中國浙江
+  town: 杭州市西湖區龍井村
+  cultivar: 
+    - 龍井43
+    - 平陽特皁
+    - 浙農117
+    - 浙農139
+    - 烏牛早
   picking: 一芽 一葉
   brewing:
   - type: 蓋碗泡法
@@ -405,6 +426,11 @@
   type: 綠茶
   family: 炒青綠茶
   province: 中國貴州
+  town: 都勻市
+  elevation: 1000
+  cultivar:
+    - 都勻本地臺茶種
+    - 福鼎大白茶中小葉種
   picking: 一芽 一葉
   brewing:
   - type: 蓋碗泡法
@@ -427,6 +453,14 @@
   type: 綠茶
   family: 炒青綠茶
   province: 中國河南
+  town: 信陽市
+  elevation: 
+    - 300
+    - 800
+  cultivar:
+    - 信陽本地品種
+    - 福鼎大白茶
+    - 野生茶
   picking: 一芽 一葉
   brewing:
   - type: 蓋碗泡法
@@ -493,7 +527,12 @@
   type: 綠茶
   family: 烘青绿茶
   province: 中國安徽
-  picking: 一芽三葉
+  town: 黃山市黃山區
+  elevation: 
+    - 100
+    - 300
+  cultivar: 柿大茶
+  picking: 一芽二葉
   brewing:
   - type: 蓋碗泡法
     temperature:
@@ -519,6 +558,7 @@
   type: 綠茶
   family: 炒青綠茶
   province: 中國貴州
+  cultivar: 鳳岡鋅硒茶毛茶
   picking:
   - 一芽 二三葉
   brewing:
