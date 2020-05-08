@@ -1,11 +1,13 @@
 [
   {
     "zh": "廣東烏龍",
-    "pinyin": "Guǎngdōng WūLóng"
+    "pinyin": "Guǎngdōng WūLóng",
+    "fr": "Wulong de Canton"
   },
   {
     "zh": "閩南烏龍",
-    "pinyin": "MǐnNán WūLóng"
+    "pinyin": "MǐnNán WūLóng",
+    "fr": "sud du FuJian"
   },
   {
     "zh": "紅碎茶",
@@ -13,11 +15,13 @@
   },
   {
     "zh": "臺灣烏龍",
-    "pinyin": "TáiWān WūLóng"
+    "pinyin": "TáiWān WūLóng",
+    "fr": "Wulong de Taiwan"
   },
   {
     "zh": "閩北烏龍",
-    "pinyin": "MǐnBěi WūLóng"
+    "pinyin": "MǐnBěi WūLóng",
+    "fr": "Nord du FuJian"
   },
   {
     "zh": "小種紅茶",
@@ -25,7 +29,8 @@
   },
   {
     "zh": "工夫紅茶",
-    "pinyin": "GōngFū HóngChá"
+    "pinyin": "GōngFū HóngChá",
+    "fr": "thé rouge Kung Fu"
   },
   {
     "zh": "黃芽茶",
@@ -41,10 +46,12 @@
   },
   {
     "zh": "炒青绿茶",
-    "pinyin": "Chǎo Qīng LǜChá"
+    "pinyin": "Chǎo Qīng LǜChá",
+    "fr": "Séchage au wok"
   },
   {
     "zh": "烘青绿茶",
-    "pinyin": "Hōng Qīng Lǜchá"
+    "pinyin": "Hōng Qīng Lǜchá",
+    "fr": "Séchage au four"
   }
 ]

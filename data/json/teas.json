@@ -20,10 +20,6 @@
       300,
       1200
     ],
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -75,10 +71,6 @@
       "一芽 二葉"
     ],
     "elevation": null,
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -133,10 +125,6 @@
       400,
       900
     ],
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -190,7 +178,6 @@
       300,
       700
     ],
-    "fermentation": 10,
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -242,10 +229,6 @@
       50,
       63
     ],
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -282,10 +265,6 @@
       1000,
       1400
     ],
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -321,10 +300,6 @@
     "cultivar": "雲南大葉種",
     "picking": "一芽 二三葉",
     "elevation": null,
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -378,10 +353,6 @@
       "一芽四五葉"
     ],
     "elevation": 400,
-    "fermentation": [
-      10,
-      20
-    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -422,6 +393,8 @@
     "type": "綠茶",
     "family": "炒青绿茶",
     "province": "中國江蘇",
+    "town": "蘇州市",
+    "cultivar": "東 西山羣體種",
     "picking": "芽葉",
     "brewing": [
       {
@@ -449,7 +422,13 @@
     "type": "綠茶",
     "family": "炒青绿茶",
     "province": "中國貴州",
+    "town": "遵義市",
+    "cultivar": "當地中小葉品種",
     "picking": "芽葉",
+    "elevation": [
+      800,
+      1300
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -478,7 +457,16 @@
     "type": "綠茶",
     "family": "烘青绿茶",
     "province": "中國安徽",
+    "town": "黃山區",
+    "cultivar": [
+      "黃山大葉種",
+      "祁門楮葉種"
+    ],
     "picking": "一芽 一葉",
+    "elevation": [
+      400,
+      800
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -514,6 +502,14 @@
     "type": "綠茶",
     "family": "炒青绿茶",
     "province": "中國浙江",
+    "town": "杭州市西湖區龍井村",
+    "cultivar": [
+      "龍井43",
+      "平陽特皁",
+      "浙農117",
+      "浙農139",
+      "烏牛早"
+    ],
     "picking": "一芽 一葉",
     "brewing": [
       {
@@ -544,7 +540,13 @@
     "type": "綠茶",
     "family": "炒青綠茶",
     "province": "中國貴州",
+    "town": "都勻市",
+    "cultivar": [
+      "都勻本地臺茶種",
+      "福鼎大白茶中小葉種"
+    ],
     "picking": "一芽 一葉",
+    "elevation": 1000,
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -574,7 +576,17 @@
     "type": "綠茶",
     "family": "炒青綠茶",
     "province": "中國河南",
+    "town": "信陽市",
+    "cultivar": [
+      "信陽本地品種",
+      "福鼎大白茶",
+      "野生茶"
+    ],
     "picking": "一芽 一葉",
+    "elevation": [
+      300,
+      800
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -664,7 +676,13 @@
     "type": "綠茶",
     "family": "烘青绿茶",
     "province": "中國安徽",
-    "picking": "一芽三葉",
+    "town": "黃山市黃山區",
+    "cultivar": "柿大茶",
+    "picking": "一芽二葉",
+    "elevation": [
+      100,
+      300
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -700,6 +718,7 @@
     "type": "綠茶",
     "family": "炒青綠茶",
     "province": "中國貴州",
+    "cultivar": "鳳岡鋅硒茶毛茶",
     "picking": [
       "一芽 二三葉"
     ],
@@ -807,10 +826,6 @@
     "province": "臺灣",
     "cultivar": "四季春",
     "picking": "一芽 二葉",
-    "fermentation": [
-      20,
-      25
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -860,10 +875,6 @@
     "province": "臺灣",
     "cultivar": "金萱",
     "picking": "一芽 二葉",
-    "fermentation": [
-      20,
-      25
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -924,10 +935,6 @@
       400,
       600
     ],
-    "fermentation": [
-      12,
-      15
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -983,10 +990,6 @@
     ],
     "picking": "一芽 二葉",
     "elevation": 1000,
-    "fermentation": [
-      15,
-      20
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1056,7 +1059,6 @@
       200,
       500
     ],
-    "fermentation": 40,
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1121,10 +1123,6 @@
     "elevation": [
       600,
       800
-    ],
-    "fermentation": [
-      25,
-      30
     ],
     "brewing": [
       {
@@ -1195,10 +1193,6 @@
       300,
       500
     ],
-    "fermentation": [
-      60,
-      75
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1263,7 +1257,6 @@
       200,
       300
     ],
-    "fermentation": 70,
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1301,10 +1294,6 @@
     "elevation": [
       200,
       300
-    ],
-    "fermentation": [
-      35,
-      45
     ],
     "brewing": [
       {
@@ -1344,10 +1333,6 @@
       200,
       300
     ],
-    "fermentation": [
-      35,
-      45
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1384,10 +1369,6 @@
     "elevation": [
       500,
       1100
-    ],
-    "fermentation": [
-      70,
-      80
     ],
     "brewing": [
       {
@@ -1451,10 +1432,6 @@
     "elevation": [
       300,
       1600
-    ],
-    "fermentation": [
-      20,
-      50
     ],
     "brewing": [
       {
@@ -1522,10 +1499,6 @@
       300,
       1600
     ],
-    "fermentation": [
-      20,
-      50
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1588,10 +1561,6 @@
     "elevation": [
       300,
       1600
-    ],
-    "fermentation": [
-      20,
-      50
     ],
     "brewing": [
       {
@@ -1656,10 +1625,6 @@
       300,
       1600
     ],
-    "fermentation": [
-      20,
-      50
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1722,10 +1687,6 @@
       500,
       800
     ],
-    "fermentation": [
-      5,
-      10
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1782,10 +1743,6 @@
       500,
       800
     ],
-    "fermentation": [
-      5,
-      10
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1834,10 +1791,6 @@
     "cultivar": "景谷大白茶",
     "picking": "一芽 二葉",
     "elevation": 1600,
-    "fermentation": [
-      5,
-      10
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1898,10 +1851,6 @@
       500,
       800
     ],
-    "fermentation": [
-      5,
-      10
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1941,10 +1890,6 @@
     "province": "中國雲南",
     "cultivar": "雲南大白茶",
     "picking": "一芽 二三葉",
-    "fermentation": [
-      5,
-      10
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1980,10 +1925,6 @@
     "cultivar": "小菜茶羣體種",
     "picking": "一芽 二三葉",
     "elevation": 1100,
-    "fermentation": [
-      80,
-      95
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -2020,10 +1961,6 @@
     "elevation": [
       100,
       350
-    ],
-    "fermentation": [
-      80,
-      95
     ],
     "brewing": [
       {
@@ -2082,10 +2019,6 @@
       300,
       1000
     ],
-    "fermentation": [
-      80,
-      95
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -2136,10 +2069,6 @@
     "elevation": [
       1000,
       1200
-    ],
-    "fermentation": [
-      80,
-      95
     ],
     "brewing": [
       {
@@ -2226,10 +2155,6 @@
       "一芽二三葉"
     ],
     "elevation": 1000,
-    "fermentation": [
-      80,
-      90
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -2273,7 +2198,6 @@
       1000,
       1500
     ],
-    "fermentation": 99,
     "brewing": [
       {
         "type": "煮泡法",
@@ -2312,7 +2236,7 @@
       600,
       1400
     ],
-    "post-fermentation": true,
+    "fermentation": true,
     "brewing": [
       {
         "type": "煮泡法",
@@ -2351,7 +2275,7 @@
       100,
       800
     ],
-    "post-fermentation": true,
+    "fermentation": true,
     "brewing": [
       {
         "type": "煮泡法",
@@ -2364,6 +2288,45 @@
           600
         ],
         "times": 1
+      }
+    ]
+  },
+  {
+    "zh": "熟普洱",
+    "pinyin": "Shú pǔ'ěr",
+    "type": "黑茶",
+    "family": "普洱茶",
+    "harvest": 0,
+    "province": "中國雲南",
+    "town": [
+      "勐腊",
+      "勐海",
+      "臨滄"
+    ],
+    "cultivar": 0,
+    "picking": 0,
+    "elevation": 0,
+    "brewing": [
+      {
+        "type": "茶壺泡法",
+        "temperature": [
+          95,
+          100
+        ],
+        "quantity": "1:30",
+        "duration": [
+          10,
+          15,
+          20,
+          25,
+          30,
+          35,
+          40
+        ],
+        "times": [
+          10,
+          40
+        ]
       }
     ]
   }

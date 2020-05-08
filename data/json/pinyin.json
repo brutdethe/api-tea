@@ -180,6 +180,21 @@
     "theme": "towns"
   },
   {
+    "zh": "勐腊",
+    "pinyin": "Měnglà",
+    "theme": "towns"
+  },
+  {
+    "zh": "勐海",
+    "pinyin": "Měnghǎi",
+    "theme": "towns"
+  },
+  {
+    "zh": "臨滄",
+    "pinyin": "Líncāng",
+    "theme": "towns"
+  },
+  {
     "zh": "鐵觀音",
     "pinyin": "TiěGuānYīn",
     "theme": "cultivars"
@@ -330,8 +345,8 @@
     "theme": "cultivars"
   },
   {
-    "zh": "青心烏龍, 金萱, 翠玉",
-    "pinyin": "Qīngxīn wūlóng, jīnxuān, cuìyù",
+    "zh": "金萱",
+    "pinyin": "JīnXuān",
     "theme": "cultivars"
   },
   {
@@ -667,6 +682,11 @@
   {
     "zh": "青磚茶",
     "pinyin": "QīngZhuān Chá",
+    "theme": "teas"
+  },
+  {
+    "zh": "熟普洱",
+    "pinyin": "Shú pǔ'ěr",
     "theme": "teas"
   },
   {
