@@ -108,6 +108,10 @@
     "pinyin": "PíngYáng TèSè Qún Tǐ PǐnZhǒng"
   },
   {
+    "zh": "當地特色羣體品種",
+    "pinyin": "DāngDì TèSè Qún Tǐ PǐnZhǒng"
+  },
+  {
     "zh": "霍山金雞種",
     "pinyin": "Huòshān jīnjī zhǒng"
   },
@@ -144,7 +148,7 @@
     "pinyin": "FèngGāng Xīn Xī Chá Máochá"
   },
   {
-    "zh": "都勻本地台茶種",
+    "zh": "都勻本地臺茶種",
     "pinyin": "Dū Yún BěnDì Tái Chá Zhǒng"
   },
   {
@@ -182,5 +186,25 @@
   {
     "zh": "烏牛早",
     "pinyin": "Wū Niú Zǎo"
+  },
+  {
+    "zh": "柿大茶",
+    "pinyin": "Shì Dà Chá"
+  },
+  {
+    "zh": "當地羣體種",
+    "pinyin": "DāngDì Qún Tǐ Zhǒng"
+  },
+  {
+    "zh": "雲臺山大葉種",
+    "pinyin": "Yún TáiShān DàYè Zhòng"
+  },
+  {
+    "zh": "楮葉齊",
+    "pinyin": "Chǔ Yè Qí"
+  },
+  {
+    "zh": "廣西大中葉種",
+    "pinyin": "GuǎngXī Dà ZhōngYè Zhòng"
   }
 ]

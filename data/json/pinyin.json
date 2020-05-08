@@ -355,6 +355,11 @@
     "theme": "cultivars"
   },
   {
+    "zh": "當地特色羣體品種",
+    "pinyin": "DāngDì TèSè Qún Tǐ PǐnZhǒng",
+    "theme": "cultivars"
+  },
+  {
     "zh": "霍山金雞種",
     "pinyin": "Huòshān jīnjī zhǒng",
     "theme": "cultivars"
@@ -400,7 +405,7 @@
     "theme": "cultivars"
   },
   {
-    "zh": "都勻本地台茶種",
+    "zh": "都勻本地臺茶種",
     "pinyin": "Dū Yún BěnDì Tái Chá Zhǒng",
     "theme": "cultivars"
   },
@@ -447,6 +452,31 @@
   {
     "zh": "烏牛早",
     "pinyin": "Wū Niú Zǎo",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "柿大茶",
+    "pinyin": "Shì Dà Chá",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "當地羣體種",
+    "pinyin": "DāngDì Qún Tǐ Zhǒng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "雲臺山大葉種",
+    "pinyin": "Yún TáiShān DàYè Zhòng",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "楮葉齊",
+    "pinyin": "Chǔ Yè Qí",
+    "theme": "cultivars"
+  },
+  {
+    "zh": "廣西大中葉種",
+    "pinyin": "GuǎngXī Dà ZhōngYè Zhòng",
     "theme": "cultivars"
   },
   {
