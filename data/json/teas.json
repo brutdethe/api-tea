@@ -20,6 +20,10 @@
       300,
       1200
     ],
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -71,6 +75,10 @@
       "一芽 二葉"
     ],
     "elevation": null,
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -125,6 +133,10 @@
       400,
       900
     ],
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -178,6 +190,7 @@
       300,
       700
     ],
+    "oxidation": 10,
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -229,6 +242,10 @@
       50,
       63
     ],
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -265,6 +282,10 @@
       1000,
       1400
     ],
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -300,6 +321,10 @@
     "cultivar": "雲南大葉種",
     "picking": "一芽 二三葉",
     "elevation": null,
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -353,6 +378,10 @@
       "一芽四五葉"
     ],
     "elevation": 400,
+    "oxidation": [
+      10,
+      20
+    ],
     "brewing": [
       {
         "type": "茶杯泡法",
@@ -826,6 +855,10 @@
     "province": "臺灣",
     "cultivar": "四季春",
     "picking": "一芽 二葉",
+    "oxidation": [
+      20,
+      25
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -875,6 +908,10 @@
     "province": "臺灣",
     "cultivar": "金萱",
     "picking": "一芽 二葉",
+    "oxidation": [
+      20,
+      25
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -935,6 +972,10 @@
       400,
       600
     ],
+    "oxidation": [
+      12,
+      15
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -990,6 +1031,10 @@
     ],
     "picking": "一芽 二葉",
     "elevation": 1000,
+    "oxidation": [
+      15,
+      20
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1059,6 +1104,7 @@
       200,
       500
     ],
+    "oxidation": 40,
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1123,6 +1169,10 @@
     "elevation": [
       600,
       800
+    ],
+    "oxidation": [
+      25,
+      30
     ],
     "brewing": [
       {
@@ -1193,6 +1243,10 @@
       300,
       500
     ],
+    "oxidation": [
+      60,
+      75
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1257,6 +1311,7 @@
       200,
       300
     ],
+    "oxidation": 70,
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1294,6 +1349,10 @@
     "elevation": [
       200,
       300
+    ],
+    "oxidation": [
+      35,
+      45
     ],
     "brewing": [
       {
@@ -1333,6 +1392,10 @@
       200,
       300
     ],
+    "oxidation": [
+      35,
+      45
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1369,6 +1432,10 @@
     "elevation": [
       500,
       1100
+    ],
+    "oxidation": [
+      70,
+      80
     ],
     "brewing": [
       {
@@ -1432,6 +1499,10 @@
     "elevation": [
       300,
       1600
+    ],
+    "oxidation": [
+      20,
+      50
     ],
     "brewing": [
       {
@@ -1499,6 +1570,10 @@
       300,
       1600
     ],
+    "oxidation": [
+      20,
+      50
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1561,6 +1636,10 @@
     "elevation": [
       300,
       1600
+    ],
+    "oxidation": [
+      20,
+      50
     ],
     "brewing": [
       {
@@ -1625,6 +1704,10 @@
       300,
       1600
     ],
+    "oxidation": [
+      20,
+      50
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1687,6 +1770,10 @@
       500,
       800
     ],
+    "oxidation": [
+      5,
+      10
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1743,6 +1830,10 @@
       500,
       800
     ],
+    "oxidation": [
+      5,
+      10
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1791,6 +1882,10 @@
     "cultivar": "景谷大白茶",
     "picking": "一芽 二葉",
     "elevation": 1600,
+    "oxidation": [
+      5,
+      10
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1851,6 +1946,10 @@
       500,
       800
     ],
+    "oxidation": [
+      5,
+      10
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1890,6 +1989,10 @@
     "province": "中國雲南",
     "cultivar": "雲南大白茶",
     "picking": "一芽 二三葉",
+    "oxidation": [
+      5,
+      10
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1925,6 +2028,10 @@
     "cultivar": "小菜茶羣體種",
     "picking": "一芽 二三葉",
     "elevation": 1100,
+    "oxidation": [
+      80,
+      95
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -1961,6 +2068,10 @@
     "elevation": [
       100,
       350
+    ],
+    "oxidation": [
+      80,
+      95
     ],
     "brewing": [
       {
@@ -2019,6 +2130,10 @@
       300,
       1000
     ],
+    "oxidation": [
+      80,
+      95
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -2069,6 +2184,10 @@
     "elevation": [
       1000,
       1200
+    ],
+    "oxidation": [
+      80,
+      95
     ],
     "brewing": [
       {
@@ -2155,6 +2274,10 @@
       "一芽二三葉"
     ],
     "elevation": 1000,
+    "oxidation": [
+      80,
+      90
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -2198,6 +2321,7 @@
       1000,
       1500
     ],
+    "oxidation": 99,
     "brewing": [
       {
         "type": "煮泡法",
@@ -2306,6 +2430,7 @@
     "cultivar": 0,
     "picking": 0,
     "elevation": 0,
+    "oxidation": 100,
     "brewing": [
       {
         "type": "茶壺泡法",
