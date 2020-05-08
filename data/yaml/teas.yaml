@@ -137,8 +137,7 @@
   province: 中國安徽
   town: 霍山
   cultivar: 霍山金雞種
-  picking:
-  - 一芽 一二葉
+  picking: 一芽 一二葉
   elevation:
   - 300
   - 700
@@ -207,7 +206,8 @@
   town: 雅安蒙山
   cultivar: 當地品種
   picking:
-  - 單芽，芽葉
+  - 單芽
+  - 芽葉
   elevation:
   - 1000
   - 1400
@@ -400,7 +400,7 @@
   town: 杭州市西湖區龍井村
   cultivar: 
   - 龍井43
-  - 平陽特皁
+  - 平陽特皂
   - 浙農117
   - 浙農139
   - 烏牛早
@@ -586,8 +586,7 @@
   type: 綠茶
   family: 炒青绿茶
   province: 中國浙江
-  picking:
-  - 一芽 二三葉
+  picking: 一芽 二三葉
   brewing:
   - type: 蓋碗泡法
     temperature: 90
@@ -933,7 +932,7 @@
   - 北埔，公館
   cultivar:
   - 青心大某
-  - 青心乌龙
+  - 青心烏龍
   - 白毛猴
   picking: 一芽 一葉
   elevation:
