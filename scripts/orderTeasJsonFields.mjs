@@ -19,8 +19,8 @@ const fields = [
     'cultivar',
     'picking',
     'elevation',
+    'oxidation',
     'fermentation',
-    'post-fermentation',
     'brewing'
 ]
 
