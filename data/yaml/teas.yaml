@@ -1795,3 +1795,35 @@
     - 300
     - 600
     times: 1
+    
+- zh: 熟普洱
+  pinyin: Shú pǔ'ěr
+  type: 黑茶
+  family: 普洱茶
+  harvest: 0
+  province: 中國雲南
+  town:
+  - 勐腊
+  - 勐海
+  - 臨滄
+  cultivar: 0
+  picking: 0
+  elevation: 0
+  fermentation: 100
+  brewing:
+  - type: 茶壺泡法
+    temperature:
+    - 95
+    - 100
+    quantity: '1:30'
+    duration:
+    - 10
+    - 15
+    - 20
+    - 25
+    - 30
+    - 35
+    - 40
+    times:
+    - 10
+    - 40
