@@ -1,4 +1,5 @@
 import fs from 'fs'
+import path from 'path'
 import yaml from 'js-yaml'
 
 /* SETTINGS */
@@ -8,6 +9,14 @@ const settings = readYAML('./scripts/_settings.yaml')
 settings.yamlNames = Object.keys(settings.yamlFiles).map(
     yamlKey => settings.yamlFiles[yamlKey].name
 )
+
+const getPath = (name, format) =>
+    path.format({
+        root: process.cwd(),
+        dir: `data/${format}`,
+        name: name,
+        ext: `.${format}`
+    })
 
 /* IO */
 
@@ -51,4 +60,4 @@ function welcome(message) {
     console.log('-'.repeat(message.length + 4))
 }
 
-export { settings, readJSON, writeJSON, readYAML, welcome }
+export { settings, getPath, readJSON, writeJSON, readYAML, welcome }

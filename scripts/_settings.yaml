@@ -35,3 +35,14 @@ yamlFiles:
     name: brewing-types
   themes:
     name: themes
+
+themes:
+  - brewing-types
+  - families
+  - picking
+  - towns
+  - cultivars
+  - harvests
+  - provinces
+  - teas
+  - types
