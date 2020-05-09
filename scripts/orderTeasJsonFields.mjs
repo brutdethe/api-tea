@@ -1,5 +1,8 @@
 import fs from 'fs'
 import path from 'path'
+import { settings } from './_lib'
+
+const yamlFields = settings.yamlFiles.teas.fields
 
 const jsonFile = path.format({
     root: process.cwd(),
@@ -8,27 +11,11 @@ const jsonFile = path.format({
     ext: '.json'
 })
 
-const fields = [
-    'zh',
-    'pinyin',
-    'type',
-    'family',
-    'harvest',
-    'province',
-    'town',
-    'cultivar',
-    'picking',
-    'elevation',
-    'oxidation',
-    'fermentation',
-    'brewing'
-]
-
 const jsonContent = readJSON(jsonFile)
 
 const classifyItems = jsonContent.map(item => {
     const classifyItem = {}
-    fields.forEach(field => (classifyItem[field] = item[field]))
+    yamlFields.forEach(field => (classifyItem[field] = item[field]))
     return classifyItem
 })
 

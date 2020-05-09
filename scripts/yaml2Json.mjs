@@ -1,19 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import yaml from 'js-yaml'
-
-const names = [
-    'teas',
-    'types',
-    'families',
-    'harvests',
-    'cultivars',
-    'provinces',
-    'towns',
-    'picking',
-    'brewing-types',
-    'themes'
-]
+import { settings } from './_lib'
 
 const getFilePaths = name => ({
     yamlFile: path.format({
@@ -30,7 +18,7 @@ const getFilePaths = name => ({
     })
 })
 
-names.forEach(name => convertYamlToJson(getFilePaths(name)))
+settings.yamlNames.forEach(name => convertYamlToJson(getFilePaths(name)))
 
 function convertYamlToJson({ yamlFile, jsonFile }) {
     try {

@@ -1,0 +1,37 @@
+# List of Yaml data
+
+yamlFiles:
+  teas:
+    name: teas
+    fields:
+      - zh
+      - pinyin
+      - type
+      - family
+      - harvest
+      - province
+      - town
+      - cultivar
+      - picking
+      - elevation
+      - oxidation
+      - fermentation
+      - brewing
+  types:
+    name: types
+  families:
+    name: families
+  harvest:
+    name: harvests
+  cultivars:
+    name: cultivars
+  provinces:
+    name: provinces
+  towns:
+    name: towns
+  picking:
+    name: picking
+  brewing-types:
+    name: brewing-types
+  themes:
+    name: themes
