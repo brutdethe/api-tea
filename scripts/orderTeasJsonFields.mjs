@@ -1,6 +1,8 @@
 import fs from 'fs'
 import path from 'path'
-import { settings } from './_lib'
+import { settings, readJSON, writeJSON, welcome } from './_lib'
+
+welcome("Order tea's field")
 
 const yamlFields = settings.yamlFiles.teas.fields
 
@@ -20,20 +22,3 @@ const classifyItems = jsonContent.map(item => {
 })
 
 writeJSON(jsonFile, classifyItems)
-
-function readJSON(jsonFile) {
-    try {
-        return JSON.parse(fs.readFileSync(jsonFile, 'utf8'))
-    } catch (e) {
-        console.log(`${jsonFile} error:`, e)
-    }
-}
-
-function writeJSON(jsonFile, content) {
-    try {
-        fs.writeFileSync(jsonFile, JSON.stringify(content, null, 2), 'utf8')
-        console.info('save', jsonFile)
-    } catch (e) {
-        console.log(`${jsonFile} error:`, e)
-    }
-}

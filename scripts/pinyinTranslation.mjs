@@ -1,6 +1,9 @@
 import path from 'path'
 import fs from 'fs'
 import yaml from 'js-yaml'
+import { writeJSON, readYAML, welcome } from './_lib'
+
+welcome('Group all chinese terms and his pinyin')
 
 const themes = [
     'brewing-types',
@@ -30,33 +33,13 @@ const getJsonPath = name =>
         ext: '.json'
     })
 
-writeJSON(
-    getJsonPath('pinyin'),
-    themes.flatMap(theme => {
-        try {
-            const items = yaml.safeLoad(
-                fs.readFileSync(getYamlPath(theme)),
-                'utf8'
-            )
-            return items.map(item => ({
-                zh: item.zh,
-                pinyin: item.pinyin,
-                theme: theme
-            }))
-        } catch (e) {
-            console.log(`${jsonFile} error:`, e)
-        }
-    })
-)
+const createPinyinItems = themes =>
+    themes.flatMap(theme =>
+        readYAML(getYamlPath(theme)).map(item => ({
+            zh: item.zh,
+            pinyin: item.pinyin,
+            theme: theme
+        }))
+    )
 
-function writeJSON(jsonFile, content) {
-    try {
-        if (!fs.existsSync('data/json')) {
-            fs.mkdirSync('data/json', { recursive: true })
-        }
-        fs.writeFileSync(jsonFile, JSON.stringify(content, null, 2), 'utf8')
-        console.info('save', jsonFile)
-    } catch (e) {
-        console.log(`${jsonFile} error:`, e)
-    }
-}
+writeJSON(getJsonPath('pinyin'), createPinyinItems(themes))
