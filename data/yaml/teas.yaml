@@ -1,4 +1,3 @@
-
 - zh: 平陽黃湯
   pinyin: PíngYáng HuángTāng
   type: 黃茶
@@ -6,44 +5,44 @@
   harvest: 春季
   province: 中國浙江
   town:
-  - 平陽
-  - 泰順
-  - 瑞安
+    - 平陽
+    - 泰順
+    - 瑞安
   cultivar: 平陽特色羣體品種
   picking:
-  - 一芽 一葉
-  - 一芽 二葉
+    - 一芽 一葉
+    - 一芽 二葉
   elevation:
-  - 300
-  - 1200
+    - 300
+    - 1200
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
-  - type: 蓋碗泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:30'
-    duration:
-    - 30
-    - 60
-    - 120
-    times:
-    - 3
-    - 4
+    - type: 茶杯泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
+    - type: 蓋碗泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:30'
+      duration:
+        - 30
+        - 60
+        - 120
+      times:
+        - 3
+        - 4
 
 - zh: 北港毛尖
   pinyin: BěiGǎng MáoJiān
@@ -54,37 +53,37 @@
   town: 岳陽
   cultivar: 當地特色羣體品種
   picking:
-  - 一芽 一葉
-  - 一芽 二葉
-  elevation: 
+    - 一芽 一葉
+    - 一芽 二葉
+  elevation:
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
-  - type: 蓋碗泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:30'
-    duration:
-    - 30
-    - 60
-    - 120
-    times:
-    - 3
-    - 4
+    - type: 茶杯泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
+    - type: 蓋碗泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:30'
+      duration:
+        - 30
+        - 60
+        - 120
+      times:
+        - 3
+        - 4
 
 - zh: 溈山毛尖
   pinyin: WéiShān MáoJiān
@@ -95,39 +94,39 @@
   town: 寧鄉縣
   cultivar: 當地特色羣體品種
   picking:
-  - 一芽 一葉
-  - 一芽 二三葉
+    - 一芽 一葉
+    - 一芽 二三葉
   elevation:
-  - 400
-  - 900
+    - 400
+    - 900
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
-  - type: 蓋碗泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:30'
-    duration:
-    - 30
-    - 60
-    - 120
-    times:
-    - 3
-    - 4
+    - type: 茶杯泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
+    - type: 蓋碗泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:30'
+      duration:
+        - 30
+        - 60
+        - 120
+      times:
+        - 3
+        - 4
 
 - zh: 霍山黃芽
   pinyin: HuòShān HuángYá
@@ -139,34 +138,34 @@
   cultivar: 霍山金雞種
   picking: 一芽 一二葉
   elevation:
-  - 300
-  - 700
+    - 300
+    - 700
   oxidation: 10
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 75
-    - 80
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
-  - type: 蓋碗泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:30'
-    duration:
-    - 30
-    - 60
-    - 120
-    times:
-    - 3
-    - 4
+    - type: 茶杯泡法
+      temperature:
+        - 75
+        - 80
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:30'
+      duration:
+        - 30
+        - 60
+        - 120
+      times:
+        - 3
+        - 4
 
 - zh: 君山銀針
   pinyin: JūnShān YínZhēn
@@ -178,24 +177,24 @@
   cultivar: 當地品種
   picking: 芽葉
   elevation:
-  - 50
-  - 63
+    - 50
+    - 63
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 75
-    - 80
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
+    - type: 茶杯泡法
+      temperature:
+        - 75
+        - 80
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
 
 - zh: 蒙頂黃芽
   pinyin: MéngDǐng HuángYá
@@ -206,27 +205,27 @@
   town: 雅安蒙山
   cultivar: 當地品種
   picking:
-  - 單芽
-  - 芽葉
+    - 單芽
+    - 芽葉
   elevation:
-  - 1000
-  - 1400
+    - 1000
+    - 1400
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 75
-    - 80
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
+    - type: 茶杯泡法
+      temperature:
+        - 75
+        - 80
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
 
 - zh: 廣東大葉青
   pinyin: GuǎngDōng DàyèQīng
@@ -235,38 +234,38 @@
   harvest: 春季
   province: 中國廣東
   town:
-  - 韶關
-  - 肇慶
-  - 湛江
+    - 韶關
+    - 肇慶
+    - 湛江
   cultivar: 雲南大葉種
   picking: 一芽 二三葉
-  elevation: 
+  elevation:
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:30'
-    duration:
-    - 30
-    - 60
-    - 120
-    times:
-    - 3
-    - 4
+    - type: 茶杯泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:30'
+      duration:
+        - 30
+        - 60
+        - 120
+      times:
+        - 3
+        - 4
 
 - zh: 霍山黃大茶
   pinyin: HuòShān HuángDàChá
@@ -275,41 +274,41 @@
   harvest: 春季
   province: 中國安徽
   town:
-  - 霍山
-  - 金寨
-  - 大安
-  - 岳西
+    - 霍山
+    - 金寨
+    - 大安
+    - 岳西
   cultivar: 當地品種
   picking:
-  - 一芽 二三葉
-  - 一芽 四五葉
+    - 一芽 二三葉
+    - 一芽 四五葉
   elevation: 400
   oxidation:
-  - 10
-  - 20
+    - 10
+    - 20
   brewing:
-  - type: 茶杯泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:50'
-    duration:
-    - 90
-    - 120
-    - 180
-    times:
-    - 2
-    - 3
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:30'
-    duration:
-    - 30
-    - 60
-    - 120
-    times:
-    - 3
-    - 4
+    - type: 茶杯泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:50'
+      duration:
+        - 90
+        - 120
+        - 180
+      times:
+        - 2
+        - 3
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:30'
+      duration:
+        - 30
+        - 60
+        - 120
+      times:
+        - 3
+        - 4
 
 - zh: 碧螺春
   pinyin: BìLuóChūn
@@ -320,18 +319,18 @@
   cultivar: 東西山羣體種
   picking: 芽葉
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:30'
-    duration:
-    - 25
-    - 30
-    - 45
-    times:
-    - 2
-    - 5
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:30'
+      duration:
+        - 25
+        - 30
+        - 45
+      times:
+        - 2
+        - 5
 
 - zh: 湄潭翠芽
   pinyin: MéiTánCuìYá
@@ -340,24 +339,24 @@
   province: 中國貴州
   town: 遵義市
   elevation:
-  - 800
-  - 1300
+    - 800
+    - 1300
   cultivar: 當地中小葉品種
   picking: 芽葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 80
-    quantity: '1:30'
-    duration:
-    - 25
-    - 30
-    - 45
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 80
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 80
+      quantity: '1:30'
+      duration:
+        - 25
+        - 30
+        - 45
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 80
+      quantity: '1:50'
 
 - zh: 黄山毛峰
   pinyin: HuángShān MáoFēng
@@ -365,33 +364,33 @@
   family: 烘青绿茶
   province: 中國安徽
   town: 黃山區
-  elevation: 
-  - 400
-  - 800
-  cultivar: 
-  - 黃山大葉種
-  - 祁門楮葉種
-  - 其他外地引進品種
+  elevation:
+    - 400
+    - 800
+  cultivar:
+    - 黃山大葉種
+    - 祁門楮葉種
+    - 其他外地引進品種
   picking: 一芽 一葉
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 80
-    - 90
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature:
-    - 80
-    - 90
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 90
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature:
+        - 80
+        - 90
+      quantity: '1:50'
 
 - zh: 龍井茶
   pinyin: LóngJǐng
@@ -399,28 +398,28 @@
   family: 炒青绿茶
   province: 中國浙江
   town: 杭州市西湖區龍井村
-  cultivar: 
-  - 龍井43
-  - 平陽特皂
-  - 浙農117
-  - 浙農139
-  - 烏牛早
+  cultivar:
+    - 龍井43
+    - 平陽特皂
+    - 浙農117
+    - 浙農139
+    - 烏牛早
   picking: 一芽 一葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 85
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 85
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 85
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 85
+      quantity: '1:50'
 
 - zh: 都勻毛尖
   pinyin: DūYún MáoJiān
@@ -430,24 +429,24 @@
   town: 都勻市
   elevation: 1000
   cultivar:
-  - 都勻本地臺茶種
-  - 福鼎大白茶中小葉種
+    - 都勻本地臺茶種
+    - 福鼎大白茶中小葉種
   picking: 一芽 一葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 80
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 80
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 80
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 80
+      quantity: '1:50'
 
 - zh: 信阳毛尖
   pinyin: XìnYáng MáoJiān
@@ -455,29 +454,29 @@
   family: 炒青綠茶
   province: 中國河南
   town: 信陽市
-  elevation: 
-  - 300
-  - 800
+  elevation:
+    - 300
+    - 800
   cultivar:
-  - 信陽本地品種
-  - 福鼎大白茶
-  - 野生茶
+    - 信陽本地品種
+    - 福鼎大白茶
+    - 野生茶
   picking: 一芽 一葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 80
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 80
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 80
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 80
+      quantity: '1:50'
 
 - zh: 竹葉青
   pinyin: ZhúYèGīng
@@ -487,20 +486,20 @@
   town: 峨眉山
   picking: 一芽 一葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 85
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 85
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 85
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 85
+      quantity: '1:50'
 
 - zh: 頂谷大方
   pinyin: DǐngGǔDàFāng
@@ -508,23 +507,23 @@
   family: 炒青绿茶
   province: 中國安徽
   town: 歙縣
-  elevation: 1300 
+  elevation: 1300
   picking: 一芽 二葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 80
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 80
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 80
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 80
+      quantity: '1:50'
 
 - zh: 太平猴魁
   pinyin: TàiPíng HóuKuí
@@ -532,30 +531,30 @@
   family: 烘青绿茶
   province: 中國安徽
   town: 黃山市黃山區
-  elevation: 
+  elevation:
     - 100
     - 300
   cultivar: 柿大茶
   picking: 一芽 二葉
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 80
-    - 90
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature:
-    - 80
-    - 90
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 90
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature:
+        - 80
+        - 90
+      quantity: '1:50'
 
 - zh: 綠寶石
   pinyin: LǜBǎoShí
@@ -564,26 +563,26 @@
   province: 中國貴州
   cultivar: 鳳岡鋅硒茶毛茶
   picking:
-  - 一芽 二三葉
+    - 一芽 二三葉
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature:
-    - 80
-    - 85
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:50'
 
 - zh: 珠茶
   pinyin: ZhūChá
@@ -592,20 +591,20 @@
   province: 中國浙江
   picking: 一芽 二三葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 90
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 90
+      quantity: '1:50'
 
 - zh: 六安瓜片
   pinyin: LiùĀn GuāPiàn
@@ -616,329 +615,329 @@
   elevation:
     - 100
     - 300
-  cultivar: 
+  cultivar:
     - 獨山小葉種
     - 齊山中葉種
     - 外地引進品種
   picking: 單壯葉
   brewing:
-  - type: 蓋碗泡法
-    temperature: 85
-    quantity: '1:30'
-    duration:
-    - 20
-    - 30
-    - 40
-    - 60
-    times:
-    - 2
-    - 5
-  - type: 茶杯泡法
-    temperature: 85
-    quantity: '1:50'
+    - type: 蓋碗泡法
+      temperature: 85
+      quantity: '1:30'
+      duration:
+        - 20
+        - 30
+        - 40
+        - 60
+      times:
+        - 2
+        - 5
+    - type: 茶杯泡法
+      temperature: 85
+      quantity: '1:50'
 
 - zh: 四季春
   pinyin: SìJìChūn
   type: 青茶
   family: 臺灣烏龍
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 臺灣
   town: 南投
   elevation: 400
   cultivar: 四季春
   picking: 一芽 二葉
   oxidation:
-  - 20
-  - 25
+    - 20
+    - 25
   brewing:
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 60
-    times:
-    - 4
-    - 6
-  - type: 小壺泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40，60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 60
+      times:
+        - 4
+        - 6
+    - type: 小壺泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40，60
+      times:
+        - 4
+        - 6
 
 - zh: 金萱
   pinyin: Jīn Xuān
   type: 青茶
   family: 臺灣烏龍
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 臺灣
   town: 0
   elevation: 0
   cultivar: 金萱
   picking: 一芽 二葉
   oxidation:
-  - 20
-  - 25
+    - 20
+    - 25
   brewing:
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 60
-    times:
-    - 4
-    - 6
-  - type: 小壺泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 60
+      times:
+        - 4
+        - 6
+    - type: 小壺泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 60
+      times:
+        - 4
+        - 6
 
 - zh: 文山包種
   pinyin: WénShān BāoZhǒng
   type: 青茶
   family: 臺灣烏龍
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 臺灣臺北
   town: 文山區
   cultivar:
-  - 青心烏龍
-  - 金萱
-  - 翠玉
-  - 四季春
+    - 青心烏龍
+    - 金萱
+    - 翠玉
+    - 四季春
   picking: 一芽 二葉
   elevation:
-  - 400
-  - 600
+    - 400
+    - 600
   oxidation:
-  - 12
-  - 15
+    - 12
+    - 15
   brewing:
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 60
-    times:
-    - 4
-    - 6
-  - type: 小壺泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 60
+      times:
+        - 4
+        - 6
+    - type: 小壺泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 60
+      times:
+        - 4
+        - 6
 
 - zh: 高山茶
   pinyin: GāoShānChá
   type: 青茶
   family: 臺灣烏龍
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 臺灣
   town: 0
   cultivar:
-  - 青心烏龍
-  - 金萱
-  - 翠玉
+    - 青心烏龍
+    - 金萱
+    - 翠玉
   picking: 一芽 二葉
-  elevation: 
+  elevation:
     - 1000
     - 2500
   oxidation:
-  - 15
-  - 20
+    - 15
+    - 20
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 20
-    - 15
-    - 20
-    - 25
-    - 35
-    - 45
-    - 60
-    - 90
-    times:
-    - 4
-    - 8
-  - type: 小壺泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 20
-    - 15
-    - 20
-    - 25
-    - 35
-    - 45
-    - 60
-    - 90
-    times:
-    - 4
-    - 8
+    - type: 蓋碗泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 20
+        - 15
+        - 20
+        - 25
+        - 35
+        - 45
+        - 60
+        - 90
+      times:
+        - 4
+        - 8
+    - type: 小壺泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 20
+        - 15
+        - 20
+        - 25
+        - 35
+        - 45
+        - 60
+        - 90
+      times:
+        - 4
+        - 8
 
 - zh: 木柵鐵觀音
   pinyin: MùShān TiěGuānYīn
   type: 青茶
   family: 臺灣烏龍
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 臺灣臺北
   town: 木柵區
   cultivar:
-  - 鐵觀音
-  - 硬枝紅心烏龍
-  - 金萱
+    - 鐵觀音
+    - 硬枝紅心烏龍
+    - 金萱
   picking: 一芽 二葉
   elevation:
-  - 200
-  - 500
+    - 200
+    - 500
   oxidation: 40
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 50
-    - 70
-    - 90
-    times:
-    - 4
-    - 8
-  - type: 小壺泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 50
-    - 70
-    - 90
-    times:
-    - 4
-    - 8
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 50
+        - 70
+        - 90
+      times:
+        - 4
+        - 8
+    - type: 小壺泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 50
+        - 70
+        - 90
+      times:
+        - 4
+        - 8
 
 - zh: 凍頂烏龍
   pinyin: DòngDǐng WūLóng
   type: 青茶
   family: 臺灣烏龍
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 臺灣南投
   town: 鹿谷鄉
   cultivar: 青心烏龍
   picking: 一芽 二葉
   elevation:
-  - 600
-  - 800
+    - 600
+    - 800
   oxidation:
-  - 25
-  - 30
+    - 25
+    - 30
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 50
-    - 70
-    - 90
-    times:
-    - 4
-    - 8
-  - type: 小壺泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 50
-    - 70
-    - 90
-    times:
-    - 4
-    - 8
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 50
+        - 70
+        - 90
+      times:
+        - 4
+        - 8
+    - type: 小壺泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 50
+        - 70
+        - 90
+      times:
+        - 4
+        - 8
 
 - zh: 東方美人
   pinyin: DōngFāngMěiRén
@@ -946,56 +945,56 @@
   family: 臺灣烏龍
   harvest: 夏季
   province:
-  - 臺灣新竹，苗栗
+    - 臺灣新竹，苗栗
   town:
-  - 北埔
-  - 公館
+    - 北埔
+    - 公館
   cultivar:
-  - 青心大某
-  - 青心烏龍
-  - 白毛猴
+    - 青心大某
+    - 青心烏龍
+    - 白毛猴
   picking: 一芽 一葉
   elevation:
-  - 300
-  - 500
+    - 300
+    - 500
   oxidation:
-  - 60
-  - 75
+    - 60
+    - 75
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:20'
-    duration:
-    - 20
-    - 15
-    - 20
-    - 25
-    - 35
-    - 50
-    - 70
-    - 100
-    times:
-    - 4
-    - 8
-  - type: 小壺泡法
-    temperature:
-    - 85
-    - 90
-    quantity: '1:20'
-    duration:
-    - 20
-    - 15
-    - 20
-    - 25
-    - 35
-    - 50
-    - 70
-    - 100
-    times:
-    - 4
-    - 8
+    - type: 蓋碗泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:20'
+      duration:
+        - 20
+        - 15
+        - 20
+        - 25
+        - 35
+        - 50
+        - 70
+        - 100
+      times:
+        - 4
+        - 8
+    - type: 小壺泡法
+      temperature:
+        - 85
+        - 90
+      quantity: '1:20'
+      duration:
+        - 20
+        - 15
+        - 20
+        - 25
+        - 35
+        - 50
+        - 70
+        - 100
+      times:
+        - 4
+        - 8
 
 - zh: 大紅袍
   pinyin: DàHóngPáo
@@ -1005,30 +1004,30 @@
   province: 中國福建
   town: 武夷山市
   cultivar:
-  - 奇丹
-  - 其他拼配
+    - 奇丹
+    - 其他拼配
   picking: 一芽 三四葉
   elevation:
-  - 200
-  - 300
+    - 200
+    - 300
   oxidation: 70
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 5
-    - 8
-    - 10
-    - 12
-    - 15
-    - 18
-    - 20
-    times:
-    - 15
-    - 20
+    - type: 蓋碗泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 5
+        - 8
+        - 10
+        - 12
+        - 15
+        - 18
+        - 20
+      times:
+        - 15
+        - 20
 
 - zh: 武夷水仙
   pinyin: WǔYí ShuǐXiān
@@ -1040,28 +1039,28 @@
   cultivar: 武夷水仙
   picking: 一芽 三四葉
   elevation:
-  - 200
-  - 300
+    - 200
+    - 300
   oxidation:
-  - 35
-  - 45
+    - 35
+    - 45
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 5
-    - 8
-    - 10
-    - 12
-    - 15
-    - 18
-    - 20
-    times:
-    - 15
-    - 20
+    - type: 蓋碗泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 5
+        - 8
+        - 10
+        - 12
+        - 15
+        - 18
+        - 20
+      times:
+        - 15
+        - 20
 
 - zh: 肉桂
   pinyin: RòuGuì
@@ -1073,28 +1072,28 @@
   cultivar: 武夷肉桂
   picking: 一芽 三四葉
   elevation:
-  - 200
-  - 300
+    - 200
+    - 300
   oxidation:
-  - 35
-  - 45
+    - 35
+    - 45
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 5
-    - 8
-    - 10
-    - 12
-    - 15
-    - 18
-    - 20
-    times:
-    - 15
-    - 20
+    - type: 蓋碗泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 5
+        - 8
+        - 10
+        - 12
+        - 15
+        - 18
+        - 20
+      times:
+        - 15
+        - 20
 
 - zh: 鳳凰單叢
   pinyin: FèngHuáng DānCóng
@@ -1105,250 +1104,250 @@
   cultivar: 鳳凰水仙
   picking: 一芽 二三葉
   elevation:
-  - 500
-  - 1100
+    - 500
+    - 1100
   oxidation:
-  - 70
-  - 80
+    - 70
+    - 80
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 3
-    - 5
-    - 7
-    - 10
-    - 13
-    - 20
-    times:
-    - 5
-    - 20
-  - type: 小壺泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 3
-    - 5
-    - 7
-    - 10
-    - 13
-    - 20
-    times:
-    - 5
-    - 20
+    - type: 蓋碗泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 3
+        - 5
+        - 7
+        - 10
+        - 13
+        - 20
+      times:
+        - 5
+        - 20
+    - type: 小壺泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 3
+        - 5
+        - 7
+        - 10
+        - 13
+        - 20
+      times:
+        - 5
+        - 20
 
 - zh: 安溪鐵觀音
   pinyin: ĀnXī TiěGuānYīn
   type: 青茶
   family: 閩南烏龍
   harvest:
-  - 春季
-  - 秋季
+    - 春季
+    - 秋季
   province: 中國福建
   town: 安溪
   cultivar: 鐵觀音
   picking:
-  - 一芽 二三葉
-  - 一芽 三四葉
+    - 一芽 二三葉
+    - 一芽 三四葉
   elevation:
-  - 300
-  - 1600
+    - 300
+    - 1600
   oxidation:
-  - 20
-  - 50
+    - 20
+    - 50
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 50
-    - 70
-    - 90
-    times:
-    - 4
-    - 8
-  - type: 小壺泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:20'
-    duration:
-    - 25
-    - 20
-    - 25
-    - 30
-    - 40
-    - 50
-    - 70
-    - 90
-    times:
-    - 4
-    - 8
+    - type: 蓋碗泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 50
+        - 70
+        - 90
+      times:
+        - 4
+        - 8
+    - type: 小壺泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:20'
+      duration:
+        - 25
+        - 20
+        - 25
+        - 30
+        - 40
+        - 50
+        - 70
+        - 90
+      times:
+        - 4
+        - 8
 
 - zh: 本山茶
   pinyin: BěnShānChá
   type: 青茶
   family: 閩南烏龍
   harvest:
-  - 春季
-  - 秋季
+    - 春季
+    - 秋季
   province: 中國福建
   town: 安溪
   cultivar: 本山
   picking:
-  - 一芽 二三葉
-  - 一芽 三四葉
+    - 一芽 二三葉
+    - 一芽 三四葉
   elevation:
-  - 300
-  - 1600
+    - 300
+    - 1600
   oxidation:
-  - 20
-  - 50
+    - 20
+    - 50
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 25
-    - 30
-    - 35
-    - 45
-    - 60
-    times:
-    - 4
-    - 6
-  - type: 小壺泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 25
-    - 30
-    - 35
-    - 45
-    - 60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 25
+        - 30
+        - 35
+        - 45
+        - 60
+      times:
+        - 4
+        - 6
+    - type: 小壺泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 25
+        - 30
+        - 35
+        - 45
+        - 60
+      times:
+        - 4
+        - 6
 
 - zh: 毛蟹茶
   pinyin: MáoXièChá
   type: 青茶
   family: 閩南烏龍
   harvest:
-  - 春季
-  - 秋季
+    - 春季
+    - 秋季
   province: 中國福建
   town: 安溪
   cultivar: 毛蟹
   picking:
-  - 一芽 二三葉
-  - 一芽 三四葉
+    - 一芽 二三葉
+    - 一芽 三四葉
   elevation:
-  - 300
-  - 1600
+    - 300
+    - 1600
   oxidation:
-  - 20
-  - 50
+    - 20
+    - 50
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 25
-    - 30
-    - 35
-    - 45
-    - 60
-    times:
-    - 4
-    - 6
-  - type: 小壺泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 25
-    - 30
-    - 35
-    - 45
-    - 60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 25
+        - 30
+        - 35
+        - 45
+        - 60
+      times:
+        - 4
+        - 6
+    - type: 小壺泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 25
+        - 30
+        - 35
+        - 45
+        - 60
+      times:
+        - 4
+        - 6
 
 - zh: 黃金桂
   pinyin: HuángJīnGuì
   type: 青茶
   family: 閩南烏龍
   harvest:
-  - 春季
-  - 秋季
+    - 春季
+    - 秋季
   province: 中國福建
   town: 安溪
   cultivar: 黃旦
   picking:
-  - 一芽 二三葉
-  - 一芽 三四葉
+    - 一芽 二三葉
+    - 一芽 三四葉
   elevation:
-  - 300
-  - 1600
+    - 300
+    - 1600
   oxidation:
-  - 20
-  - 50
+    - 20
+    - 50
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 25
-    - 30
-    - 35
-    - 45
-    - 60
-    times:
-    - 4
-    - 6
-  - type: 小壺泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 25
-    - 30
-    - 35
-    - 45
-    - 60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 25
+        - 30
+        - 35
+        - 45
+        - 60
+      times:
+        - 4
+        - 6
+    - type: 小壺泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 25
+        - 30
+        - 35
+        - 45
+        - 60
+      times:
+        - 4
+        - 6
 
 - zh: 白毫銀針
   pinyin: BáiHáo YínZhēn
@@ -1357,41 +1356,41 @@
   harvest: 春季
   province: 中國福建
   town:
-  - 福鼎， 政和， 建陽， 松溪
+    - 福鼎， 政和， 建陽， 松溪
   cultivar:
-  - 福鼎大白茶
-  - 政和大白茶
+    - 福鼎大白茶
+    - 政和大白茶
   picking: 嫩芽
   elevation:
-  - 500
-  - 800
+    - 500
+    - 800
   oxidation:
-  - 5
-  - 10
-  brewing:
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:30'
-    duration:
-    - 15
-    - 20
-    - 25
-    - 35
-    - 45
-    - 60
-    times:
     - 5
     - 10
-  - type: 茶杯泡法
-    temperature: 90
-    quantity: '1:50'
-    duration:
-    - 180
-    - 300
-    - 480
-    times:
-    - 2
-    - 3
+  brewing:
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:30'
+      duration:
+        - 15
+        - 20
+        - 25
+        - 35
+        - 45
+        - 60
+      times:
+        - 5
+        - 10
+    - type: 茶杯泡法
+      temperature: 90
+      quantity: '1:50'
+      duration:
+        - 180
+        - 300
+        - 480
+      times:
+        - 2
+        - 3
 
 - zh: 白牡丹
   pinyin: BáiMǔDān
@@ -1400,277 +1399,276 @@
   harvest: 春季
   province: 中國福建
   town:
-  - 政和
-  - 福鼎
-  - 建陽
-  - 松溪
+    - 政和
+    - 福鼎
+    - 建陽
+    - 松溪
   cultivar:
-  - 福鼎大白茶
-  - 福鼎大毫茶
+    - 福鼎大白茶
+    - 福鼎大毫茶
   picking: 一芽 一二葉
   elevation:
-  - 500
-  - 800
+    - 500
+    - 800
   oxidation:
-  - 5
-  - 10
-  brewing:
-  - type: 蓋碗泡法
-    temperature: 95
-    quantity: '1:30'
-    duration:
-    - 15
-    - 20
-    - 25
-    - 35
-    - 45
-    - 60
-    times:
     - 5
     - 10
-  - type: 茶杯泡法
-    temperature: 95
-    quantity: '1:50'
-    duration:
-    - 180
-    - 300
-    - 480
-    times:
-    - 2
-    - 3
+  brewing:
+    - type: 蓋碗泡法
+      temperature: 95
+      quantity: '1:30'
+      duration:
+        - 15
+        - 20
+        - 25
+        - 35
+        - 45
+        - 60
+      times:
+        - 5
+        - 10
+    - type: 茶杯泡法
+      temperature: 95
+      quantity: '1:50'
+      duration:
+        - 180
+        - 300
+        - 480
+      times:
+        - 2
+        - 3
 
 - zh: 月光白
   pinyin: YuèGuāngBái
   type: 白茶
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 中國雲南
   town: 思茅地區
-  elevation: 
+  elevation:
     - 1000
     - 2000
   cultivar: 景谷大白茶
   picking: 一芽 二葉
-  elevation: 1600
   oxidation:
-  - 5
-  - 10
+    - 5
+    - 10
   brewing:
-  - type: 蓋碗泡法
-    temperature: 100
-    quantity: '1:40'
-    duration:
-    - 10
-    - 10
-    - 10
-    - 20
-    - 30
-    times:
-    - 5
-    - 10
-  - type: 小壺泡法
-    temperature: 100
-    quantity: '1:40'
-    duration:
-    - 10
-    - 10
-    - 10
-    - 20， 30
-    times:
-    - 5
-    - 10
+    - type: 蓋碗泡法
+      temperature: 100
+      quantity: '1:40'
+      duration:
+        - 10
+        - 10
+        - 10
+        - 20
+        - 30
+      times:
+        - 5
+        - 10
+    - type: 小壺泡法
+      temperature: 100
+      quantity: '1:40'
+      duration:
+        - 10
+        - 10
+        - 10
+        - 20， 30
+      times:
+        - 5
+        - 10
 
 - zh: 壽眉
   pinyin: Shòu Méi
   type: 白茶
   family: 葉茶
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 中國福建
   town:
-  - 政和
-  - 福鼎
-  - 建陽
-  - 松溪
+    - 政和
+    - 福鼎
+    - 建陽
+    - 松溪
   cultivar:
-  - 福鼎大白茶
-  - 福鼎大毫茶
+    - 福鼎大白茶
+    - 福鼎大毫茶
   picking: 一芽 二三葉
   elevation:
-  - 500
-  - 800
+    - 500
+    - 800
   oxidation:
-  - 5
-  - 10
-  brewing:
-  - type: 蓋碗泡法
-    temperature: 100
-    quantity: '1:30'
-    duration:
-    - 50
-    - 60
-    - 80
-    - 100
-    times:
-    - 4
     - 5
-  - type: 茶杯泡法
-    temperature: 100
-    quantity: '1:50'
-    duration:
-    - 180
-    - 300
-    - 480
-    times:
-    - 2
-    - 3
+    - 10
+  brewing:
+    - type: 蓋碗泡法
+      temperature: 100
+      quantity: '1:30'
+      duration:
+        - 50
+        - 60
+        - 80
+        - 100
+      times:
+        - 4
+        - 5
+    - type: 茶杯泡法
+      temperature: 100
+      quantity: '1:50'
+      duration:
+        - 180
+        - 300
+        - 480
+      times:
+        - 2
+        - 3
 
 - zh: 雲南白茶磚
   pinyin: YúnNán BáiChá Zhuān
   type: 白茶
   province: 中國雲南
-  
+
   cultivar: 雲南大白茶
   picking: 一芽 二三葉
   oxidation:
-  - 5
-  - 10
-  brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:30'
-    duration:
+    - 5
     - 10
-    - 30
-    - 30
-    - 50
-    times:
-    - 4
-    - 8
+  brewing:
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:30'
+      duration:
+        - 10
+        - 30
+        - 30
+        - 50
+      times:
+        - 4
+        - 8
 
 - zh: 正山小種
   pinyin: ZhèngShānXiǎoZhǒng
   type: 紅茶
   family: 小種紅茶
   harvest:
-  - 春季
-  - 夏季
+    - 春季
+    - 夏季
   province: 中國福建
   town: 武夷山市星村桐木關
   cultivar: 小菜茶羣體種
   picking: 一芽 二三葉
   elevation: 1100
   oxidation:
-  - 80
-  - 95
+    - 80
+    - 95
   brewing:
-  - type: 蓋碗泡法
-    temperature: 90
-    quantity: '1:20'
-    duration:
-    - 10
-    - 10
-    - 15
-    - 25
-    - 40
-    - 60
-    times:
-    - 4
-    - 6
+    - type: 蓋碗泡法
+      temperature: 90
+      quantity: '1:20'
+      duration:
+        - 10
+        - 10
+        - 15
+        - 25
+        - 40
+        - 60
+      times:
+        - 4
+        - 6
 
 - zh: 祁門紅茶
   pinyin: QíMén HóngChá
   type: 紅茶
   family: 工夫紅茶
   harvest:
-  - 春季
-  - 夏季
+    - 春季
+    - 夏季
   province: 中國安徽
   town: 祁門
   cultivar: 祁門種
   picking: 一芽 二三葉
   elevation:
-  - 100
-  - 350
+    - 100
+    - 350
   oxidation:
-  - 80
-  - 95
+    - 80
+    - 95
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 45
-    - 75
-    - 120
-    times:
-    - 3
-    - 4
-  - type: 茶杯泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:50'
-    duration:
-    - 120
-    - 180
-    times:
-    - 1
-    - 2
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 45
+        - 75
+        - 120
+      times:
+        - 3
+        - 4
+    - type: 茶杯泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:50'
+      duration:
+        - 120
+        - 180
+      times:
+        - 1
+        - 2
 
 - zh: 坦洋
   pinyin: Tǎn Yáng
   type: 紅茶
   family: 工夫紅茶
   harvest:
-  - 春季
-  - 夏季
+    - 春季
+    - 夏季
   province: 中國福建
   town: 福安
   cultivar:
-  - 福安大白茶
-  - 福鼎大毫茶
+    - 福安大白茶
+    - 福鼎大毫茶
   picking: 一芽 一二葉
   elevation:
-  - 300
-  - 1000
+    - 300
+    - 1000
   oxidation:
-  - 80
-  - 95
+    - 80
+    - 95
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:20'
-    duration:
-    - 30
-    - 45
-    - 75
-    - 120
-    times:
-    - 3
-    - 4
-  - type: 茶杯泡法
-    temperature:
-    - 90
-    - 95
-    quantity: '1:50'
-    duration:
-    - 120
-    - 180
-    times:
-    - 1
-    - 2
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:20'
+      duration:
+        - 30
+        - 45
+        - 75
+        - 120
+      times:
+        - 3
+        - 4
+    - type: 茶杯泡法
+      temperature:
+        - 90
+        - 95
+      quantity: '1:50'
+      duration:
+        - 120
+        - 180
+      times:
+        - 1
+        - 2
 
 - zh: 金駿眉
   pinyin: JīnJùnMéi
@@ -1682,97 +1680,97 @@
   cultivar: 武夷野生奇種
   picking: 芽葉
   elevation:
-  - 1000
-  - 1200
+    - 1000
+    - 1200
   oxidation:
-  - 80
-  - 95
+    - 80
+    - 95
   brewing:
-  - type: 蓋碗泡法
-    temperature:
-    - 80
-    - 90
-    quantity: '1:20'
-    duration:
-    - 15
-    - 25
-    - 35
-    - 45
-    - 60
-    - 70
-    - 80
-    - 90
-    - 120
-    - 150
-    times:
-    - 10
-    - 12
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 90
+      quantity: '1:20'
+      duration:
+        - 15
+        - 25
+        - 35
+        - 45
+        - 60
+        - 70
+        - 80
+        - 90
+        - 120
+        - 150
+      times:
+        - 10
+        - 12
 
 - zh: 紅碎茶
   pinyin: Hóng Suì Chá
   type: 紅茶
   family: 紅碎茶
   province:
-  - 中國雲南
-  - 廣東
-  - 海南
-  - 廣西
+    - 中國雲南
+    - 廣東
+    - 海南
+    - 廣西
   brewing:
-  - type: 大壺泡法
-    temperature:
-    - 90
-    - 100
-    quantity: 1:60
-    duration:
-    - 180
-    times: 1
-  - type: 蓋碗泡法
-    temperature:
-    - 90
-    - 100
-    quantity: '1:30'
-    duration:
-    - 10
-    - 30
-    times: 2
+    - type: 大壺泡法
+      temperature:
+        - 90
+        - 100
+      quantity: 1:60
+      duration:
+        - 180
+      times: 1
+    - type: 蓋碗泡法
+      temperature:
+        - 90
+        - 100
+      quantity: '1:30'
+      duration:
+        - 10
+        - 30
+      times: 2
 
 - zh: 滇紅
   pinyin: Diān Hóng
   type: 紅茶
   family: 工夫紅茶
   harvest:
-  - 春季
-  - 夏季
-  - 秋季
+    - 春季
+    - 夏季
+    - 秋季
   province: 中國雲南
   town: 臨滄鳳慶
   cultivar: 雲南大葉種拼配
   picking:
-  - 芽葉
-  - 一芽 一葉
-  - 一芽 二三葉
+    - 芽葉
+    - 一芽 一葉
+    - 一芽 二三葉
   elevation: 1000
   oxidation:
-  - 80
-  - 90
-  brewing:
-  - type: 蓋碗泡法
-    temperature:
     - 80
-    - 85
-    quantity: '1:30'
-    duration:
-    - 1
-    - 1
-    - 1
-    - 3
-    - 5
-    - 8
-    - 12
-    - 17
-    - 23
-    - 30
-    times: 10
+    - 90
+  brewing:
+    - type: 蓋碗泡法
+      temperature:
+        - 80
+        - 85
+      quantity: '1:30'
+      duration:
+        - 1
+        - 1
+        - 1
+        - 3
+        - 5
+        - 8
+        - 12
+        - 17
+        - 23
+        - 30
+      times: 10
 
 - zh: 六堡茶
   pinyin: LiùBǎoChá
@@ -1780,24 +1778,24 @@
   family: 六堡茶
   province: 中國廣西
   town: 蒼梧縣
-  cultivar: 
-  - 當地羣體種
-  - 廣西大中葉種
+  cultivar:
+    - 當地羣體種
+    - 廣西大中葉種
   picking:
-  - 一芽 二三葉
-  - 一芽 三四葉
+    - 一芽 二三葉
+    - 一芽 三四葉
   elevation:
-  - 1000
-  - 1500
+    - 1000
+    - 1500
   oxidation: 99
   brewing:
-  - type: 煮泡法
-    temperature: 100
-    quantity: '1:100'
-    duration:
-    - 300
-    - 600
-    times: 1
+    - type: 煮泡法
+      temperature: 100
+      quantity: '1:100'
+      duration:
+        - 300
+        - 600
+      times: 1
 
 - zh: 安化黑茶
   pinyin: ĀnHuà HēiChá
@@ -1806,60 +1804,60 @@
   province: 中國湖南
   town: 益陽市安化縣
   elevation:
-  - 600
-  - 1400
-  cultivar: 
-  - 雲臺山大葉種
-  - 楮葉齊
+    - 600
+    - 1400
+  cultivar:
+    - 雲臺山大葉種
+    - 楮葉齊
   picking:
-  - 一芽 三葉
-  - 一芽 三四葉
-  - 一芽 五六葉
+    - 一芽 三葉
+    - 一芽 三四葉
+    - 一芽 五六葉
   harvest:
-  - 春季
-  - 夏季
-  - 秋季 
+    - 春季
+    - 夏季
+    - 秋季
   fermentation: true
   brewing:
-  - type: 煮泡法
-    temperature:
-    - 100
-    quantity: '1:100'
-    duration: 
-    - 300
-    - 600
-    times: 1
+    - type: 煮泡法
+      temperature:
+        - 100
+      quantity: '1:100'
+      duration:
+        - 300
+        - 600
+      times: 1
 
 - zh: 青磚茶
   pinyin: QīngZhuān Chá
   type: 黑茶
   family: 湖北青磚茶
   province: 中國湖北
-  town: 
-  - 蒲圻
-  - 咸寧
-  - 通山
-  - 通城
-  - 崇陽
+  town:
+    - 蒲圻
+    - 咸寧
+    - 通山
+    - 通城
+    - 崇陽
   elevation:
-  - 100
-  - 800
+    - 100
+    - 800
   cultivar: 當地品種
   harvest:
-  - 春季
-  - 夏季
-  - 秋季 
+    - 春季
+    - 夏季
+    - 秋季
   fermentation: true
   brewing:
-  - type: 煮泡法
-    temperature:
-    - 100
-    quantity: '1:100'
-    duration: 
-    - 300
-    - 600
-    times: 1
-    
+    - type: 煮泡法
+      temperature:
+        - 100
+      quantity: '1:100'
+      duration:
+        - 300
+        - 600
+      times: 1
+
 - zh: 熟普洱
   pinyin: Shú pǔ'ěr
   type: 黑茶
@@ -1867,27 +1865,27 @@
   harvest: 0
   province: 中國雲南
   town:
-  - 勐腊
-  - 勐海
-  - 臨滄
+    - 勐腊
+    - 勐海
+    - 臨滄
   cultivar: 0
   picking: 0
   elevation: 0
   oxidation: 100
   brewing:
-  - type: 茶壺泡法
-    temperature:
-    - 95
-    - 100
-    quantity: '1:30'
-    duration:
-    - 10
-    - 15
-    - 20
-    - 25
-    - 30
-    - 35
-    - 40
-    times:
-    - 10
-    - 40
+    - type: 茶壺泡法
+      temperature:
+        - 95
+        - 100
+      quantity: '1:30'
+      duration:
+        - 10
+        - 15
+        - 20
+        - 25
+        - 30
+        - 35
+        - 40
+      times:
+        - 10
+        - 40
