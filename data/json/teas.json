@@ -451,12 +451,12 @@
     "family": "炒青绿茶",
     "province": "中國貴州",
     "town": "遵義市",
-    "cultivar": "當地中小葉品種",
-    "picking": "芽葉",
     "elevation": [
       800,
       1300
     ],
+    "cultivar": "當地中小葉品種",
+    "picking": "芽葉",
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -486,15 +486,15 @@
     "family": "烘青绿茶",
     "province": "中國安徽",
     "town": "黃山區",
+    "elevation": [
+      400,
+      800
+    ],
     "cultivar": [
       "黃山大葉種",
       "祁門楮葉種"
     ],
     "picking": "一芽 一葉",
-    "elevation": [
-      400,
-      800
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -569,12 +569,12 @@
     "family": "炒青綠茶",
     "province": "中國貴州",
     "town": "都勻市",
+    "elevation": 1000,
     "cultivar": [
       "都勻本地臺茶種",
       "福鼎大白茶中小葉種"
     ],
     "picking": "一芽 一葉",
-    "elevation": 1000,
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -605,16 +605,16 @@
     "family": "炒青綠茶",
     "province": "中國河南",
     "town": "信陽市",
+    "elevation": [
+      300,
+      800
+    ],
     "cultivar": [
       "信陽本地品種",
       "福鼎大白茶",
       "野生茶"
     ],
     "picking": "一芽 一葉",
-    "elevation": [
-      300,
-      800
-    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -705,12 +705,12 @@
     "family": "烘青绿茶",
     "province": "中國安徽",
     "town": "黃山市黃山區",
-    "cultivar": "柿大茶",
-    "picking": "一芽 二葉",
     "elevation": [
       100,
       300
     ],
+    "cultivar": "柿大茶",
+    "picking": "一芽 二葉",
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -2337,13 +2337,12 @@
     "pinyin": "ĀnHuà HēiChá",
     "type": "黑茶",
     "family": "湖南黑茶",
-    "harvest": [
-      "春季",
-      "夏季",
-      "秋季"
-    ],
     "province": "中國湖南",
     "town": "益陽市安化縣",
+    "elevation": [
+      600,
+      1400
+    ],
     "cultivar": [
       "雲臺山大葉種",
       "楮葉齊"
@@ -2353,9 +2352,10 @@
       "一芽 三四葉",
       "一芽 五六葉"
     ],
-    "elevation": [
-      600,
-      1400
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
     ],
     "fermentation": true,
     "brewing": [
@@ -2378,11 +2378,6 @@
     "pinyin": "QīngZhuān Chá",
     "type": "黑茶",
     "family": "湖北青磚茶",
-    "harvest": [
-      "春季",
-      "夏季",
-      "秋季"
-    ],
     "province": "中國湖北",
     "town": [
       "蒲圻",
@@ -2391,10 +2386,15 @@
       "通城",
       "崇陽"
     ],
-    "cultivar": "當地品種",
     "elevation": [
       100,
       800
+    ],
+    "cultivar": "當地品種",
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
     ],
     "fermentation": true,
     "brewing": [
