@@ -1787,7 +1787,6 @@
   elevation:
     - 1000
     - 1500
-  : 99
   brewing:
     - type: 煮泡法
       temperature: 100
