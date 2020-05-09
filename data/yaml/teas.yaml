@@ -688,8 +688,8 @@
     - 夏季
     - 秋季
   province: 臺灣
-  town: 0
-  elevation: 0
+  town: null
+  elevation: null
   cultivar: 金萱
   picking: 一芽 二葉
   oxidation:
@@ -782,7 +782,7 @@
     - 夏季
     - 秋季
   province: 臺灣
-  town: 0
+  town: null
   cultivar:
     - 青心烏龍
     - 金萱
@@ -1862,15 +1862,15 @@
   pinyin: Shú pǔ'ěr
   type: 黑茶
   family: 普洱茶
-  harvest: 0
+  harvest: null
   province: 中國雲南
   town:
     - 勐腊
     - 勐海
     - 臨滄
-  cultivar: 0
-  picking: 0
-  elevation: 0
+  cultivar: null
+  picking: null
+  elevation: null
   oxidation: 100
   brewing:
     - type: 茶壺泡法
