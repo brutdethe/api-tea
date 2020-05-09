@@ -371,6 +371,7 @@
   cultivar: 
   - 黃山大葉種
   - 祁門楮葉種
+  - 其他外地引進品種
   picking: 一芽 一葉
   brewing:
   - type: 蓋碗泡法
@@ -483,6 +484,7 @@
   type: 綠茶
   family: 炒青绿茶
   province: 中國四川
+  town: 峨眉山
   picking: 一芽 一葉
   brewing:
   - type: 蓋碗泡法
@@ -505,6 +507,8 @@
   type: 綠茶
   family: 炒青绿茶
   province: 中國安徽
+  town: 歙縣
+  elevation: 1300 
   picking: 一芽 二葉
   brewing:
   - type: 蓋碗泡法
@@ -608,6 +612,14 @@
   type: 綠茶
   family: 烘青绿茶
   province: 中國安徽
+  town: 六安市大別山
+  elevation:
+    - 100
+    - 300
+  cultivar: 
+    - 獨山小葉種
+    - 齊山中葉種
+    - 外地引進品種
   picking: 單壯葉
   brewing:
   - type: 蓋碗泡法
@@ -634,6 +646,8 @@
   - 夏季
   - 秋季
   province: 臺灣
+  town: 南投
+  elevation: 400
   cultivar: 四季春
   picking: 一芽 二葉
   oxidation:
@@ -675,6 +689,8 @@
   - 夏季
   - 秋季
   province: 臺灣
+  town: 0
+  elevation: 0
   cultivar: 金萱
   picking: 一芽 二葉
   oxidation:
@@ -767,12 +783,15 @@
   - 夏季
   - 秋季
   province: 臺灣
+  town: 0
   cultivar:
   - 青心烏龍
   - 金萱
   - 翠玉
   picking: 一芽 二葉
-  elevation: 1000
+  elevation: 
+    - 1000
+    - 2500
   oxidation:
   - 15
   - 20
@@ -821,7 +840,7 @@
   - 夏季
   - 秋季
   province: 臺灣臺北
-  town: 木柵
+  town: 木柵區
   cultivar:
   - 鐵觀音
   - 硬枝紅心烏龍
@@ -876,7 +895,7 @@
   - 夏季
   - 秋季
   province: 臺灣南投
-  town: 鹿谷
+  town: 鹿谷鄉
   cultivar: 青心烏龍
   picking: 一芽 二葉
   elevation:
@@ -929,7 +948,8 @@
   province:
   - 臺灣新竹，苗栗
   town:
-  - 北埔，公館
+  - 北埔
+  - 公館
   cultivar:
   - 青心大某
   - 青心烏龍
@@ -1180,6 +1200,7 @@
 - zh: 本山茶
   pinyin: BěnShānChá
   type: 青茶
+  family: 閩南烏龍
   harvest:
   - 春季
   - 秋季
@@ -1427,6 +1448,9 @@
   - 秋季
   province: 中國雲南
   town: 思茅地區
+  elevation: 
+    - 1000
+    - 2000
   cultivar: 景谷大白茶
   picking: 一芽 二葉
   elevation: 1600
@@ -1509,6 +1533,7 @@
   pinyin: YúnNán BáiChá Zhuān
   type: 白茶
   province: 中國雲南
+  
   cultivar: 雲南大白茶
   picking: 一芽 二三葉
   oxidation:
