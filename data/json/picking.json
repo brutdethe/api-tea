@@ -5,6 +5,11 @@
     "fr": "un bourgeon"
   },
   {
+    "zh": "單芽",
+    "pinyin": "Dān Yá",
+    "fr": "bourgeon simple"
+  },
+  {
     "zh": "一二葉",
     "pinyin": "Yi Èr Yè",
     "fr": "une ou deux feuilles"
@@ -29,13 +34,13 @@
     "fr": "un bourgeon, deux feuilles"
   },
   {
-    "zh": "一芽三葉",
+    "zh": "一芽 三葉",
     "pinyin": "YīYá SānYè",
     "fr": "un bourgeon et trois feuilles"
   },
   {
     "zh": "一芽 一二葉嫩芽",
-    "pinyin": "Yī yá yī'èr yè nèn yá",
+    "pinyin": "YīYá Yī Èr Yè Nèn Yá",
     "fr": "un bourgeon et une ou deux feuilles"
   },
   {
@@ -47,6 +52,16 @@
     "zh": "一芽 三四葉",
     "pinyin": "YīYá SānSìYè",
     "fr": "un bourgeon et trois ou quatre feuilles"
+  },
+  {
+    "zh": "一芽 四五葉",
+    "pinyin": "YīYá SìWǔYè",
+    "fr": "un bourgeon et quatre ou cinq feuilles"
+  },
+  {
+    "zh": "一芽 四五葉",
+    "pinyin": "Yī Yá WǔLiù Yè",
+    "fr": "un bourgeon et cinq ou six feuilles"
   },
   {
     "zh": "三葉",

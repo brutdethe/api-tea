@@ -90,6 +90,11 @@
     "theme": "picking"
   },
   {
+    "zh": "單芽",
+    "pinyin": "Dān Yá",
+    "theme": "picking"
+  },
+  {
     "zh": "一二葉",
     "pinyin": "Yi Èr Yè",
     "theme": "picking"
@@ -115,13 +120,13 @@
     "theme": "picking"
   },
   {
-    "zh": "一芽三葉",
+    "zh": "一芽 三葉",
     "pinyin": "YīYá SānYè",
     "theme": "picking"
   },
   {
     "zh": "一芽 一二葉嫩芽",
-    "pinyin": "Yī yá yī'èr yè nèn yá",
+    "pinyin": "YīYá Yī Èr Yè Nèn Yá",
     "theme": "picking"
   },
   {
@@ -132,6 +137,16 @@
   {
     "zh": "一芽 三四葉",
     "pinyin": "YīYá SānSìYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 四五葉",
+    "pinyin": "YīYá SìWǔYè",
+    "theme": "picking"
+  },
+  {
+    "zh": "一芽 四五葉",
+    "pinyin": "Yī Yá WǔLiù Yè",
     "theme": "picking"
   },
   {
@@ -351,7 +366,7 @@
   },
   {
     "zh": "平陽特色羣體品種",
-    "pinyin": "PíngYáng TèSè Qún Tǐ PǐnZhǒng",
+    "pinyin": "PíngYáng TèSè QúnTǐ PǐnZhǒng",
     "theme": "cultivars"
   },
   {
@@ -380,7 +395,7 @@
     "theme": "cultivars"
   },
   {
-    "zh": "東西山群體種",
+    "zh": "東西山羣體種",
     "pinyin": "DōngXī Shān QúnTǐ Zhǒng",
     "theme": "cultivars"
   },
