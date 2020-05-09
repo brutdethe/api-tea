@@ -1775,7 +1775,7 @@
 - zh: 六堡茶
   pinyin: LiùBǎoChá
   type: 黑茶
-  family: 六堡茶
+  family: 廣西黑茶
   province: 中國廣西
   town: 蒼梧縣
   cultivar:
@@ -1787,7 +1787,7 @@
   elevation:
     - 1000
     - 1500
-  oxidation: 99
+  : 99
   brewing:
     - type: 煮泡法
       temperature: 100
@@ -1831,7 +1831,7 @@
 - zh: 青磚茶
   pinyin: QīngZhuān Chá
   type: 黑茶
-  family: 湖北青磚茶
+  family: 湖北黑茶茶
   province: 中國湖北
   town:
     - 蒲圻
@@ -1861,18 +1861,27 @@
 - zh: 熟普洱
   pinyin: Shú pǔ'ěr
   type: 黑茶
-  family: 普洱茶
-  harvest: null
+  harvest:
+    - 春季
+    - 夏季
+    - 秋季
   province: 中國雲南
   town:
-    - 勐腊
-    - 勐海
-    - 臨滄
-  cultivar: null
+    - 西雙版納區
+    - 普洱市
+    - 臨滄市
+  cultivar: 雲南大葉種
   picking: null
   elevation: null
   oxidation: 100
   brewing:
+    - type: 煮泡法
+      temperature: 100
+      quantity: '1:100'
+      duration:
+        - 300
+        - 600
+      times: 1
     - type: 茶壺泡法
       temperature:
         - 95
