@@ -502,6 +502,9 @@
   family: 炒青绿茶
   province: 中國四川
   town: 峨眉山
+  elevation:
+    - 800
+    - 1200
   picking: 一芽 一葉
   oxidation:
     - 0
