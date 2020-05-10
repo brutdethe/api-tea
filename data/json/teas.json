@@ -424,6 +424,10 @@
     "town": "蘇州市",
     "cultivar": "東西山羣體種",
     "picking": "芽葉",
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -456,6 +460,10 @@
     "elevation": [
       800,
       1300
+    ],
+    "oxidation": [
+      0,
+      5
     ],
     "brewing": [
       {
@@ -495,6 +503,10 @@
     "elevation": [
       400,
       800
+    ],
+    "oxidation": [
+      0,
+      5
     ],
     "brewing": [
       {
@@ -540,6 +552,10 @@
       "烏牛早"
     ],
     "picking": "一芽 一葉",
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -576,6 +592,10 @@
     ],
     "picking": "一芽 一葉",
     "elevation": 1000,
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -616,6 +636,10 @@
       300,
       800
     ],
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -647,6 +671,14 @@
     "province": "中國四川",
     "town": "峨眉山",
     "picking": "一芽 一葉",
+    "elevation": [
+      800,
+      1200
+    ],
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -679,6 +711,10 @@
     "town": "歙縣",
     "picking": "一芽 二葉",
     "elevation": 1300,
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -714,6 +750,10 @@
     "elevation": [
       100,
       300
+    ],
+    "oxidation": [
+      0,
+      5
     ],
     "brewing": [
       {
@@ -754,6 +794,10 @@
     "picking": [
       "一芽 二三葉"
     ],
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -790,6 +834,10 @@
     "family": "炒青绿茶",
     "province": "中國浙江",
     "picking": "一芽 二三葉",
+    "oxidation": [
+      0,
+      5
+    ],
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -829,6 +877,10 @@
     "elevation": [
       100,
       300
+    ],
+    "oxidation": [
+      0,
+      5
     ],
     "brewing": [
       {
