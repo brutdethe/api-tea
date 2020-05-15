@@ -5,7 +5,7 @@ welcome('Group all chinese terms and his pinyin')
 const createPinyinItems = themes =>
     themes.flatMap(theme =>
         readYAML(getPath(theme, 'yaml')).map(item => ({
-            zh: item.zh,
+            ideogram: item.ideogram,
             pinyin: item.pinyin,
             theme: theme
         }))

@@ -13,7 +13,7 @@
         "start": "node --experimental-modules --no-warnings ./src/index.mjs",
         "yaml2json": "node --experimental-modules --no-warnings ./scripts/yaml2Json.mjs",
         "pinyinTranslation": "node --experimental-modules --no-warnings ./scripts/pinyinTranslation.mjs",
-        "orderTeasJsonFields": "node --experimental-modules --no-warnings ./scripts/orderTeasJsonFields.mjs",
+        "refineJsonTeas": "node --experimental-modules --no-warnings ./scripts/refineJsonTeas.mjs",
         "deploy": "./scripts/deploy.sh"
     },
     "dependencies": {

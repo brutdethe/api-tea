@@ -4,21 +4,21 @@ yamlFiles:
   teas:
     name: teas
     fields:
-      - zh
+      - ideogram
       - pinyin
       - type
-      - family
-      - harvest
-      - province
-      - town
-      - cultivar
-      - picking
-      - elevation
-      - oxidation
+      - families
+      - harvests
+      - provinces
+      - towns
+      - cultivars
+      - pickings
+      - elevations
+      - oxidations
       - fermentation
-      - brewing
-  types:
-    name: types
+      - brews
+  type:
+    name: type
   families:
     name: families
   harvest:
@@ -30,19 +30,19 @@ yamlFiles:
   towns:
     name: towns
   picking:
-    name: picking
+    name: pickings
   brewing-types:
-    name: brewing-types
+    name: brews
   themes:
     name: themes
 
 themes:
-  - brewing-types
+  - brews
   - families
-  - picking
+  - pickings
   - towns
   - cultivars
   - harvests
   - provinces
   - teas
-  - types
+  - type
