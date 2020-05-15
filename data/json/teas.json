@@ -9,7 +9,9 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國浙江",
+    "provinces": [
+      "中國浙江"
+    ],
     "towns": [
       "平陽",
       "泰順",
@@ -78,8 +80,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國湖南",
-    "towns": "岳陽",
+    "provinces": [
+      "中國湖南"
+    ],
+    "towns": [
+      "岳陽"
+    ],
     "cultivars": [
       "當地特色羣體品種"
     ],
@@ -140,8 +146,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國湖南",
-    "towns": "寧鄉縣",
+    "provinces": [
+      "中國湖南"
+    ],
+    "towns": [
+      "寧鄉縣"
+    ],
     "cultivars": [
       "當地特色羣體品種"
     ],
@@ -205,8 +215,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國安徽",
-    "towns": "霍山",
+    "provinces": [
+      "中國安徽"
+    ],
+    "towns": [
+      "霍山"
+    ],
     "cultivars": [
       "霍山金雞種"
     ],
@@ -268,8 +282,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國湖南",
-    "towns": "岳陽洞庭湖君山",
+    "provinces": [
+      "中國湖南"
+    ],
+    "towns": [
+      "岳陽洞庭湖君山"
+    ],
     "cultivars": [
       "當地品種"
     ],
@@ -315,8 +333,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國四川",
-    "towns": "雅安蒙山",
+    "provinces": [
+      "中國四川"
+    ],
+    "towns": [
+      "雅安蒙山"
+    ],
     "cultivars": [
       "當地品種"
     ],
@@ -363,7 +385,9 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國廣東",
+    "provinces": [
+      "中國廣東"
+    ],
     "towns": [
       "韶關",
       "肇慶",
@@ -425,7 +449,9 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國安徽",
+    "provinces": [
+      "中國安徽"
+    ],
     "towns": [
       "霍山",
       "金寨",
@@ -489,8 +515,12 @@
       "炒青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國江蘇",
-    "towns": "蘇州市",
+    "provinces": [
+      "中國江蘇"
+    ],
+    "towns": [
+      "蘇州市"
+    ],
     "cultivars": [
       "東西山羣體種"
     ],
@@ -531,8 +561,12 @@
       "炒青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國貴州",
-    "towns": "遵義市",
+    "provinces": [
+      "中國貴州"
+    ],
+    "towns": [
+      "遵義市"
+    ],
     "cultivars": [
       "當地中小葉品種"
     ],
@@ -578,8 +612,12 @@
       "烘青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國安徽",
-    "towns": "黃山區",
+    "provinces": [
+      "中國安徽"
+    ],
+    "towns": [
+      "黃山區"
+    ],
     "cultivars": [
       "黃山大葉種",
       "祁門楮葉種",
@@ -634,8 +672,12 @@
       "炒青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國浙江",
-    "towns": "杭州市西湖區龍井村",
+    "provinces": [
+      "中國浙江"
+    ],
+    "towns": [
+      "杭州市西湖區龍井村"
+    ],
     "cultivars": [
       "龍井43",
       "平陽特皂",
@@ -683,8 +725,12 @@
       "炒青綠茶"
     ],
     "harvests": [],
-    "provinces": "中國貴州",
-    "towns": "都勻市",
+    "provinces": [
+      "中國貴州"
+    ],
+    "towns": [
+      "都勻市"
+    ],
     "cultivars": [
       "都勻本地臺茶種",
       "福鼎大白茶中小葉種"
@@ -731,8 +777,12 @@
       "炒青綠茶"
     ],
     "harvests": [],
-    "provinces": "中國河南",
-    "towns": "信陽市",
+    "provinces": [
+      "中國河南"
+    ],
+    "towns": [
+      "信陽市"
+    ],
     "cultivars": [
       "信陽本地品種",
       "福鼎大白茶",
@@ -781,8 +831,12 @@
       "炒青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國四川",
-    "towns": "峨眉山",
+    "provinces": [
+      "中國四川"
+    ],
+    "towns": [
+      "峨眉山"
+    ],
     "cultivars": [],
     "pickings": [
       "一芽 一葉"
@@ -827,8 +881,12 @@
       "炒青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國安徽",
-    "towns": "歙縣",
+    "provinces": [
+      "中國安徽"
+    ],
+    "towns": [
+      "歙縣"
+    ],
     "cultivars": [],
     "pickings": [
       "一芽 二葉"
@@ -872,8 +930,12 @@
       "烘青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國安徽",
-    "towns": "黃山市黃山區",
+    "provinces": [
+      "中國安徽"
+    ],
+    "towns": [
+      "黃山市黃山區"
+    ],
     "cultivars": [
       "柿大茶"
     ],
@@ -926,7 +988,9 @@
       "炒青綠茶"
     ],
     "harvests": [],
-    "provinces": "中國貴州",
+    "provinces": [
+      "中國貴州"
+    ],
     "cultivars": [
       "鳳岡鋅硒茶毛茶"
     ],
@@ -976,7 +1040,9 @@
       "炒青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國浙江",
+    "provinces": [
+      "中國浙江"
+    ],
     "cultivars": [],
     "pickings": [
       "一芽 二三葉"
@@ -1018,8 +1084,12 @@
       "烘青绿茶"
     ],
     "harvests": [],
-    "provinces": "中國安徽",
-    "towns": "六安市大別山",
+    "provinces": [
+      "中國安徽"
+    ],
+    "towns": [
+      "六安市大別山"
+    ],
     "cultivars": [
       "獨山小葉種",
       "齊山中葉種",
@@ -1072,8 +1142,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "臺灣",
-    "towns": "南投",
+    "provinces": [
+      "臺灣"
+    ],
+    "towns": [
+      "南投"
+    ],
     "cultivars": [
       "四季春"
     ],
@@ -1136,8 +1210,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "臺灣",
-    "towns": null,
+    "provinces": [
+      "臺灣"
+    ],
+    "towns": [
+      null
+    ],
     "cultivars": [
       "金萱"
     ],
@@ -1199,8 +1277,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "臺灣臺北",
-    "towns": "文山區",
+    "provinces": [
+      "臺灣臺北"
+    ],
+    "towns": [
+      "文山區"
+    ],
     "cultivars": [
       "青心烏龍",
       "金萱",
@@ -1268,8 +1350,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "臺灣",
-    "towns": null,
+    "provinces": [
+      "臺灣"
+    ],
+    "towns": [
+      null
+    ],
     "cultivars": [
       "青心烏龍",
       "金萱",
@@ -1346,8 +1432,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "臺灣臺北",
-    "towns": "木柵區",
+    "provinces": [
+      "臺灣臺北"
+    ],
+    "towns": [
+      "木柵區"
+    ],
     "cultivars": [
       "鐵觀音",
       "硬枝紅心烏龍",
@@ -1423,8 +1513,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "臺灣南投",
-    "towns": "鹿谷鄉",
+    "provinces": [
+      "臺灣南投"
+    ],
+    "towns": [
+      "鹿谷鄉"
+    ],
     "cultivars": [
       "青心烏龍"
     ],
@@ -1578,8 +1672,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國福建",
-    "towns": "武夷山市",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "武夷山市"
+    ],
     "cultivars": [
       "奇丹",
       "其他拼配"
@@ -1629,8 +1727,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國福建",
-    "towns": "武夷山市",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "武夷山市"
+    ],
     "cultivars": [
       "武夷水仙"
     ],
@@ -1680,8 +1782,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國福建",
-    "towns": "武夷山市",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "武夷山市"
+    ],
     "cultivars": [
       "武夷肉桂"
     ],
@@ -1729,8 +1835,12 @@
       "廣東烏龍"
     ],
     "harvests": [],
-    "provinces": "中國廣東",
-    "towns": "潮州市",
+    "provinces": [
+      "中國廣東"
+    ],
+    "towns": [
+      "潮州市"
+    ],
     "cultivars": [
       "鳳凰水仙"
     ],
@@ -1800,8 +1910,12 @@
       "春季",
       "秋季"
     ],
-    "provinces": "中國福建",
-    "towns": "安溪",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "安溪"
+    ],
     "cultivars": [
       "鐵觀音"
     ],
@@ -1876,8 +1990,12 @@
       "春季",
       "秋季"
     ],
-    "provinces": "中國福建",
-    "towns": "安溪",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "安溪"
+    ],
     "cultivars": [
       "本山"
     ],
@@ -1948,8 +2066,12 @@
       "春季",
       "秋季"
     ],
-    "provinces": "中國福建",
-    "towns": "安溪",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "安溪"
+    ],
     "cultivars": [
       "毛蟹"
     ],
@@ -2020,8 +2142,12 @@
       "春季",
       "秋季"
     ],
-    "provinces": "中國福建",
-    "towns": "安溪",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "安溪"
+    ],
     "cultivars": [
       "黃旦"
     ],
@@ -2091,7 +2217,9 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國福建",
+    "provinces": [
+      "中國福建"
+    ],
     "towns": [
       "福鼎， 政和， 建陽， 松溪"
     ],
@@ -2155,7 +2283,9 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國福建",
+    "provinces": [
+      "中國福建"
+    ],
     "towns": [
       "政和",
       "福鼎",
@@ -2222,8 +2352,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "中國雲南",
-    "towns": "思茅地區",
+    "provinces": [
+      "中國雲南"
+    ],
+    "towns": [
+      "思茅地區"
+    ],
     "cultivars": [
       "景谷大白茶"
     ],
@@ -2285,7 +2419,9 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "中國福建",
+    "provinces": [
+      "中國福建"
+    ],
     "towns": [
       "政和",
       "福鼎",
@@ -2346,7 +2482,9 @@
     "type": "白茶",
     "families": [],
     "harvests": [],
-    "provinces": "中國雲南",
+    "provinces": [
+      "中國雲南"
+    ],
     "cultivars": [
       "雲南大白茶"
     ],
@@ -2391,8 +2529,12 @@
       "春季",
       "夏季"
     ],
-    "provinces": "中國福建",
-    "towns": "武夷山市星村桐木關",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "武夷山市星村桐木關"
+    ],
     "cultivars": [
       "小菜茶羣體種"
     ],
@@ -2438,8 +2580,12 @@
       "春季",
       "夏季"
     ],
-    "provinces": "中國安徽",
-    "towns": "祁門",
+    "provinces": [
+      "中國安徽"
+    ],
+    "towns": [
+      "祁門"
+    ],
     "cultivars": [
       "祁門種"
     ],
@@ -2503,8 +2649,12 @@
       "春季",
       "夏季"
     ],
-    "provinces": "中國福建",
-    "towns": "福安",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "福安"
+    ],
     "cultivars": [
       "福安大白茶",
       "福鼎大毫茶"
@@ -2568,8 +2718,12 @@
     "harvests": [
       "春季"
     ],
-    "provinces": "中國福建",
-    "towns": "武夷山市星村桐木關",
+    "provinces": [
+      "中國福建"
+    ],
+    "towns": [
+      "武夷山市星村桐木關"
+    ],
     "cultivars": [
       "武夷野生奇種"
     ],
@@ -2671,8 +2825,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "中國雲南",
-    "towns": "臨滄鳳慶",
+    "provinces": [
+      "中國雲南"
+    ],
+    "towns": [
+      "臨滄鳳慶"
+    ],
     "cultivars": [
       "雲南大葉種拼配"
     ],
@@ -2721,8 +2879,12 @@
       "廣西黑茶"
     ],
     "harvests": [],
-    "provinces": "中國廣西",
-    "towns": "蒼梧縣",
+    "provinces": [
+      "中國廣西"
+    ],
+    "towns": [
+      "蒼梧縣"
+    ],
     "cultivars": [
       "當地羣體種",
       "廣西大中葉種"
@@ -2762,8 +2924,12 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "中國湖南",
-    "towns": "益陽市安化縣",
+    "provinces": [
+      "中國湖南"
+    ],
+    "towns": [
+      "益陽市安化縣"
+    ],
     "cultivars": [
       "雲臺山大葉種",
       "楮葉齊"
@@ -2806,7 +2972,9 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "中國湖北",
+    "provinces": [
+      "中國湖北"
+    ],
     "towns": [
       "蒲圻",
       "咸寧",
@@ -2849,7 +3017,9 @@
       "夏季",
       "秋季"
     ],
-    "provinces": "中國雲南",
+    "provinces": [
+      "中國雲南"
+    ],
     "towns": [
       "西雙版納區",
       "普洱市",
