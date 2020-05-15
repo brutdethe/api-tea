@@ -455,12 +455,12 @@
     "family": "炒青绿茶",
     "province": "中國貴州",
     "town": "遵義市",
-    "cultivar": "當地中小葉品種",
-    "picking": "芽葉",
     "elevation": [
       800,
       1300
     ],
+    "cultivar": "當地中小葉品種",
+    "picking": "芽葉",
     "oxidation": [
       0,
       5
@@ -494,16 +494,16 @@
     "family": "烘青绿茶",
     "province": "中國安徽",
     "town": "黃山區",
+    "elevation": [
+      400,
+      800
+    ],
     "cultivar": [
       "黃山大葉種",
       "祁門楮葉種",
       "其他外地引進品種"
     ],
     "picking": "一芽 一葉",
-    "elevation": [
-      400,
-      800
-    ],
     "oxidation": [
       0,
       5
@@ -586,16 +586,16 @@
     "family": "炒青綠茶",
     "province": "中國貴州",
     "town": "都勻市",
-    "cultivar": [
-      "都勻本地臺茶種",
-      "福鼎大白茶中小葉種"
-    ],
-    "picking": "一芽 一葉",
     "elevation": 1000,
     "oxidation": [
       0,
       5
     ],
+    "cultivar": [
+      "都勻本地臺茶種",
+      "福鼎大白茶中小葉種"
+    ],
+    "picking": "一芽 一葉",
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -626,12 +626,6 @@
     "family": "炒青綠茶",
     "province": "中國河南",
     "town": "信陽市",
-    "cultivar": [
-      "信陽本地品種",
-      "福鼎大白茶",
-      "野生茶"
-    ],
-    "picking": "一芽 一葉",
     "elevation": [
       300,
       800
@@ -640,6 +634,12 @@
       0,
       5
     ],
+    "cultivar": [
+      "信陽本地品種",
+      "福鼎大白茶",
+      "野生茶"
+    ],
+    "picking": "一芽 一葉",
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -670,11 +670,11 @@
     "family": "炒青绿茶",
     "province": "中國四川",
     "town": "峨眉山",
-    "picking": "一芽 一葉",
     "elevation": [
       800,
       1200
     ],
+    "picking": "一芽 一葉",
     "oxidation": [
       0,
       5
@@ -709,8 +709,8 @@
     "family": "炒青绿茶",
     "province": "中國安徽",
     "town": "歙縣",
-    "picking": "一芽 二葉",
     "elevation": 1300,
+    "picking": "一芽 二葉",
     "oxidation": [
       0,
       5
@@ -745,8 +745,6 @@
     "family": "烘青绿茶",
     "province": "中國安徽",
     "town": "黃山市黃山區",
-    "cultivar": "柿大茶",
-    "picking": "一芽 二葉",
     "elevation": [
       100,
       300
@@ -755,6 +753,8 @@
       0,
       5
     ],
+    "cultivar": "柿大茶",
+    "picking": "一芽 二葉",
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -868,12 +868,6 @@
     "family": "烘青绿茶",
     "province": "中國安徽",
     "town": "六安市大別山",
-    "cultivar": [
-      "獨山小葉種",
-      "齊山中葉種",
-      "外地引進品種"
-    ],
-    "picking": "單壯葉",
     "elevation": [
       100,
       300
@@ -882,6 +876,12 @@
       0,
       5
     ],
+    "cultivar": [
+      "獨山小葉種",
+      "齊山中葉種",
+      "外地引進品種"
+    ],
+    "picking": "單壯葉",
     "brewing": [
       {
         "type": "蓋碗泡法",
@@ -917,9 +917,9 @@
     ],
     "province": "臺灣",
     "town": "南投",
+    "elevation": 400,
     "cultivar": "四季春",
     "picking": "一芽 二葉",
-    "elevation": 400,
     "oxidation": [
       20,
       25
@@ -972,9 +972,9 @@
     ],
     "province": "臺灣",
     "town": null,
+    "elevation": null,
     "cultivar": "金萱",
     "picking": "一芽 二葉",
-    "elevation": null,
     "oxidation": [
       20,
       25
@@ -1952,12 +1952,12 @@
     ],
     "province": "中國雲南",
     "town": "思茅地區",
-    "cultivar": "景谷大白茶",
-    "picking": "一芽 二葉",
     "elevation": [
       1000,
       2000
     ],
+    "cultivar": "景谷大白茶",
+    "picking": "一芽 二葉",
     "oxidation": [
       5,
       10
@@ -2415,13 +2415,12 @@
     "pinyin": "ĀnHuà HēiChá",
     "type": "黑茶",
     "family": "湖南黑茶",
-    "harvest": [
-      "春季",
-      "夏季",
-      "秋季"
-    ],
     "province": "中國湖南",
     "town": "益陽市安化縣",
+    "elevation": [
+      600,
+      1400
+    ],
     "cultivar": [
       "雲臺山大葉種",
       "楮葉齊"
@@ -2431,9 +2430,10 @@
       "一芽 三四葉",
       "一芽 五六葉"
     ],
-    "elevation": [
-      600,
-      1400
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
     ],
     "fermentation": true,
     "brewing": [
@@ -2456,11 +2456,6 @@
     "pinyin": "QīngZhuān Chá",
     "type": "黑茶",
     "family": "湖北黑茶茶",
-    "harvest": [
-      "春季",
-      "夏季",
-      "秋季"
-    ],
     "province": "中國湖北",
     "town": [
       "蒲圻",
@@ -2469,10 +2464,15 @@
       "通城",
       "崇陽"
     ],
-    "cultivar": "當地品種",
     "elevation": [
       100,
       800
+    ],
+    "cultivar": "當地品種",
+    "harvest": [
+      "春季",
+      "夏季",
+      "秋季"
     ],
     "fermentation": true,
     "brewing": [
