@@ -6,19 +6,19 @@ import getSummary from './summary.mjs'
 
 const filesEndPoints = [
     'teas',
-    'types',
+    'type',
     'cultivars',
     'families',
-    'picking',
+    'pickings',
     'provinces',
     'towns',
-    'brewing-types',
+    'brews',
     'harvests',
     'themes',
     'pinyin'
 ]
 
-const dynamicEndpoints = ['tea/{zh}']
+const dynamicEndpoints = ['tea/{ideogram}']
 const endPoints = filesEndPoints.concat(dynamicEndpoints)
 
 const getJsonPath = name =>
@@ -44,13 +44,13 @@ app.get('/', cors(), (req, res) => {
     })
 })
 
-function getTea(zh) {
+function getTea(ideogram) {
     const teas = JSON.parse(fs.readFileSync(getJsonPath('teas'), 'utf8'))
-    return teas.filter(tea => tea.zh === zh)[0]
+    return teas.filter(tea => tea.ideogram === ideogram)[0]
 }
 
-app.get('/api/v1/tea/:zh', cors({ origin: '*' }), (req, res) => {
-    const query = req.params.zh
+app.get('/api/v1/tea/:ideogram', cors({ origin: '*' }), (req, res) => {
+    const query = req.params.ideogram
     const result = getTea(query)
     if (result) {
         res.status(200).send({
