@@ -26,8 +26,8 @@ const fieldsType = {
         },
         { key: 'cultivars', value: [] },
         { key: 'pickings', value: [] },
-        { key: 'elevation', value: [] },
-        { key: 'oxidation', value: [] },
+        { key: 'elevations', value: [] },
+        { key: 'oxidations', value: [] },
         { key: 'fermentation', value: false },
         {
             key: 'brews',
@@ -75,8 +75,8 @@ const fieldsType = {
             key: 'pickings',
             value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
         },
-        { key: 'elevation', value: [] },
-        { key: 'oxidation', value: [] },
+        { key: 'elevations', value: [] },
+        { key: 'oxidations', value: [] },
         { key: 'fermentation', value: [] },
         {
             field: 'brews',

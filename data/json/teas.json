@@ -217,7 +217,9 @@
       300,
       700
     ],
-    "oxidations": 10,
+    "oxidations": [
+      10
+    ],
     "fermentation": false,
     "brews": [
       {
@@ -437,7 +439,9 @@
       "一芽 二三葉",
       "一芽 四五葉"
     ],
-    "elevations": 400,
+    "elevations": [
+      400
+    ],
     "oxidations": [
       10,
       20
@@ -493,6 +497,7 @@
     "pickings": [
       "芽葉"
     ],
+    "elevations": [],
     "oxidations": [
       0,
       5
@@ -641,6 +646,7 @@
     "pickings": [
       "一芽 一葉"
     ],
+    "elevations": [],
     "oxidations": [
       0,
       5
@@ -686,7 +692,9 @@
     "pickings": [
       "一芽 一葉"
     ],
-    "elevations": 1000,
+    "elevations": [
+      1000
+    ],
     "oxidations": [
       0,
       5
@@ -825,7 +833,9 @@
     "pickings": [
       "一芽 二葉"
     ],
-    "elevations": 1300,
+    "elevations": [
+      1300
+    ],
     "oxidations": [
       0,
       5
@@ -923,6 +933,7 @@
     "pickings": [
       "一芽 二三葉"
     ],
+    "elevations": [],
     "oxidations": [
       0,
       5
@@ -970,6 +981,7 @@
     "pickings": [
       "一芽 二三葉"
     ],
+    "elevations": [],
     "oxidations": [
       0,
       5
@@ -1068,7 +1080,9 @@
     "pickings": [
       "一芽 二葉"
     ],
-    "elevations": 400,
+    "elevations": [
+      400
+    ],
     "oxidations": [
       20,
       25
@@ -1346,7 +1360,9 @@
       200,
       500
     ],
-    "oxidations": 40,
+    "oxidations": [
+      40
+    ],
     "fermentation": false,
     "brews": [
       {
@@ -1575,7 +1591,9 @@
       200,
       300
     ],
-    "oxidations": 70,
+    "oxidations": [
+      70
+    ],
     "fermentation": false,
     "brews": [
       {
@@ -2335,6 +2353,7 @@
     "pickings": [
       "一芽 二三葉"
     ],
+    "elevations": [],
     "oxidations": [
       5,
       10
@@ -2380,7 +2399,9 @@
     "pickings": [
       "一芽 二三葉"
     ],
-    "elevations": 1100,
+    "elevations": [
+      1100
+    ],
     "oxidations": [
       80,
       95
@@ -2607,6 +2628,8 @@
     ],
     "cultivars": [],
     "pickings": [],
+    "elevations": [],
+    "oxidations": [],
     "fermentation": false,
     "brews": [
       {
@@ -2658,7 +2681,9 @@
       "一芽 一葉",
       "一芽 二三葉"
     ],
-    "elevations": 1000,
+    "elevations": [
+      1000
+    ],
     "oxidations": [
       80,
       90
@@ -2710,6 +2735,7 @@
       1000,
       1500
     ],
+    "oxidations": [],
     "fermentation": false,
     "brews": [
       {
@@ -2751,6 +2777,7 @@
       600,
       1400
     ],
+    "oxidations": [],
     "fermentation": true,
     "brews": [
       {
@@ -2795,6 +2822,7 @@
       100,
       800
     ],
+    "oxidations": [],
     "fermentation": true,
     "brews": [
       {
@@ -2832,7 +2860,9 @@
     ],
     "pickings": null,
     "elevations": null,
-    "oxidations": 100,
+    "oxidations": [
+      100
+    ],
     "fermentation": false,
     "brews": [
       {

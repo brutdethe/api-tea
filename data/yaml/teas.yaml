@@ -3,7 +3,7 @@
   type: 黃茶
   families: 黃小茶
   harvests: 春季
-  provinces: 中國浙江
+  provinces: [中國浙江]
   towns:
     - 平陽
     - 泰順
@@ -49,8 +49,8 @@
   type: 黃茶
   families: 黃小茶
   harvests: 春季
-  provinces: 中國湖南
-  towns: 岳陽
+  provinces: [中國湖南]
+  towns: [岳陽]
   cultivars: 當地特色羣體品種
   pickings:
     - 一芽 一葉
@@ -90,8 +90,8 @@
   type: 黃茶
   families: 黃小茶
   harvests: 春季
-  provinces: 中國湖南
-  towns: 寧鄉縣
+  provinces: [中國湖南]
+  towns: [寧鄉縣]
   cultivars: 當地特色羣體品種
   pickings:
     - 一芽 一葉
@@ -133,8 +133,8 @@
   type: 黃茶
   families: 黃芽茶
   harvests: 春季
-  provinces: 中國安徽
-  towns: 霍山
+  provinces: [中國安徽]
+  towns: [霍山]
   cultivars: 霍山金雞種
   pickings: 一芽 一二葉
   elevations:
@@ -172,8 +172,8 @@
   type: 黃茶
   families: 黃芽茶
   harvests: 春季
-  provinces: 中國湖南
-  towns: 岳陽洞庭湖君山
+  provinces: [中國湖南]
+  towns: [岳陽洞庭湖君山]
   cultivars: 當地品種
   pickings: 芽葉
   elevations:
@@ -201,8 +201,8 @@
   type: 黃茶
   families: 黃芽茶
   harvests: 春季
-  provinces: 中國四川
-  towns: 雅安蒙山
+  provinces: [中國四川]
+  towns: [雅安蒙山]
   cultivars: 當地品種
   pickings:
     - 單芽
@@ -232,7 +232,7 @@
   type: 黃茶
   families: 黃大茶
   harvests: 春季
-  provinces: 中國廣東
+  provinces: [中國廣東]
   towns:
     - 韶關
     - 肇慶
@@ -272,7 +272,7 @@
   type: 黃茶
   families: 黃大茶
   harvests: 春季
-  provinces: 中國安徽
+  provinces: [中國安徽]
   towns:
     - 霍山
     - 金寨
@@ -314,8 +314,8 @@
   pinyin: BìLuóChūn
   type: 綠茶
   families: 炒青绿茶
-  provinces: 中國江蘇
-  towns: 蘇州市
+  provinces: [中國江蘇]
+  towns: [蘇州市]
   cultivars: 東西山羣體種
   pickings: 芽葉
   oxidations:
@@ -339,8 +339,8 @@
   pinyin: MéiTánCuìYá
   type: 綠茶
   families: 炒青绿茶
-  provinces: 中國貴州
-  towns: 遵義市
+  provinces: [中國貴州]
+  towns: [遵義市]
   elevations:
     - 800
     - 1300
@@ -368,8 +368,8 @@
   pinyin: HuángShān MáoFēng
   type: 綠茶
   families: 烘青绿茶
-  provinces: 中國安徽
-  towns: 黃山區
+  provinces: [中國安徽]
+  towns: [黃山區]
   elevations:
     - 400
     - 800
@@ -405,8 +405,8 @@
   pinyin: LóngJǐng
   type: 綠茶
   families: 炒青绿茶
-  provinces: 中國浙江
-  towns: 杭州市西湖區龍井村
+  provinces: [中國浙江]
+  towns: [杭州市西湖區龍井村]
   cultivars:
     - 龍井43
     - 平陽特皂
@@ -437,8 +437,8 @@
   pinyin: DūYún MáoJiān
   type: 綠茶
   families: 炒青綠茶
-  provinces: 中國貴州
-  towns: 都勻市
+  provinces: [中國貴州]
+  towns: [都勻市]
   elevations: 1000
   oxidations:
     - 0
@@ -467,8 +467,8 @@
   pinyin: XìnYáng MáoJiān
   type: 綠茶
   families: 炒青綠茶
-  provinces: 中國河南
-  towns: 信陽市
+  provinces: [中國河南]
+  towns: [信陽市]
   elevations:
     - 300
     - 800
@@ -500,8 +500,8 @@
   pinyin: ZhúYèGīng
   type: 綠茶
   families: 炒青绿茶
-  provinces: 中國四川
-  towns: 峨眉山
+  provinces: [中國四川]
+  towns: [峨眉山]
   elevations:
     - 800
     - 1200
@@ -529,8 +529,8 @@
   pinyin: DǐngGǔDàFāng
   type: 綠茶
   families: 炒青绿茶
-  provinces: 中國安徽
-  towns: 歙縣
+  provinces: [中國安徽]
+  towns: [歙縣]
   elevations: 1300
   pickings: 一芽 二葉
   oxidations:
@@ -556,8 +556,8 @@
   pinyin: TàiPíng HóuKuí
   type: 綠茶
   families: 烘青绿茶
-  provinces: 中國安徽
-  towns: 黃山市黃山區
+  provinces: [中國安徽]
+  towns: [黃山市黃山區]
   elevations:
     - 100
     - 300
@@ -590,7 +590,7 @@
   pinyin: LǜBǎoShí
   type: 綠茶
   families: 炒青綠茶
-  provinces: 中國貴州
+  provinces: [中國貴州]
   cultivars: 鳳岡鋅硒茶毛茶
   pickings:
     - 一芽 二三葉
@@ -621,7 +621,7 @@
   pinyin: ZhūChá
   type: 綠茶
   families: 炒青绿茶
-  provinces: 中國浙江
+  provinces: [中國浙江]
   pickings: 一芽 二三葉
   oxidations:
     - 0
@@ -646,8 +646,8 @@
   pinyin: LiùĀn GuāPiàn
   type: 綠茶
   families: 烘青绿茶
-  provinces: 中國安徽
-  towns: 六安市大別山
+  provinces: [中國安徽]
+  towns: [六安市大別山]
   elevations:
     - 100
     - 300
@@ -683,8 +683,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 臺灣
-  towns: 南投
+  provinces: [臺灣]
+  towns: [南投]
   elevations: 400
   cultivars: 四季春
   pickings: 一芽 二葉
@@ -726,8 +726,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 臺灣
-  towns: null
+  provinces: [臺灣]
+  towns: [null]
   elevations: null
   cultivars: 金萱
   pickings: 一芽 二葉
@@ -770,8 +770,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 臺灣臺北
-  towns: 文山區
+  provinces: [臺灣臺北]
+  towns: [文山區]
   cultivars:
     - 青心烏龍
     - 金萱
@@ -820,8 +820,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 臺灣
-  towns: null
+  provinces: [臺灣]
+  towns: [null]
   cultivars:
     - 青心烏龍
     - 金萱
@@ -877,8 +877,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 臺灣臺北
-  towns: 木柵區
+  provinces: [臺灣臺北]
+  towns: [木柵區]
   cultivars:
     - 鐵觀音
     - 硬枝紅心烏龍
@@ -932,8 +932,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 臺灣南投
-  towns: 鹿谷鄉
+  provinces: [臺灣南投]
+  towns: [鹿谷鄉]
   cultivars: 青心烏龍
   pickings: 一芽 二葉
   elevations:
@@ -1040,8 +1040,8 @@
   type: 青茶
   families: 閩北烏龍
   harvests: 春季
-  provinces: 中國福建
-  towns: 武夷山市
+  provinces: [中國福建]
+  towns: [武夷山市]
   cultivars:
     - 奇丹
     - 其他拼配
@@ -1073,8 +1073,8 @@
   type: 青茶
   families: 閩北烏龍
   harvests: 春季
-  provinces: 中國福建
-  towns: 武夷山市
+  provinces: [中國福建]
+  towns: [武夷山市]
   cultivars: 武夷水仙
   pickings: 一芽 三四葉
   elevations:
@@ -1106,8 +1106,8 @@
   type: 青茶
   families: 閩北烏龍
   harvests: 春季
-  provinces: 中國福建
-  towns: 武夷山市
+  provinces: [中國福建]
+  towns: [武夷山市]
   cultivars: 武夷肉桂
   pickings: 一芽 三四葉
   elevations:
@@ -1138,8 +1138,8 @@
   pinyin: FèngHuáng DānCóng
   type: 青茶
   families: 廣東烏龍
-  provinces: 中國廣東
-  towns: 潮州市
+  provinces: [中國廣東]
+  towns: [潮州市]
   cultivars: 鳳凰水仙
   pickings: 一芽 二三葉
   elevations:
@@ -1187,8 +1187,8 @@
   harvests:
     - 春季
     - 秋季
-  provinces: 中國福建
-  towns: 安溪
+  provinces: [中國福建]
+  towns: [安溪]
   cultivars: 鐵觀音
   pickings:
     - 一芽 二三葉
@@ -1242,8 +1242,8 @@
   harvests:
     - 春季
     - 秋季
-  provinces: 中國福建
-  towns: 安溪
+  provinces: [中國福建]
+  towns: [安溪]
   cultivars: 本山
   pickings:
     - 一芽 二三葉
@@ -1293,8 +1293,8 @@
   harvests:
     - 春季
     - 秋季
-  provinces: 中國福建
-  towns: 安溪
+  provinces: [中國福建]
+  towns: [安溪]
   cultivars: 毛蟹
   pickings:
     - 一芽 二三葉
@@ -1344,8 +1344,8 @@
   harvests:
     - 春季
     - 秋季
-  provinces: 中國福建
-  towns: 安溪
+  provinces: [中國福建]
+  towns: [安溪]
   cultivars: 黃旦
   pickings:
     - 一芽 二三葉
@@ -1393,7 +1393,7 @@
   type: 白茶
   families: 芽茶
   harvests: 春季
-  provinces: 中國福建
+  provinces: [中國福建]
   towns:
     - 福鼎， 政和， 建陽， 松溪
   cultivars:
@@ -1436,7 +1436,7 @@
   type: 白茶
   families: 葉茶
   harvests: 春季
-  provinces: 中國福建
+  provinces: [中國福建]
   towns:
     - 政和
     - 福鼎
@@ -1484,8 +1484,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 中國雲南
-  towns: 思茅地區
+  provinces: [中國雲南]
+  towns: [思茅地區]
   elevations:
     - 1000
     - 2000
@@ -1527,7 +1527,7 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 中國福建
+  provinces: [中國福建]
   towns:
     - 政和
     - 福鼎
@@ -1569,7 +1569,7 @@
 - ideogram: 雲南白茶磚
   pinyin: YúnNán BáiChá Zhuān
   type: 白茶
-  provinces: 中國雲南
+  provinces: [中國雲南]
 
   cultivars: 雲南大白茶
   pickings: 一芽 二三葉
@@ -1598,8 +1598,8 @@
   harvests:
     - 春季
     - 夏季
-  provinces: 中國福建
-  towns: 武夷山市星村桐木關
+  provinces: [中國福建]
+  towns: [武夷山市星村桐木關]
   cultivars: 小菜茶羣體種
   pickings: 一芽 二三葉
   elevations: 1100
@@ -1628,8 +1628,8 @@
   harvests:
     - 春季
     - 夏季
-  provinces: 中國安徽
-  towns: 祁門
+  provinces: [中國安徽]
+  towns: [祁門]
   cultivars: 祁門種
   pickings: 一芽 二三葉
   elevations:
@@ -1671,8 +1671,8 @@
   harvests:
     - 春季
     - 夏季
-  provinces: 中國福建
-  towns: 福安
+  provinces: [中國福建]
+  towns: [福安]
   cultivars:
     - 福安大白茶
     - 福鼎大毫茶
@@ -1714,8 +1714,8 @@
   type: 紅茶
   families: 小種紅茶
   harvests: 春季
-  provinces: 中國福建
-  towns: 武夷山市星村桐木關
+  provinces: [中國福建]
+  towns: [武夷山市星村桐木關]
   cultivars: 武夷野生奇種
   pickings: 芽葉
   elevations:
@@ -1781,8 +1781,8 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 中國雲南
-  towns: 臨滄鳳慶
+  provinces: [中國雲南]
+  towns: [臨滄鳳慶]
   cultivars: 雲南大葉種拼配
   pickings:
     - 芽葉
@@ -1815,8 +1815,8 @@
   pinyin: LiùBǎoChá
   type: 黑茶
   families: 廣西黑茶
-  provinces: 中國廣西
-  towns: 蒼梧縣
+  provinces: [中國廣西]
+  towns: [蒼梧縣]
   cultivars:
     - 當地羣體種
     - 廣西大中葉種
@@ -1839,8 +1839,8 @@
   pinyin: ĀnHuà HēiChá
   type: 黑茶
   families: 湖南黑茶
-  provinces: 中國湖南
-  towns: 益陽市安化縣
+  provinces: [中國湖南]
+  towns: [益陽市安化縣]
   elevations:
     - 600
     - 1400
@@ -1870,7 +1870,7 @@
   pinyin: QīngZhuān Chá
   type: 黑茶
   families: 湖北黑茶茶
-  provinces: 中國湖北
+  provinces: [中國湖北]
   towns:
     - 蒲圻
     - 咸寧
@@ -1903,7 +1903,7 @@
     - 春季
     - 夏季
     - 秋季
-  provinces: 中國雲南
+  provinces: [中國雲南]
   towns:
     - 西雙版納區
     - 普洱市
