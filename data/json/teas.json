@@ -1,39 +1,45 @@
 [
   {
-    "zh": "平陽黃湯",
+    "ideogram": "平陽黃湯",
     "pinyin": "PíngYáng HuángTāng",
     "type": "黃茶",
-    "family": "黃小茶",
-    "harvest": "春季",
-    "province": "中國浙江",
-    "town": [
+    "families": [
+      "黃小茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國浙江",
+    "towns": [
       "平陽",
       "泰順",
       "瑞安"
     ],
-    "cultivar": "平陽特色羣體品種",
-    "picking": [
+    "cultivars": [
+      "平陽特色羣體品種"
+    ],
+    "pickings": [
       "一芽 一葉",
       "一芽 二葉"
     ],
-    "elevation": [
+    "elevations": [
       300,
       1200
     ],
-    "oxidation": [
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -45,12 +51,12 @@
       },
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           30,
           60,
           120
@@ -63,33 +69,39 @@
     ]
   },
   {
-    "zh": "北港毛尖",
+    "ideogram": "北港毛尖",
     "pinyin": "BěiGǎng MáoJiān",
     "type": "黃茶",
-    "family": "黃小茶",
-    "harvest": "春季",
-    "province": "中國湖南",
-    "town": "岳陽",
-    "cultivar": "當地特色羣體品種",
-    "picking": [
+    "families": [
+      "黃小茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國湖南",
+    "towns": "岳陽",
+    "cultivars": [
+      "當地特色羣體品種"
+    ],
+    "pickings": [
       "一芽 一葉",
       "一芽 二葉"
     ],
-    "elevation": null,
-    "oxidation": [
+    "elevations": null,
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -101,12 +113,12 @@
       },
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           30,
           60,
           120
@@ -119,36 +131,42 @@
     ]
   },
   {
-    "zh": "溈山毛尖",
+    "ideogram": "溈山毛尖",
     "pinyin": "WéiShān MáoJiān",
     "type": "黃茶",
-    "family": "黃小茶",
-    "harvest": "春季",
-    "province": "中國湖南",
-    "town": "寧鄉縣",
-    "cultivar": "當地特色羣體品種",
-    "picking": [
+    "families": [
+      "黃小茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國湖南",
+    "towns": "寧鄉縣",
+    "cultivars": [
+      "當地特色羣體品種"
+    ],
+    "pickings": [
       "一芽 一葉",
       "一芽 二三葉"
     ],
-    "elevation": [
+    "elevations": [
       400,
       900
     ],
-    "oxidation": [
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -160,12 +178,12 @@
       },
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           30,
           60,
           120
@@ -178,32 +196,38 @@
     ]
   },
   {
-    "zh": "霍山黃芽",
+    "ideogram": "霍山黃芽",
     "pinyin": "HuòShān HuángYá",
     "type": "黃茶",
-    "family": "黃芽茶",
-    "harvest": "春季",
-    "province": "中國安徽",
-    "town": "霍山",
-    "cultivar": "霍山金雞種",
-    "picking": "一芽 一二葉",
-    "elevation": [
+    "families": [
+      "黃芽茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國安徽",
+    "towns": "霍山",
+    "cultivars": [
+      "霍山金雞種"
+    ],
+    "pickings": [
+      "一芽 一二葉"
+    ],
+    "elevations": [
       300,
       700
     ],
-    "oxidation": [
-      10
-    ],
+    "oxidations": 10,
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           75,
           80
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -215,12 +239,12 @@
       },
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           30,
           60,
           120
@@ -233,33 +257,41 @@
     ]
   },
   {
-    "zh": "君山銀針",
+    "ideogram": "君山銀針",
     "pinyin": "JūnShān YínZhēn",
     "type": "黃茶",
-    "family": "黃芽茶",
-    "harvest": "春季",
-    "province": "中國湖南",
-    "town": "岳陽洞庭湖君山",
-    "cultivar": "當地品種",
-    "picking": "芽葉",
-    "elevation": [
+    "families": [
+      "黃芽茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國湖南",
+    "towns": "岳陽洞庭湖君山",
+    "cultivars": [
+      "當地品種"
+    ],
+    "pickings": [
+      "芽葉"
+    ],
+    "elevations": [
       50,
       63
     ],
-    "oxidation": [
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           75,
           80
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -272,36 +304,42 @@
     ]
   },
   {
-    "zh": "蒙頂黃芽",
+    "ideogram": "蒙頂黃芽",
     "pinyin": "MéngDǐng HuángYá",
     "type": "黃茶",
-    "family": "黃芽茶",
-    "harvest": "春季",
-    "province": "中國四川",
-    "town": "雅安蒙山",
-    "cultivar": "當地品種",
-    "picking": [
+    "families": [
+      "黃芽茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國四川",
+    "towns": "雅安蒙山",
+    "cultivars": [
+      "當地品種"
+    ],
+    "pickings": [
       "單芽",
       "芽葉"
     ],
-    "elevation": [
+    "elevations": [
       1000,
       1400
     ],
-    "oxidation": [
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           75,
           80
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -314,34 +352,42 @@
     ]
   },
   {
-    "zh": "廣東大葉青",
+    "ideogram": "廣東大葉青",
     "pinyin": "GuǎngDōng DàyèQīng",
     "type": "黃茶",
-    "family": "黃大茶",
-    "harvest": "春季",
-    "province": "中國廣東",
-    "town": [
+    "families": [
+      "黃大茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國廣東",
+    "towns": [
       "韶關",
       "肇慶",
       "湛江"
     ],
-    "cultivar": "雲南大葉種",
-    "picking": "一芽 二三葉",
-    "elevation": null,
-    "oxidation": [
+    "cultivars": [
+      "雲南大葉種"
+    ],
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "elevations": null,
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -353,9 +399,9 @@
       },
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           30,
           60,
           120
@@ -368,40 +414,44 @@
     ]
   },
   {
-    "zh": "霍山黃大茶",
+    "ideogram": "霍山黃大茶",
     "pinyin": "HuòShān HuángDàChá",
     "type": "黃茶",
-    "family": "黃大茶",
-    "harvest": "春季",
-    "province": "中國安徽",
-    "town": [
+    "families": [
+      "黃大茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國安徽",
+    "towns": [
       "霍山",
       "金寨",
       "大安",
       "岳西"
     ],
-    "cultivar": "當地品種",
-    "picking": [
+    "cultivars": [
+      "當地品種"
+    ],
+    "pickings": [
       "一芽 二三葉",
       "一芽 四五葉"
     ],
-    "elevation": [
-      400
-    ],
-    "oxidation": [
+    "elevations": 400,
+    "oxidations": [
       10,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           90,
           120,
           180
@@ -413,9 +463,9 @@
       },
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           30,
           60,
           120
@@ -428,29 +478,35 @@
     ]
   },
   {
-    "zh": "碧螺春",
+    "ideogram": "碧螺春",
     "pinyin": "BìLuóChūn",
     "type": "綠茶",
-    "family": "炒青绿茶",
-    "province": "中國江蘇",
-    "town": "蘇州市",
-    "cultivar": "東西山羣體種",
-    "picking": "芽葉",
-    "elevation": [],
-    "oxidation": [
+    "families": [
+      "炒青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國江蘇",
+    "towns": "蘇州市",
+    "cultivars": [
+      "東西山羣體種"
+    ],
+    "pickings": [
+      "芽葉"
+    ],
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           25,
           30,
           45
@@ -463,29 +519,36 @@
     ]
   },
   {
-    "zh": "湄潭翠芽",
+    "ideogram": "湄潭翠芽",
     "pinyin": "MéiTánCuìYá",
     "type": "綠茶",
-    "family": "炒青绿茶",
-    "province": "中國貴州",
-    "town": "遵義市",
-    "cultivar": "當地中小葉品種",
-    "picking": "芽葉",
-    "elevation": [
+    "families": [
+      "炒青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國貴州",
+    "towns": "遵義市",
+    "cultivars": [
+      "當地中小葉品種"
+    ],
+    "pickings": [
+      "芽葉"
+    ],
+    "elevations": [
       800,
       1300
     ],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           25,
           30,
           45
@@ -497,42 +560,47 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "黄山毛峰",
+    "ideogram": "黄山毛峰",
     "pinyin": "HuángShān MáoFēng",
     "type": "綠茶",
-    "family": "烘青绿茶",
-    "province": "中國安徽",
-    "town": "黃山區",
-    "cultivar": [
+    "families": [
+      "烘青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國安徽",
+    "towns": "黃山區",
+    "cultivars": [
       "黃山大葉種",
       "祁門楮葉種",
       "其他外地引進品種"
     ],
-    "picking": "一芽 一葉",
-    "elevation": [
+    "pickings": [
+      "一芽 一葉"
+    ],
+    "elevations": [
       400,
       800
     ],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           90
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -545,7 +613,7 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           80,
           90
         ],
@@ -554,32 +622,36 @@
     ]
   },
   {
-    "zh": "龍井茶",
+    "ideogram": "龍井茶",
     "pinyin": "LóngJǐng",
     "type": "綠茶",
-    "family": "炒青绿茶",
-    "province": "中國浙江",
-    "town": "杭州市西湖區龍井村",
-    "cultivar": [
+    "families": [
+      "炒青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國浙江",
+    "towns": "杭州市西湖區龍井村",
+    "cultivars": [
       "龍井43",
       "平陽特皂",
       "浙農117",
       "浙農139",
       "烏牛早"
     ],
-    "picking": "一芽 一葉",
-    "elevation": [],
-    "oxidation": [
+    "pickings": [
+      "一芽 一葉"
+    ],
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 85,
+        "temperatures": 85,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -592,37 +664,40 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 85,
+        "temperatures": 85,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "都勻毛尖",
+    "ideogram": "都勻毛尖",
     "pinyin": "DūYún MáoJiān",
     "type": "綠茶",
-    "family": "炒青綠茶",
-    "province": "中國貴州",
-    "town": "都勻市",
-    "cultivar": [
+    "families": [
+      "炒青綠茶"
+    ],
+    "harvests": [],
+    "provinces": "中國貴州",
+    "towns": "都勻市",
+    "cultivars": [
       "都勻本地臺茶種",
       "福鼎大白茶中小葉種"
     ],
-    "picking": "一芽 一葉",
-    "elevation": [
-      1000
+    "pickings": [
+      "一芽 一葉"
     ],
-    "oxidation": [
+    "elevations": 1000,
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -635,39 +710,44 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "信阳毛尖",
+    "ideogram": "信阳毛尖",
     "pinyin": "XìnYáng MáoJiān",
     "type": "綠茶",
-    "family": "炒青綠茶",
-    "province": "中國河南",
-    "town": "信陽市",
-    "cultivar": [
+    "families": [
+      "炒青綠茶"
+    ],
+    "harvests": [],
+    "provinces": "中國河南",
+    "towns": "信陽市",
+    "cultivars": [
       "信陽本地品種",
       "福鼎大白茶",
       "野生茶"
     ],
-    "picking": "一芽 一葉",
-    "elevation": [
+    "pickings": [
+      "一芽 一葉"
+    ],
+    "elevations": [
       300,
       800
     ],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -680,34 +760,40 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "竹葉青",
+    "ideogram": "竹葉青",
     "pinyin": "ZhúYèGīng",
     "type": "綠茶",
-    "family": "炒青绿茶",
-    "province": "中國四川",
-    "town": "峨眉山",
-    "picking": "一芽 一葉",
-    "elevation": [
+    "families": [
+      "炒青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國四川",
+    "towns": "峨眉山",
+    "cultivars": [],
+    "pickings": [
+      "一芽 一葉"
+    ],
+    "elevations": [
       800,
       1200
     ],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 85,
+        "temperatures": 85,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -720,33 +806,37 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 85,
+        "temperatures": 85,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "頂谷大方",
+    "ideogram": "頂谷大方",
     "pinyin": "DǐngGǔDàFāng",
     "type": "綠茶",
-    "family": "炒青绿茶",
-    "province": "中國安徽",
-    "town": "歙縣",
-    "picking": "一芽 二葉",
-    "elevation": [
-      1300
+    "families": [
+      "炒青绿茶"
     ],
-    "oxidation": [
+    "harvests": [],
+    "provinces": "中國安徽",
+    "towns": "歙縣",
+    "cultivars": [],
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": 1300,
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -759,38 +849,45 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 80,
+        "temperatures": 80,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "太平猴魁",
+    "ideogram": "太平猴魁",
     "pinyin": "TàiPíng HóuKuí",
     "type": "綠茶",
-    "family": "烘青绿茶",
-    "province": "中國安徽",
-    "town": "黃山市黃山區",
-    "cultivar": "柿大茶",
-    "picking": "一芽 二葉",
-    "elevation": [
+    "families": [
+      "烘青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國安徽",
+    "towns": "黃山市黃山區",
+    "cultivars": [
+      "柿大茶"
+    ],
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [
       100,
       300
     ],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           90
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -803,7 +900,7 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           80,
           90
         ],
@@ -812,30 +909,34 @@
     ]
   },
   {
-    "zh": "綠寶石",
+    "ideogram": "綠寶石",
     "pinyin": "LǜBǎoShí",
     "type": "綠茶",
-    "family": "炒青綠茶",
-    "province": "中國貴州",
-    "cultivar": "鳳岡鋅硒茶毛茶",
-    "picking": [
+    "families": [
+      "炒青綠茶"
+    ],
+    "harvests": [],
+    "provinces": "中國貴州",
+    "cultivars": [
+      "鳳岡鋅硒茶毛茶"
+    ],
+    "pickings": [
       "一芽 二三葉"
     ],
-    "elevation": [],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -848,7 +949,7 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
@@ -857,24 +958,29 @@
     ]
   },
   {
-    "zh": "珠茶",
+    "ideogram": "珠茶",
     "pinyin": "ZhūChá",
     "type": "綠茶",
-    "family": "炒青绿茶",
-    "province": "中國浙江",
-    "picking": "一芽 二三葉",
-    "elevation": [],
-    "oxidation": [
+    "families": [
+      "炒青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國浙江",
+    "cultivars": [],
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -887,39 +993,44 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "六安瓜片",
+    "ideogram": "六安瓜片",
     "pinyin": "LiùĀn GuāPiàn",
     "type": "綠茶",
-    "family": "烘青绿茶",
-    "province": "中國安徽",
-    "town": "六安市大別山",
-    "cultivar": [
+    "families": [
+      "烘青绿茶"
+    ],
+    "harvests": [],
+    "provinces": "中國安徽",
+    "towns": "六安市大別山",
+    "cultivars": [
       "獨山小葉種",
       "齊山中葉種",
       "外地引進品種"
     ],
-    "picking": "單壯葉",
-    "elevation": [
+    "pickings": [
+      "單壯葉"
+    ],
+    "elevations": [
       100,
       300
     ],
-    "oxidation": [
+    "oxidations": [
       0,
       5
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 85,
+        "temperatures": 85,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           20,
           30,
           40,
@@ -932,39 +1043,43 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 85,
+        "temperatures": 85,
         "quantity": "1:50"
       }
     ]
   },
   {
-    "zh": "四季春",
+    "ideogram": "四季春",
     "pinyin": "SìJìChūn",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "臺灣",
-    "town": "南投",
-    "cultivar": "四季春",
-    "picking": "一芽 二葉",
-    "elevation": [
-      400
+    "provinces": "臺灣",
+    "towns": "南投",
+    "cultivars": [
+      "四季春"
     ],
-    "oxidation": [
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": 400,
+    "oxidations": [
       20,
       25
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -979,9 +1094,9 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -996,31 +1111,37 @@
     ]
   },
   {
-    "zh": "金萱",
+    "ideogram": "金萱",
     "pinyin": "Jīn Xuān",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "臺灣",
-    "town": null,
-    "cultivar": "金萱",
-    "picking": "一芽 二葉",
-    "elevation": null,
-    "oxidation": [
+    "provinces": "臺灣",
+    "towns": null,
+    "cultivars": [
+      "金萱"
+    ],
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": null,
+    "oxidations": [
       20,
       25
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1035,9 +1156,9 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1053,39 +1174,43 @@
     ]
   },
   {
-    "zh": "文山包種",
+    "ideogram": "文山包種",
     "pinyin": "WénShān BāoZhǒng",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "臺灣臺北",
-    "town": "文山區",
-    "cultivar": [
+    "provinces": "臺灣臺北",
+    "towns": "文山區",
+    "cultivars": [
       "青心烏龍",
       "金萱",
       "翠玉",
       "四季春"
     ],
-    "picking": "一芽 二葉",
-    "elevation": [
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [
       400,
       600
     ],
-    "oxidation": [
+    "oxidations": [
       12,
       15
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1100,9 +1225,9 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1118,41 +1243,45 @@
     ]
   },
   {
-    "zh": "高山茶",
+    "ideogram": "高山茶",
     "pinyin": "GāoShānChá",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "臺灣",
-    "town": null,
-    "cultivar": [
+    "provinces": "臺灣",
+    "towns": null,
+    "cultivars": [
       "青心烏龍",
       "金萱",
       "翠玉"
     ],
-    "picking": "一芽 二葉",
-    "elevation": [
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [
       1000,
       2500
     ],
-    "oxidation": [
+    "oxidations": [
       15,
       20
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           20,
           15,
           20,
@@ -1169,12 +1298,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           20,
           15,
           20,
@@ -1192,40 +1321,42 @@
     ]
   },
   {
-    "zh": "木柵鐵觀音",
+    "ideogram": "木柵鐵觀音",
     "pinyin": "MùShān TiěGuānYīn",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "臺灣臺北",
-    "town": "木柵區",
-    "cultivar": [
+    "provinces": "臺灣臺北",
+    "towns": "木柵區",
+    "cultivars": [
       "鐵觀音",
       "硬枝紅心烏龍",
       "金萱"
     ],
-    "picking": "一芽 二葉",
-    "elevation": [
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [
       200,
       500
     ],
-    "oxidation": [
-      40
-    ],
+    "oxidations": 40,
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1242,12 +1373,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1265,37 +1396,43 @@
     ]
   },
   {
-    "zh": "凍頂烏龍",
+    "ideogram": "凍頂烏龍",
     "pinyin": "DòngDǐng WūLóng",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "臺灣南投",
-    "town": "鹿谷鄉",
-    "cultivar": "青心烏龍",
-    "picking": "一芽 二葉",
-    "elevation": [
+    "provinces": "臺灣南投",
+    "towns": "鹿谷鄉",
+    "cultivars": [
+      "青心烏龍"
+    ],
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [
       600,
       800
     ],
-    "oxidation": [
+    "oxidations": [
       25,
       30
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1312,12 +1449,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1335,42 +1472,48 @@
     ]
   },
   {
-    "zh": "東方美人",
+    "ideogram": "東方美人",
     "pinyin": "DōngFāngMěiRén",
     "type": "青茶",
-    "family": "臺灣烏龍",
-    "harvest": "夏季",
-    "province": [
+    "families": [
+      "臺灣烏龍"
+    ],
+    "harvests": [
+      "夏季"
+    ],
+    "provinces": [
       "臺灣新竹，苗栗"
     ],
-    "town": [
+    "towns": [
       "北埔",
       "公館"
     ],
-    "cultivar": [
+    "cultivars": [
       "青心大某",
       "青心烏龍",
       "白毛猴"
     ],
-    "picking": "一芽 一葉",
-    "elevation": [
+    "pickings": [
+      "一芽 一葉"
+    ],
+    "elevations": [
       300,
       500
     ],
-    "oxidation": [
+    "oxidations": [
       60,
       75
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           20,
           15,
           20,
@@ -1387,12 +1530,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           85,
           90
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           20,
           15,
           20,
@@ -1410,35 +1553,39 @@
     ]
   },
   {
-    "zh": "大紅袍",
+    "ideogram": "大紅袍",
     "pinyin": "DàHóngPáo",
     "type": "青茶",
-    "family": "閩北烏龍",
-    "harvest": "春季",
-    "province": "中國福建",
-    "town": "武夷山市",
-    "cultivar": [
+    "families": [
+      "閩北烏龍"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國福建",
+    "towns": "武夷山市",
+    "cultivars": [
       "奇丹",
       "其他拼配"
     ],
-    "picking": "一芽 三四葉",
-    "elevation": [
+    "pickings": [
+      "一芽 三四葉"
+    ],
+    "elevations": [
       200,
       300
     ],
-    "oxidation": [
-      70
-    ],
+    "oxidations": 70,
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           5,
           8,
           10,
@@ -1455,33 +1602,41 @@
     ]
   },
   {
-    "zh": "武夷水仙",
+    "ideogram": "武夷水仙",
     "pinyin": "WǔYí ShuǐXiān",
     "type": "青茶",
-    "family": "閩北烏龍",
-    "harvest": "春季",
-    "province": "中國福建",
-    "town": "武夷山市",
-    "cultivar": "武夷水仙",
-    "picking": "一芽 三四葉",
-    "elevation": [
+    "families": [
+      "閩北烏龍"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國福建",
+    "towns": "武夷山市",
+    "cultivars": [
+      "武夷水仙"
+    ],
+    "pickings": [
+      "一芽 三四葉"
+    ],
+    "elevations": [
       200,
       300
     ],
-    "oxidation": [
+    "oxidations": [
       35,
       45
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           5,
           8,
           10,
@@ -1498,33 +1653,41 @@
     ]
   },
   {
-    "zh": "肉桂",
+    "ideogram": "肉桂",
     "pinyin": "RòuGuì",
     "type": "青茶",
-    "family": "閩北烏龍",
-    "harvest": "春季",
-    "province": "中國福建",
-    "town": "武夷山市",
-    "cultivar": "武夷肉桂",
-    "picking": "一芽 三四葉",
-    "elevation": [
+    "families": [
+      "閩北烏龍"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國福建",
+    "towns": "武夷山市",
+    "cultivars": [
+      "武夷肉桂"
+    ],
+    "pickings": [
+      "一芽 三四葉"
+    ],
+    "elevations": [
       200,
       300
     ],
-    "oxidation": [
+    "oxidations": [
       35,
       45
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           5,
           8,
           10,
@@ -1541,32 +1704,39 @@
     ]
   },
   {
-    "zh": "鳳凰單叢",
+    "ideogram": "鳳凰單叢",
     "pinyin": "FèngHuáng DānCóng",
     "type": "青茶",
-    "family": "廣東烏龍",
-    "province": "中國廣東",
-    "town": "潮州市",
-    "cultivar": "鳳凰水仙",
-    "picking": "一芽 二三葉",
-    "elevation": [
+    "families": [
+      "廣東烏龍"
+    ],
+    "harvests": [],
+    "provinces": "中國廣東",
+    "towns": "潮州市",
+    "cultivars": [
+      "鳳凰水仙"
+    ],
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "elevations": [
       500,
       1100
     ],
-    "oxidation": [
+    "oxidations": [
       70,
       80
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           3,
           5,
           7,
@@ -1581,12 +1751,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           3,
           5,
           7,
@@ -1602,39 +1772,43 @@
     ]
   },
   {
-    "zh": "安溪鐵觀音",
+    "ideogram": "安溪鐵觀音",
     "pinyin": "ĀnXī TiěGuānYīn",
     "type": "青茶",
-    "family": "閩南烏龍",
-    "harvest": [
+    "families": [
+      "閩南烏龍"
+    ],
+    "harvests": [
       "春季",
       "秋季"
     ],
-    "province": "中國福建",
-    "town": "安溪",
-    "cultivar": "鐵觀音",
-    "picking": [
+    "provinces": "中國福建",
+    "towns": "安溪",
+    "cultivars": [
+      "鐵觀音"
+    ],
+    "pickings": [
       "一芽 二三葉",
       "一芽 三四葉"
     ],
-    "elevation": [
+    "elevations": [
       300,
       1600
     ],
-    "oxidation": [
+    "oxidations": [
       20,
       50
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1651,12 +1825,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           25,
           20,
           25,
@@ -1674,39 +1848,43 @@
     ]
   },
   {
-    "zh": "本山茶",
+    "ideogram": "本山茶",
     "pinyin": "BěnShānChá",
     "type": "青茶",
-    "family": "閩南烏龍",
-    "harvest": [
+    "families": [
+      "閩南烏龍"
+    ],
+    "harvests": [
       "春季",
       "秋季"
     ],
-    "province": "中國福建",
-    "town": "安溪",
-    "cultivar": "本山",
-    "picking": [
+    "provinces": "中國福建",
+    "towns": "安溪",
+    "cultivars": [
+      "本山"
+    ],
+    "pickings": [
       "一芽 二三葉",
       "一芽 三四葉"
     ],
-    "elevation": [
+    "elevations": [
       300,
       1600
     ],
-    "oxidation": [
+    "oxidations": [
       20,
       50
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           25,
           30,
@@ -1721,12 +1899,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           25,
           30,
@@ -1742,39 +1920,43 @@
     ]
   },
   {
-    "zh": "毛蟹茶",
+    "ideogram": "毛蟹茶",
     "pinyin": "MáoXièChá",
     "type": "青茶",
-    "family": "閩南烏龍",
-    "harvest": [
+    "families": [
+      "閩南烏龍"
+    ],
+    "harvests": [
       "春季",
       "秋季"
     ],
-    "province": "中國福建",
-    "town": "安溪",
-    "cultivar": "毛蟹",
-    "picking": [
+    "provinces": "中國福建",
+    "towns": "安溪",
+    "cultivars": [
+      "毛蟹"
+    ],
+    "pickings": [
       "一芽 二三葉",
       "一芽 三四葉"
     ],
-    "elevation": [
+    "elevations": [
       300,
       1600
     ],
-    "oxidation": [
+    "oxidations": [
       20,
       50
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           25,
           30,
@@ -1789,12 +1971,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           25,
           30,
@@ -1810,39 +1992,43 @@
     ]
   },
   {
-    "zh": "黃金桂",
+    "ideogram": "黃金桂",
     "pinyin": "HuángJīnGuì",
     "type": "青茶",
-    "family": "閩南烏龍",
-    "harvest": [
+    "families": [
+      "閩南烏龍"
+    ],
+    "harvests": [
       "春季",
       "秋季"
     ],
-    "province": "中國福建",
-    "town": "安溪",
-    "cultivar": "黃旦",
-    "picking": [
+    "provinces": "中國福建",
+    "towns": "安溪",
+    "cultivars": [
+      "黃旦"
+    ],
+    "pickings": [
       "一芽 二三葉",
       "一芽 三四葉"
     ],
-    "elevation": [
+    "elevations": [
       300,
       1600
     ],
-    "oxidation": [
+    "oxidations": [
       20,
       50
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           25,
           30,
@@ -1857,12 +2043,12 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           25,
           30,
@@ -1878,35 +2064,41 @@
     ]
   },
   {
-    "zh": "白毫銀針",
+    "ideogram": "白毫銀針",
     "pinyin": "BáiHáo YínZhēn",
     "type": "白茶",
-    "family": "芽茶",
-    "harvest": "春季",
-    "province": "中國福建",
-    "town": [
+    "families": [
+      "芽茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國福建",
+    "towns": [
       "福鼎， 政和， 建陽， 松溪"
     ],
-    "cultivar": [
+    "cultivars": [
       "福鼎大白茶",
       "政和大白茶"
     ],
-    "picking": "嫩芽",
-    "elevation": [
+    "pickings": [
+      "嫩芽"
+    ],
+    "elevations": [
       500,
       800
     ],
-    "oxidation": [
+    "oxidations": [
       5,
       10
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           15,
           20,
           25,
@@ -1921,9 +2113,9 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           180,
           300,
           480
@@ -1936,38 +2128,44 @@
     ]
   },
   {
-    "zh": "白牡丹",
+    "ideogram": "白牡丹",
     "pinyin": "BáiMǔDān",
     "type": "白茶",
-    "family": "葉茶",
-    "harvest": "春季",
-    "province": "中國福建",
-    "town": [
+    "families": [
+      "葉茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國福建",
+    "towns": [
       "政和",
       "福鼎",
       "建陽",
       "松溪"
     ],
-    "cultivar": [
+    "cultivars": [
       "福鼎大白茶",
       "福鼎大毫茶"
     ],
-    "picking": "一芽 一二葉",
-    "elevation": [
+    "pickings": [
+      "一芽 一二葉"
+    ],
+    "elevations": [
       500,
       800
     ],
-    "oxidation": [
+    "oxidations": [
       5,
       10
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 95,
+        "temperatures": 95,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           15,
           20,
           25,
@@ -1982,9 +2180,9 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 95,
+        "temperatures": 95,
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           180,
           300,
           480
@@ -1997,33 +2195,38 @@
     ]
   },
   {
-    "zh": "月光白",
+    "ideogram": "月光白",
     "pinyin": "YuèGuāngBái",
     "type": "白茶",
-    "harvest": [
+    "families": [],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "中國雲南",
-    "town": "思茅地區",
-    "cultivar": "景谷大白茶",
-    "picking": "一芽 二葉",
-    "elevation": [
+    "provinces": "中國雲南",
+    "towns": "思茅地區",
+    "cultivars": [
+      "景谷大白茶"
+    ],
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [
       1000,
       2000
     ],
-    "oxidation": [
+    "oxidations": [
       5,
       10
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 100,
+        "temperatures": 100,
         "quantity": "1:40",
-        "duration": [
+        "durations": [
           10,
           10,
           10,
@@ -2037,9 +2240,9 @@
       },
       {
         "type": "小壺泡法",
-        "temperature": 100,
+        "temperatures": 100,
         "quantity": "1:40",
-        "duration": [
+        "durations": [
           10,
           10,
           10,
@@ -2053,42 +2256,46 @@
     ]
   },
   {
-    "zh": "壽眉",
+    "ideogram": "壽眉",
     "pinyin": "Shòu Méi",
     "type": "白茶",
-    "family": "葉茶",
-    "harvest": [
+    "families": [
+      "葉茶"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "中國福建",
-    "town": [
+    "provinces": "中國福建",
+    "towns": [
       "政和",
       "福鼎",
       "建陽",
       "松溪"
     ],
-    "cultivar": [
+    "cultivars": [
       "福鼎大白茶",
       "福鼎大毫茶"
     ],
-    "picking": "一芽 二三葉",
-    "elevation": [
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "elevations": [
       500,
       800
     ],
-    "oxidation": [
+    "oxidations": [
       5,
       10
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 100,
+        "temperatures": 100,
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           50,
           60,
           80,
@@ -2101,9 +2308,9 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": 100,
+        "temperatures": 100,
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           180,
           300,
           480
@@ -2116,27 +2323,32 @@
     ]
   },
   {
-    "zh": "雲南白茶磚",
+    "ideogram": "雲南白茶磚",
     "pinyin": "YúnNán BáiChá Zhuān",
     "type": "白茶",
-    "province": "中國雲南",
-    "cultivar": "雲南大白茶",
-    "picking": "一芽 二三葉",
-    "elevation": [],
-    "oxidation": [
+    "families": [],
+    "harvests": [],
+    "provinces": "中國雲南",
+    "cultivars": [
+      "雲南大白茶"
+    ],
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "oxidations": [
       5,
       10
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           10,
           30,
           30,
@@ -2150,32 +2362,36 @@
     ]
   },
   {
-    "zh": "正山小種",
+    "ideogram": "正山小種",
     "pinyin": "ZhèngShānXiǎoZhǒng",
     "type": "紅茶",
-    "family": "小種紅茶",
-    "harvest": [
+    "families": [
+      "小種紅茶"
+    ],
+    "harvests": [
       "春季",
       "夏季"
     ],
-    "province": "中國福建",
-    "town": "武夷山市星村桐木關",
-    "cultivar": "小菜茶羣體種",
-    "picking": "一芽 二三葉",
-    "elevation": [
-      1100
+    "provinces": "中國福建",
+    "towns": "武夷山市星村桐木關",
+    "cultivars": [
+      "小菜茶羣體種"
     ],
-    "oxidation": [
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "elevations": 1100,
+    "oxidations": [
       80,
       95
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": 90,
+        "temperatures": 90,
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           10,
           10,
           15,
@@ -2191,36 +2407,42 @@
     ]
   },
   {
-    "zh": "祁門紅茶",
+    "ideogram": "祁門紅茶",
     "pinyin": "QíMén HóngChá",
     "type": "紅茶",
-    "family": "工夫紅茶",
-    "harvest": [
+    "families": [
+      "工夫紅茶"
+    ],
+    "harvests": [
       "春季",
       "夏季"
     ],
-    "province": "中國安徽",
-    "town": "祁門",
-    "cultivar": "祁門種",
-    "picking": "一芽 二三葉",
-    "elevation": [
+    "provinces": "中國安徽",
+    "towns": "祁門",
+    "cultivars": [
+      "祁門種"
+    ],
+    "pickings": [
+      "一芽 二三葉"
+    ],
+    "elevations": [
       100,
       350
     ],
-    "oxidation": [
+    "oxidations": [
       80,
       95
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           45,
           75,
@@ -2233,12 +2455,12 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           120,
           180
         ],
@@ -2250,39 +2472,43 @@
     ]
   },
   {
-    "zh": "坦洋",
+    "ideogram": "坦洋",
     "pinyin": "Tǎn Yáng",
     "type": "紅茶",
-    "family": "工夫紅茶",
-    "harvest": [
+    "families": [
+      "工夫紅茶"
+    ],
+    "harvests": [
       "春季",
       "夏季"
     ],
-    "province": "中國福建",
-    "town": "福安",
-    "cultivar": [
+    "provinces": "中國福建",
+    "towns": "福安",
+    "cultivars": [
       "福安大白茶",
       "福鼎大毫茶"
     ],
-    "picking": "一芽 一二葉",
-    "elevation": [
+    "pickings": [
+      "一芽 一二葉"
+    ],
+    "elevations": [
       300,
       1000
     ],
-    "oxidation": [
+    "oxidations": [
       80,
       95
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           30,
           45,
           75,
@@ -2295,12 +2521,12 @@
       },
       {
         "type": "茶杯泡法",
-        "temperature": [
+        "temperatures": [
           90,
           95
         ],
         "quantity": "1:50",
-        "duration": [
+        "durations": [
           120,
           180
         ],
@@ -2312,33 +2538,41 @@
     ]
   },
   {
-    "zh": "金駿眉",
+    "ideogram": "金駿眉",
     "pinyin": "JīnJùnMéi",
     "type": "紅茶",
-    "family": "小種紅茶",
-    "harvest": "春季",
-    "province": "中國福建",
-    "town": "武夷山市星村桐木關",
-    "cultivar": "武夷野生奇種",
-    "picking": "芽葉",
-    "elevation": [
+    "families": [
+      "小種紅茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": "中國福建",
+    "towns": "武夷山市星村桐木關",
+    "cultivars": [
+      "武夷野生奇種"
+    ],
+    "pickings": [
+      "芽葉"
+    ],
+    "elevations": [
       1000,
       1200
     ],
-    "oxidation": [
+    "oxidations": [
       80,
       95
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           90
         ],
         "quantity": "1:20",
-        "duration": [
+        "durations": [
           15,
           25,
           35,
@@ -2358,40 +2592,43 @@
     ]
   },
   {
-    "zh": "紅碎茶",
+    "ideogram": "紅碎茶",
     "pinyin": "Hóng Suì Chá",
     "type": "紅茶",
-    "family": "紅碎茶",
-    "province": [
+    "families": [
+      "紅碎茶"
+    ],
+    "harvests": [],
+    "provinces": [
       "中國雲南",
       "廣東",
       "海南",
       "廣西"
     ],
-    "elevation": [],
-    "oxidation": [],
+    "cultivars": [],
+    "pickings": [],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "大壺泡法",
-        "temperature": [
+        "temperatures": [
           90,
           100
         ],
         "quantity": "1:60",
-        "duration": [
+        "durations": [
           180
         ],
         "times": 1
       },
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           90,
           100
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           10,
           30
         ],
@@ -2400,40 +2637,42 @@
     ]
   },
   {
-    "zh": "滇紅",
+    "ideogram": "滇紅",
     "pinyin": "Diān Hóng",
     "type": "紅茶",
-    "family": "工夫紅茶",
-    "harvest": [
+    "families": [
+      "工夫紅茶"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "中國雲南",
-    "town": "臨滄鳳慶",
-    "cultivar": "雲南大葉種拼配",
-    "picking": [
+    "provinces": "中國雲南",
+    "towns": "臨滄鳳慶",
+    "cultivars": [
+      "雲南大葉種拼配"
+    ],
+    "pickings": [
       "芽葉",
       "一芽 一葉",
       "一芽 二三葉"
     ],
-    "elevation": [
-      1000
-    ],
-    "oxidation": [
+    "elevations": 1000,
+    "oxidations": [
       80,
       90
     ],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "蓋碗泡法",
-        "temperature": [
+        "temperatures": [
           80,
           85
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           1,
           1,
           1,
@@ -2450,32 +2689,34 @@
     ]
   },
   {
-    "zh": "六堡茶",
+    "ideogram": "六堡茶",
     "pinyin": "LiùBǎoChá",
     "type": "黑茶",
-    "family": "廣西黑茶",
-    "province": "中國廣西",
-    "town": "蒼梧縣",
-    "cultivar": [
+    "families": [
+      "廣西黑茶"
+    ],
+    "harvests": [],
+    "provinces": "中國廣西",
+    "towns": "蒼梧縣",
+    "cultivars": [
       "當地羣體種",
       "廣西大中葉種"
     ],
-    "picking": [
+    "pickings": [
       "一芽 二三葉",
       "一芽 三四葉"
     ],
-    "elevation": [
+    "elevations": [
       1000,
       1500
     ],
-    "oxidation": [],
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "煮泡法",
-        "temperature": 100,
+        "temperatures": 100,
         "quantity": "1:100",
-        "duration": [
+        "durations": [
           300,
           600
         ],
@@ -2484,40 +2725,41 @@
     ]
   },
   {
-    "zh": "安化黑茶",
+    "ideogram": "安化黑茶",
     "pinyin": "ĀnHuà HēiChá",
     "type": "黑茶",
-    "family": "湖南黑茶",
-    "harvest": [
+    "families": [
+      "湖南黑茶"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "中國湖南",
-    "town": "益陽市安化縣",
-    "cultivar": [
+    "provinces": "中國湖南",
+    "towns": "益陽市安化縣",
+    "cultivars": [
       "雲臺山大葉種",
       "楮葉齊"
     ],
-    "picking": [
+    "pickings": [
       "一芽 三葉",
       "一芽 三四葉",
       "一芽 五六葉"
     ],
-    "elevation": [
+    "elevations": [
       600,
       1400
     ],
-    "oxidation": [],
     "fermentation": true,
-    "brewing": [
+    "brews": [
       {
         "type": "煮泡法",
-        "temperature": [
+        "temperatures": [
           100
         ],
         "quantity": "1:100",
-        "duration": [
+        "durations": [
           300,
           600
         ],
@@ -2526,38 +2768,42 @@
     ]
   },
   {
-    "zh": "青磚茶",
+    "ideogram": "青磚茶",
     "pinyin": "QīngZhuān Chá",
     "type": "黑茶",
-    "family": "湖北黑茶茶",
-    "harvest": [
+    "families": [
+      "湖北黑茶茶"
+    ],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "中國湖北",
-    "town": [
+    "provinces": "中國湖北",
+    "towns": [
       "蒲圻",
       "咸寧",
       "通山",
       "通城",
       "崇陽"
     ],
-    "cultivar": "當地品種",
-    "elevation": [
+    "cultivars": [
+      "當地品種"
+    ],
+    "pickings": [],
+    "elevations": [
       100,
       800
     ],
-    "oxidation": [],
     "fermentation": true,
-    "brewing": [
+    "brews": [
       {
         "type": "煮泡法",
-        "temperature": [
+        "temperatures": [
           100
         ],
         "quantity": "1:100",
-        "duration": [
+        "durations": [
           300,
           600
         ],
@@ -2566,33 +2812,34 @@
     ]
   },
   {
-    "zh": "熟普洱",
+    "ideogram": "熟普洱",
     "pinyin": "Shú pǔ'ěr",
     "type": "黑茶",
-    "harvest": [
+    "families": [],
+    "harvests": [
       "春季",
       "夏季",
       "秋季"
     ],
-    "province": "中國雲南",
-    "town": [
+    "provinces": "中國雲南",
+    "towns": [
       "西雙版納區",
       "普洱市",
       "臨滄市"
     ],
-    "cultivar": "雲南大葉種",
-    "picking": null,
-    "elevation": null,
-    "oxidation": [
-      100
+    "cultivars": [
+      "雲南大葉種"
     ],
+    "pickings": null,
+    "elevations": null,
+    "oxidations": 100,
     "fermentation": false,
-    "brewing": [
+    "brews": [
       {
         "type": "煮泡法",
-        "temperature": 100,
+        "temperatures": 100,
         "quantity": "1:100",
-        "duration": [
+        "durations": [
           300,
           600
         ],
@@ -2600,12 +2847,12 @@
       },
       {
         "type": "茶壺泡法",
-        "temperature": [
+        "temperatures": [
           95,
           100
         ],
         "quantity": "1:30",
-        "duration": [
+        "durations": [
           10,
           15,
           20,

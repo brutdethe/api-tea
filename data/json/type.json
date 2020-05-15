@@ -1,36 +1,36 @@
 [
   {
-    "zh": "綠茶",
+    "ideogram": "綠茶",
     "pinyin": "LǜChá",
     "fr": "thé vert",
     "color": "#58D68D"
   },
   {
-    "zh": "白茶",
+    "ideogram": "白茶",
     "pinyin": "BáiChá",
     "fr": "thé blanc",
     "color": "white"
   },
   {
-    "zh": "黃茶",
+    "ideogram": "黃茶",
     "pinyin": "HuángChá",
     "fr": "thé jaune",
     "color": "#F4D03F"
   },
   {
-    "zh": "青茶",
+    "ideogram": "青茶",
     "pinyin": "QīngChá",
     "fr": "thé bleu",
     "color": "#3498DB"
   },
   {
-    "zh": "紅茶",
+    "ideogram": "紅茶",
     "pinyin": "HóngChá",
     "fr": "thé rouge",
     "color": "#C0392B"
   },
   {
-    "zh": "黑茶",
+    "ideogram": "黑茶",
     "pinyin": "HēiChá",
     "fr": "thé noir",
     "color": "black"

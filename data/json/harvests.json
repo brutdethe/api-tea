@@ -1,21 +1,21 @@
 [
   {
-    "zh": "春季",
+    "ideogram": "春季",
     "pinyin": "ChūnJì",
     "fr": "printemps"
   },
   {
-    "zh": "夏季",
+    "ideogram": "夏季",
     "pinyin": "XiàJì",
     "fr": "été"
   },
   {
-    "zh": "秋季",
+    "ideogram": "秋季",
     "pinyin": "QiūJì",
     "fr": "automne"
   },
   {
-    "zh": "冬季",
+    "ideogram": "冬季",
     "pinyin": "DōngJì",
     "fr": "hivers"
   }
