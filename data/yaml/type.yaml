@@ -1,7 +1,7 @@
 - ideogram: 綠茶
   pinyin: LǜChá
   fr: thé vert
-  color: "#58D68D"
+  color: '#58D68D'
 - ideogram: 白茶
   pinyin: BáiChá
   fr: thé blanc
@@ -9,15 +9,15 @@
 - ideogram: 黃茶
   pinyin: HuángChá
   fr: thé jaune
-  color: "#F4D03F"
+  color: '#F4D03F'
 - ideogram: 青茶
   pinyin: QīngChá
   fr: thé bleu
-  color: "#3498DB"
+  color: '#002fa7'
 - ideogram: 紅茶
   pinyin: HóngChá
   fr: thé rouge
-  color: "#C0392B"
+  color: '#C0392B'
 - ideogram: 黑茶
   pinyin: HēiChá
   fr: thé noir
