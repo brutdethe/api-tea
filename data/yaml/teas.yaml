@@ -984,7 +984,8 @@
   families: 臺灣烏龍
   harvests: 夏季
   provinces:
-    - [臺灣新竹，苗栗]
+    - 臺灣新竹
+    - 苗栗
   towns:
     - 北埔
     - 公館
