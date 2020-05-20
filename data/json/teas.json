@@ -1222,7 +1222,9 @@
     "pickings": [
       "一芽 二葉"
     ],
-    "elevations": null,
+    "elevations": [
+      null
+    ],
     "oxidations": [
       20,
       25
@@ -1592,7 +1594,9 @@
       "夏季"
     ],
     "provinces": [
-      "臺灣新竹，苗栗"
+      [
+        "臺灣新竹，苗栗"
+      ]
     ],
     "towns": [
       "北埔",
@@ -2965,7 +2969,7 @@
     "pinyin": "QīngZhuān Chá",
     "type": "黑茶",
     "families": [
-      "湖北黑茶茶"
+      "湖北黑茶"
     ],
     "harvests": [
       "春季",
@@ -3009,7 +3013,7 @@
   },
   {
     "ideogram": "熟普洱",
-    "pinyin": "Shú pǔ'ěr",
+    "pinyin": "Shú Pǔ'ěr",
     "type": "黑茶",
     "families": [],
     "harvests": [
@@ -3028,8 +3032,12 @@
     "cultivars": [
       "雲南大葉種"
     ],
-    "pickings": null,
-    "elevations": null,
+    "pickings": [
+      null
+    ],
+    "elevations": [
+      null
+    ],
     "oxidations": [
       100
     ],

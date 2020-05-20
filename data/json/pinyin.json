@@ -85,6 +85,36 @@
     "theme": "families"
   },
   {
+    "ideogram": "炒青綠茶",
+    "pinyin": "Chǎo Qīng LǜChá",
+    "theme": "families"
+  },
+  {
+    "ideogram": "芽茶",
+    "pinyin": "YáChá",
+    "theme": "families"
+  },
+  {
+    "ideogram": "葉茶",
+    "pinyin": "YèChá",
+    "theme": "families"
+  },
+  {
+    "ideogram": "廣西黑茶",
+    "pinyin": "GuǎngXī HēiChá",
+    "theme": "families"
+  },
+  {
+    "ideogram": "湖南黑茶",
+    "pinyin": "HúNán HēiChá",
+    "theme": "families"
+  },
+  {
+    "ideogram": "湖北黑茶",
+    "pinyin": "HúBěi HēiChá",
+    "theme": "families"
+  },
+  {
     "ideogram": "一芽",
     "pinyin": "YīYá",
     "theme": "pickings"
@@ -232,6 +262,226 @@
   {
     "ideogram": "崇陽",
     "pinyin": "Chóng Yáng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "益陽市安化縣",
+    "pinyin": "YìYáng Shì Ān HuàXiàn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "蒼梧縣",
+    "pinyin": "CānGwú Xiàn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "西雙版納區",
+    "pinyin": "XīShuāngBǎnNà Qū",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "普洱市",
+    "pinyin": "Pǔ'ěr Shì",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "臨滄市",
+    "pinyin": "Lín Cāng Shì",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "蘇州市",
+    "pinyin": "SūZhōu Shì",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "遵義市",
+    "pinyin": "ZūnYì Shì",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "黃山區",
+    "pinyin": "HuángShān Qū",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "杭州市西湖區龍井村",
+    "pinyin": "HángZhōu Shì XīHú Qū LóngJǐng Cūn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "都勻市",
+    "pinyin": "Dū Yún Shì",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "信陽市",
+    "pinyin": "XìnYáng Shì",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "峨眉山",
+    "pinyin": "ÉMéiShān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "歙縣",
+    "pinyin": "Shè Xiàn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "黃山市黃山區",
+    "pinyin": "HuángShān Shì HuángShān Qū",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "六安市大別山",
+    "pinyin": "Liù Ān Shì DàBiéShān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "福鼎",
+    "pinyin": "Fú Dǐng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "政和",
+    "pinyin": "ZhènGhé",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "建陽",
+    "pinyin": "Jiàn Yáng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "松溪",
+    "pinyin": "Sōng Xī",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "思茅地區",
+    "pinyin": "SīMáo DìQū",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "霍山",
+    "pinyin": "HuòShān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "金寨",
+    "pinyin": "Jīn Zhài",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "大安",
+    "pinyin": "Dà'Ān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "岳西",
+    "pinyin": "Yuè Xī",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "韶關",
+    "pinyin": "SháoGuān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "肇慶",
+    "pinyin": "ZhàoQìng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "湛江",
+    "pinyin": "ZhànJiāng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "雅安蒙山",
+    "pinyin": "Yǎ'Ān Méng Shān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "岳陽洞庭湖君山",
+    "pinyin": "YuèYáng DòngTíng Hú JūnShān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "寧鄉縣",
+    "pinyin": "Níng Xiāng Xiàn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "岳陽",
+    "pinyin": "YuèYáng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "平陽",
+    "pinyin": "PíngYáng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "泰順",
+    "pinyin": "TàiShùn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "瑞安",
+    "pinyin": "Ruì'Ān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "南投",
+    "pinyin": "NánTóu",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "木柵區",
+    "pinyin": "MùShān Qū",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "鹿谷鄉",
+    "pinyin": "LùGǔ Xiāng",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "北埔",
+    "pinyin": "Běi Bù",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "公館",
+    "pinyin": "GōngGuǎn",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "武夷山市星村桐木關",
+    "pinyin": "WǔyíShān Shì Xīng Cūn TóngMù Guān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "祁門",
+    "pinyin": "QíMén",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "福安",
+    "pinyin": "Fú'Ān",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "祁門",
+    "pinyin": "QíMén",
+    "theme": "towns"
+  },
+  {
+    "ideogram": "臨滄鳳慶",
+    "pinyin": "Lín Cāng Fèng Qìng",
     "theme": "towns"
   },
   {
@@ -495,6 +745,11 @@
     "theme": "cultivars"
   },
   {
+    "ideogram": "其他外地引進品種",
+    "pinyin": "QíTā WàiDì YǐnJìn PǐnZhǒng",
+    "theme": "cultivars"
+  },
+  {
     "ideogram": "春季",
     "pinyin": "ChūnJì",
     "theme": "harvests"
@@ -582,6 +837,36 @@
   {
     "ideogram": "中國廣西",
     "pinyin": "ZhōngGuó GuǎngXī",
+    "theme": "provinces"
+  },
+  {
+    "ideogram": "臺灣新竹",
+    "pinyin": "TáiWān XīnZhú",
+    "theme": "provinces"
+  },
+  {
+    "ideogram": "苗栗",
+    "pinyin": "MiáOlì",
+    "theme": "provinces"
+  },
+  {
+    "ideogram": "廣東",
+    "pinyin": "GuǎngDōng",
+    "theme": "provinces"
+  },
+  {
+    "ideogram": "海南",
+    "pinyin": "HǎiNán",
+    "theme": "provinces"
+  },
+  {
+    "ideogram": "廣西",
+    "pinyin": "GuǎngXī",
+    "theme": "provinces"
+  },
+  {
+    "ideogram": "中國湖北",
+    "pinyin": "ZhōngGuó HúBěi",
     "theme": "provinces"
   },
   {
@@ -831,7 +1116,7 @@
   },
   {
     "ideogram": "熟普洱",
-    "pinyin": "Shú pǔ'ěr",
+    "pinyin": "Shú Pǔ'ěr",
     "theme": "teas"
   },
   {
