@@ -728,7 +728,7 @@
     - 秋季
   provinces: [臺灣]
   towns: [null]
-  elevations: null
+  elevations: [null]
   cultivars: 金萱
   pickings: 一芽 二葉
   oxidations:
@@ -984,7 +984,7 @@
   families: 臺灣烏龍
   harvests: 夏季
   provinces:
-    - 臺灣新竹，苗栗
+    - [臺灣新竹，苗栗]
   towns:
     - 北埔
     - 公館
@@ -1869,7 +1869,7 @@
 - ideogram: 青磚茶
   pinyin: QīngZhuān Chá
   type: 黑茶
-  families: 湖北黑茶茶
+  families: 湖北黑茶
   provinces: [中國湖北]
   towns:
     - 蒲圻
@@ -1897,7 +1897,7 @@
       times: 1
 
 - ideogram: 熟普洱
-  pinyin: Shú pǔ'ěr
+  pinyin: Shú Pǔ'ěr
   type: 黑茶
   harvests:
     - 春季
@@ -1909,8 +1909,8 @@
     - 普洱市
     - 臨滄市
   cultivars: 雲南大葉種
-  pickings: null
-  elevations: null
+  pickings: [null]
+  elevations: [null]
   oxidations: 100
   brews:
     - type: 煮泡法
