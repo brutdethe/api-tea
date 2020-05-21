@@ -93,7 +93,7 @@
       "一芽 一葉",
       "一芽 二葉"
     ],
-    "elevations": null,
+    "elevations": [],
     "oxidations": [
       10,
       20
@@ -399,7 +399,7 @@
     "pickings": [
       "一芽 二三葉"
     ],
-    "elevations": null,
+    "elevations": [],
     "oxidations": [
       10,
       20
