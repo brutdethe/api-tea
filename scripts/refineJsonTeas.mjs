@@ -13,17 +13,8 @@ const fieldsType = {
         { key: 'type', value: '' },
         { key: 'families', value: [] },
         { key: 'harvests', value: [] },
-        {
-            key: 'origins',
-            value: [
-                {
-                    key: 'provinces',
-                    value: '',
-                    key: 'towns',
-                    value: '[]'
-                }
-            ]
-        },
+        { key: 'provinces', value: [] },
+        { key: 'towns', value: [] },
         { key: 'cultivars', value: [] },
         { key: 'pickings', value: [] },
         { key: 'elevations', value: [] },
