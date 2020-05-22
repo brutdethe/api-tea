@@ -1754,7 +1754,7 @@
     - 廣東
     - 海南
     - 廣西
-  towns: ['-']
+  towns: [-]
   brews:
     - type: 大壺泡法
       temperatures:
