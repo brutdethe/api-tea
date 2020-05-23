@@ -704,7 +704,7 @@
       times:
         - 4
         - 6
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures: 90
       quantity: '1:20'
       durations:
@@ -747,7 +747,7 @@
       times:
         - 4
         - 6
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures: 90
       quantity: '1:20'
       durations:
@@ -797,7 +797,7 @@
       times:
         - 4
         - 6
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures: 90
       quantity: '1:20'
       durations:
@@ -850,7 +850,7 @@
       times:
         - 4
         - 8
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 95
         - 100
@@ -905,7 +905,7 @@
       times:
         - 4
         - 8
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 90
         - 95
@@ -959,7 +959,7 @@
       times:
         - 4
         - 8
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 90
         - 95
@@ -1017,7 +1017,7 @@
       times:
         - 4
         - 8
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 85
         - 90
@@ -1164,7 +1164,7 @@
       times:
         - 5
         - 20
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 95
         - 100
@@ -1217,7 +1217,7 @@
       times:
         - 4
         - 8
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 95
         - 100
@@ -1270,7 +1270,7 @@
       times:
         - 4
         - 6
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 90
         - 95
@@ -1321,7 +1321,7 @@
       times:
         - 4
         - 6
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 90
         - 95
@@ -1372,7 +1372,7 @@
       times:
         - 4
         - 6
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures:
         - 90
         - 95
@@ -1507,7 +1507,7 @@
       times:
         - 5
         - 10
-    - type: 鼓泡法
+    - type: 工夫茶
       temperatures: 100
       quantity: '1:40'
       durations:
