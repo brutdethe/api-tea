@@ -752,8 +752,6 @@
     - 夏季
     - 秋季
   provinces: [臺灣]
-  towns: [null]
-  elevations: [null]
   cultivars: 金萱
   pickings: 一芽 二葉
   oxidations:
@@ -846,7 +844,6 @@
     - 夏季
     - 秋季
   provinces: [臺灣]
-  towns: [null]
   cultivars:
     - 青心烏龍
     - 金萱
@@ -1938,8 +1935,6 @@
     - 普洱市
     - 臨滄市
   cultivars: 雲南大葉種
-  pickings: [null]
-  elevations: [null]
   oxidations: 100
   brews:
     - type: 煮泡法
