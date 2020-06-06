@@ -1261,18 +1261,14 @@
     "provinces": [
       "臺灣"
     ],
-    "towns": [
-      null
-    ],
+    "towns": [],
     "cultivars": [
       "金萱"
     ],
     "pickings": [
       "一芽 二葉"
     ],
-    "elevations": [
-      null
-    ],
+    "elevations": [],
     "oxidations": [
       20,
       25
@@ -1403,9 +1399,7 @@
     "provinces": [
       "臺灣"
     ],
-    "towns": [
-      null
-    ],
+    "towns": [],
     "cultivars": [
       "青心烏龍",
       "金萱",
@@ -3084,12 +3078,8 @@
     "cultivars": [
       "雲南大葉種"
     ],
-    "pickings": [
-      null
-    ],
-    "elevations": [
-      null
-    ],
+    "pickings": [],
+    "elevations": [],
     "oxidations": [
       100
     ],
