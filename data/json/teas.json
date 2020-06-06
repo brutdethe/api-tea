@@ -508,6 +508,52 @@
     ]
   },
   {
+    "ideogram": "山東嶗山",
+    "pinyin": "ShānDōng LáoShān",
+    "type": "綠茶",
+    "families": [],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": [
+      "中國山東"
+    ],
+    "towns": [
+      "嶗山"
+    ],
+    "cultivars": [
+      "龍井43"
+    ],
+    "pickings": [
+      "一芽 二葉"
+    ],
+    "elevations": [],
+    "oxidations": [
+      0,
+      5
+    ],
+    "fermentation": false,
+    "brews": [
+      {
+        "type": "蓋碗泡法",
+        "temperatures": [
+          75,
+          80
+        ],
+        "quantity": "1:30",
+        "durations": [
+          20,
+          30,
+          40
+        ],
+        "times": [
+          2,
+          5
+        ]
+      }
+    ]
+  },
+  {
     "ideogram": "碧螺春",
     "pinyin": "BìLuóChūn",
     "type": "綠茶",

@@ -200,6 +200,11 @@
     "theme": "pickings"
   },
   {
+    "ideogram": "嶗山",
+    "pinyin": "LáoShān",
+    "theme": "towns"
+  },
+  {
     "ideogram": "木柵",
     "pinyin": "MùShān",
     "theme": "towns"
@@ -830,6 +835,11 @@
     "theme": "provinces"
   },
   {
+    "ideogram": "中國山東",
+    "pinyin": "ZhōngGuó ShānDōng",
+    "theme": "provinces"
+  },
+  {
     "ideogram": "中國廣東",
     "pinyin": "ZhōngGuó GuǎngDōng",
     "theme": "provinces"
@@ -912,6 +922,11 @@
   {
     "ideogram": "霍山黃大茶",
     "pinyin": "HuòShān HuángDàChá",
+    "theme": "teas"
+  },
+  {
+    "ideogram": "山東嶗山",
+    "pinyin": "ShānDōng LáoShān",
     "theme": "teas"
   },
   {
