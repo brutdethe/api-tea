@@ -308,6 +308,32 @@
         - 3
         - 4
 
+- ideogram: 山東嶗山
+  pinyin: ShānDōng LáoShān
+  type: 綠茶
+  provinces: [中國山東]
+  towns: [嶗山]
+  cultivars: 龍井43
+  pickings: 一芽 二葉
+  harvests: [春季]
+  elevation: [300]
+  oxidations:
+    - 0
+    - 5
+  brews:
+    - type: 蓋碗泡法
+      temperatures:
+        - 75
+        - 80
+      quantity: '1:30'
+      durations:
+        - 20
+        - 30
+        - 40
+      times:
+        - 2
+        - 5
+
 - ideogram: 碧螺春
   pinyin: BìLuóChūn
   type: 綠茶
