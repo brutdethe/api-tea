@@ -21,7 +21,7 @@ yamlFiles:
     name: type
   families:
     name: families
-  harvest:
+  harvests:
     name: harvests
   cultivars:
     name: cultivars
@@ -29,10 +29,10 @@ yamlFiles:
     name: provinces
   towns:
     name: towns
-  picking:
+  pickings:
     name: pickings
-  teaware:
-    name: teaware
+  teawares:
+    name: teawares
   brews:
     name: brews
   themes:
@@ -47,4 +47,5 @@ themes:
   - harvests
   - provinces
   - teas
+  - teawares
   - type

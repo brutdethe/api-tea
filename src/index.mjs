@@ -12,7 +12,7 @@ const filesEndPoints = [
     'pickings',
     'provinces',
     'towns',
-    'teaware',
+    'teawares',
     'brews',
     'harvests',
     'themes',
