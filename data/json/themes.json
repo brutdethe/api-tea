@@ -1,1 +1,50 @@
-undefined
+[
+  {
+    "ideogram": "茶",
+    "pinyin": "Chá",
+    "fr": "thé",
+    "en": "teas"
+  },
+  {
+    "ideogram": "六大茶類",
+    "pinyin": "Liù Dà Chá Lèi",
+    "fr": "type",
+    "en": "type"
+  },
+  {
+    "ideogram": "分類",
+    "pinyin": "FēnLèi",
+    "fr": "provinces",
+    "en": "provinces"
+  },
+  {
+    "ideogram": "市",
+    "pinyin": "Shì",
+    "fr": "villes",
+    "en": "towns"
+  },
+  {
+    "ideogram": "茶樹品種",
+    "pinyin": "CháShù PǐnZhǒng",
+    "fr": "cultivars",
+    "en": "cultivars"
+  },
+  {
+    "ideogram": "採摘標準",
+    "pinyin": "CǎiZhāi BiāoZhǔn",
+    "fr": "cueillette",
+    "en": "pickings"
+  },
+  {
+    "ideogram": "泡法",
+    "pinyin": "PàoFǎ",
+    "fr": "infusion",
+    "en": "brews"
+  },
+  {
+    "ideogram": "茶器列",
+    "pinyin": "CháQìLiè",
+    "fr": "ustensiles de thé",
+    "en": "teaware"
+  }
+]
