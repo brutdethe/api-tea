@@ -120,11 +120,6 @@
     "theme": "families"
   },
   {
-    "ideogram": "一芽",
-    "pinyin": "YīYá",
-    "theme": "pickings"
-  },
-  {
     "ideogram": "單芽",
     "pinyin": "Dān Yá",
     "theme": "pickings"
@@ -157,11 +152,6 @@
   {
     "ideogram": "一芽 三葉",
     "pinyin": "YīYá SānYè",
-    "theme": "pickings"
-  },
-  {
-    "ideogram": "一芽 一二葉嫩芽",
-    "pinyin": "YīYá Yī Èr Yè Nèn Yá",
     "theme": "pickings"
   },
   {
@@ -1162,6 +1152,10 @@
   {
     "ideogram": "茶罐",
     "pinyin": "CháGuàn",
+    "theme": "teawares"
+  },
+  {
+    "ideogram": "茶倉",
     "theme": "teawares"
   },
   {
