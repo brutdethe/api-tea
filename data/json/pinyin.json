@@ -1156,11 +1156,12 @@
   },
   {
     "ideogram": "茶倉",
+    "pinyin": "CháCāng",
     "theme": "teawares"
   },
   {
-    "ideogram": "茶巾",
-    "pinyin": "CháJīn",
+    "ideogram": "茶墊巾",
+    "pinyin": "CháDiànJīn",
     "theme": "teawares"
   },
   {
@@ -1204,6 +1205,16 @@
     "theme": "teawares"
   },
   {
+    "ideogram": "品茗杯",
+    "pinyin": "Pǐn Míng Bēi",
+    "theme": "teawares"
+  },
+  {
+    "ideogram": "水盂",
+    "pinyin": "ShuǐYú",
+    "theme": "teawares"
+  },
+  {
     "ideogram": "水方",
     "pinyin": "ShuǐFāng",
     "theme": "teawares"
@@ -1229,8 +1240,13 @@
     "theme": "teawares"
   },
   {
-    "ideogram": "茶濾",
-    "pinyin": "CháLǜ",
+    "ideogram": "濾網",
+    "pinyin": "LǜWǎng",
+    "theme": "teawares"
+  },
+  {
+    "ideogram": "濾網架",
+    "pinyin": "LǜWǎng Jià",
     "theme": "teawares"
   },
   {
@@ -1256,6 +1272,21 @@
   {
     "ideogram": "桌巾",
     "pinyin": "ZhuōJīn",
+    "theme": "teawares"
+  },
+  {
+    "ideogram": "計時器",
+    "pinyin": "JìShí Qì",
+    "theme": "teawares"
+  },
+  {
+    "ideogram": "溫度計",
+    "pinyin": "WēnDùJì",
+    "theme": "teawares"
+  },
+  {
+    "ideogram": "茶寵",
+    "pinyin": "CháChǒng",
     "theme": "teawares"
   },
   {
