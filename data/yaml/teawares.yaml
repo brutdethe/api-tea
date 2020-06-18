@@ -7,10 +7,11 @@
   fr: boite à thé
   en: tea caddy
 - ideogram: 茶倉
+  pinyin: CháCāng
   fr: pot à thé
   en: ceremony tea box
-- ideogram: 茶巾
-  pinyin: CháJīn
+- ideogram: 茶墊巾
+  pinyin: CháDiànJīn
   fr: serviette à thé
   en: tea towel
 - ideogram: 茶壺
@@ -45,6 +46,14 @@
   pinyin: CháBēi
   fr: tasse pour le thé
   en: teacup for drinking
+- ideogram: 品茗杯
+  pinyin: Pǐn Míng Bēi
+  fr: tasse pour le thé
+  en: teacup for drinking
+- ideogram: 水盂
+  pinyin: ShuǐYú
+  fr: vidoir à eau
+  en: waste bowl
 - ideogram: 水方
   pinyin: ShuǐFāng
   fr: vidoir à eau
@@ -64,10 +73,14 @@
   pinyin: BēiTuō
   fr: sous-tasse
   en: tea saucer
-- ideogram: 茶濾
-  pinyin: CháLǜ
+- ideogram: 濾網
+  pinyin: LǜWǎng
   fr: filtre passoire
   en: tea strainer
+- ideogram: 濾網架
+  pinyin: LǜWǎng Jià
+  fr: support passoire
+  en: tea strainer support
 - ideogram: 茶荷
   pinyin: CháHé
   fr: petit plat pour présenter les feuilles
@@ -88,3 +101,15 @@
   pinyin: ZhuōJīn
   fr: nappe de cérémonie
   en: tea tablecloth
+- ideogram: 計時器
+  pinyin: JìShí Qì
+  fr: minuterie
+  en: tea timer
+- ideogram: 溫度計
+  pinyin: WēnDùJì
+  fr: thermomètre
+  en: thermometer
+- ideogram: 茶寵
+  pinyin: CháChǒng
+  fr: animal de thé
+  en: teapet
