@@ -16,3 +16,9 @@ https://api-tea.oisiflorus.com
 - [Ya-Lin](https://github.com/ya-lin-tea)
 - [pntbr](https://github.com/pntbr)
 - [Thaïs](https://github.com/thaisthe)
+
+## Tools
+
+- Deploy on heroku.com
+
+
