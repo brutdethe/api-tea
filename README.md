@@ -5,7 +5,7 @@ An API to serve Chinese teas
 It allows you to retrieve information such as Chinese name, cultivars, type, families, picking, etc.
 
 The documentation is proposed at the root of the site :
-https://api-tea.oisiflorus.com
+https://api-tea.brutdethé.fr
 
 ## Licence
 
