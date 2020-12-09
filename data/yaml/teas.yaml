@@ -1960,3 +1960,35 @@
       times:
         - 10
         - 40
+
+- ideogram: 紅寶石
+  pinyin: Hóngbǎoshí
+  type: 紅茶
+  families: combinaison des trois familles de thé rouge
+  harvests: 春季
+  provinces: [中國貴州]
+  towns:
+    - 風岡
+  cultivars: 
+  pickings:
+    - 一芽 二葉
+    - 一芽 三葉
+  elevations:
+    - 800
+    - 1200
+  oxidations:
+    - 100
+  brews:
+    - type: 蓋碗泡法
+      temperatures:
+        - 90
+        - 95
+      quantity: '1:30'
+      durations:
+        - 8
+        - 12
+        - 28
+      times:
+        - 3
+        - 6
+ 
