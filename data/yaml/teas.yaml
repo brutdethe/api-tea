@@ -1962,22 +1962,19 @@
         - 40
 
 - ideogram: 紅寶石
-  pinyin: Hóngbǎoshí
+  pinyin: HóngBǎoShí
   type: 紅茶
-  families: combinaison des trois familles de thé rouge
+  families: 小種紅茶，紅碎紅茶
   harvests: 春季
   provinces: [中國貴州]
   towns:
     - 風岡
-  cultivars: 
   pickings:
     - 一芽 二葉
     - 一芽 三葉
   elevations:
     - 800
     - 1200
-  oxidations:
-    - 100
   brews:
     - type: 蓋碗泡法
       temperatures:
