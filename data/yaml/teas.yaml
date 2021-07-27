@@ -1452,45 +1452,45 @@
         - 6
 
 
-        - ideogram: 老白茶
-        pinyin: Lǎo BáiChá
-        type: 白茶
-        families: 白葉茶
-        harvests: 春季
-        provinces: [中國貴州]
-        towns: [鳳岡]
-        cultivars: 政和小茶品種
-        pickings:
-          - 一芽 一葉
-          - 一芽 二葉
-        oxidations:
-          - 5
-          - 10
-        brews:
-          - type: 茶杯泡法
-            temperatures:
-              - 75
-              - 85
-            quantity: '1:50'
-            durations:
-              - 90
-              - 120
-              - 180
-            times:
-              - 4
-              - 10
-          - type: 蓋碗泡法
-            temperatures:
-              - 75
-              - 85
-            quantity: '1:30'
-            durations:
-              - 30
-              - 60
-              - 120
-            times:
-              - 4
-              - 30
+- ideogram: 老白茶
+  pinyin: Lǎo BáiChá
+  type: 白茶
+  families: 白葉茶
+  harvests: 春季
+  provinces: [中國貴州]
+  towns: [鳳岡]
+  cultivars: 政和小茶品種
+  pickings:
+    - 一芽 一葉
+    - 一芽 二葉
+  oxidations:
+    - 5
+    - 10
+  brews:
+    - type: 茶杯泡法
+      temperatures:
+        - 75
+        - 85
+      quantity: '1:50'
+      durations:
+        - 90
+        - 120
+        - 180
+      times:
+        - 4
+        - 10
+    - type: 蓋碗泡法
+      temperatures:
+        - 75
+        - 85
+      quantity: '1:30'
+      durations:
+        - 30
+        - 60
+        - 120
+      times:
+        - 4
+        - 30
 
 - ideogram: 白毫銀針
   pinyin: BáiHáo YínZhēn
