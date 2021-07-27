@@ -1,85 +1,162 @@
-import { settings, welcome, getPath, readJSON, writeJSON, typeOf } from './_lib'
+import {
+    settings,
+    welcome,
+    getPath,
+    readJSON,
+    writeJSON,
+    typeOf
+} from './_lib.mjs'
 
 welcome('Refine teas.json')
 
 const jsonTeas = readJSON(getPath('teas', 'json'))
 
 const fieldsType = {
-    yaml: [
-        {
+    yaml: [{
             key: 'name',
-            value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
+            value: [{
+                key: 'ideogram',
+                value: '',
+                key: 'pinyin',
+                value: ''
+            }]
         },
-        { key: 'type', value: '' },
-        { key: 'families', value: [] },
-        { key: 'harvests', value: [] },
-        { key: 'provinces', value: [] },
-        { key: 'towns', value: [] },
-        { key: 'cultivars', value: [] },
-        { key: 'pickings', value: [] },
-        { key: 'elevations', value: [] },
-        { key: 'oxidations', value: [] },
-        { key: 'fermentation', value: false },
         {
-            key: 'brews',
-            value: [
-                {
-                    type: '',
-                    temperatures: [],
-                    quantities: [],
-                    durations: [],
-                    times: []
-                }
-            ]
-        }
-    ],
-    json: [
-        {
-            key: 'name',
-            value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
+            key: 'type',
+            value: ''
         },
-        { key: 'type', value: { ideogram: '', pinyin: '' } },
         {
             key: 'families',
-            value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
+            value: []
         },
         {
             key: 'harvests',
-            value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
+            value: []
         },
         {
-            key: 'origins',
-            value: [
-                {
-                    key: 'provinces',
-                    value: '',
-                    key: 'towns',
-                    value: '[]'
-                }
-            ]
+            key: 'provinces',
+            value: []
+        },
+        {
+            key: 'towns',
+            value: []
         },
         {
             key: 'cultivars',
-            value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
+            value: []
         },
         {
             key: 'pickings',
-            value: [{ key: 'ideogram', value: '', key: 'pinyin', value: '' }]
+            value: []
         },
-        { key: 'elevations', value: [] },
-        { key: 'oxidations', value: [] },
-        { key: 'fermentation', value: [] },
+        {
+            key: 'elevations',
+            value: []
+        },
+        {
+            key: 'oxidations',
+            value: []
+        },
+        {
+            key: 'fermentation',
+            value: false
+        },
+        {
+            key: 'brews',
+            value: [{
+                type: '',
+                temperatures: [],
+                quantities: [],
+                durations: [],
+                times: []
+            }]
+        }
+    ],
+    json: [{
+            key: 'name',
+            value: [{
+                key: 'ideogram',
+                value: '',
+                key: 'pinyin',
+                value: ''
+            }]
+        },
+        {
+            key: 'type',
+            value: {
+                ideogram: '',
+                pinyin: ''
+            }
+        },
+        {
+            key: 'families',
+            value: [{
+                key: 'ideogram',
+                value: '',
+                key: 'pinyin',
+                value: ''
+            }]
+        },
+        {
+            key: 'harvests',
+            value: [{
+                key: 'ideogram',
+                value: '',
+                key: 'pinyin',
+                value: ''
+            }]
+        },
+        {
+            key: 'origins',
+            value: [{
+                key: 'provinces',
+                value: '',
+                key: 'towns',
+                value: '[]'
+            }]
+        },
+        {
+            key: 'cultivars',
+            value: [{
+                key: 'ideogram',
+                value: '',
+                key: 'pinyin',
+                value: ''
+            }]
+        },
+        {
+            key: 'pickings',
+            value: [{
+                key: 'ideogram',
+                value: '',
+                key: 'pinyin',
+                value: ''
+            }]
+        },
+        {
+            key: 'elevations',
+            value: []
+        },
+        {
+            key: 'oxidations',
+            value: []
+        },
+        {
+            key: 'fermentation',
+            value: []
+        },
         {
             field: 'brews',
-            type: [
-                {
-                    type: { ideogram: '', pinyin: '' },
-                    temperatures: [],
-                    quantities: [],
-                    durations: [],
-                    times: []
-                }
-            ]
+            type: [{
+                type: {
+                    ideogram: '',
+                    pinyin: ''
+                },
+                temperatures: [],
+                quantities: [],
+                durations: [],
+                times: []
+            }]
         }
     ]
 }
@@ -126,7 +203,7 @@ const convertWrongTypes = formatRawJsonWithYamlSchema.map(tea => {
             case 'collection':
                 // console.log(typeOf(field.value), field.key)
                 break
-            /* refait ça */
+                /* refait ça */
         }
     })
 

@@ -1,4 +1,10 @@
-import { settings, getPath, writeJSON, readYAML, welcome } from './_lib'
+import {
+    settings,
+    getPath,
+    writeJSON,
+    readYAML,
+    welcome
+} from './_lib.mjs'
 
 welcome('Group all chinese terms and his pinyin')
 

@@ -1,4 +1,4 @@
-import { settings, getPath, writeJSON, readYAML, welcome } from './_lib'
+import { settings, getPath, writeJSON, readYAML, welcome } from './_lib.mjs'
 
 welcome('Convert YAML files to JSON')
 

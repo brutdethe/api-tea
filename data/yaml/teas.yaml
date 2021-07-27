@@ -1,3 +1,43 @@
+- ideogram: 一品香
+  pinyin: YīPǐnXiāng
+  type: 綠茶
+  families: 炒青綠茶
+  harvests: 春季
+  provinces: [中國貴州]
+  towns: [鳳岡]
+  cultivars: 貴定鳥王品種
+  pickings:
+    - 一芽 一葉
+    - 一芽 二葉
+    - 一芽 三葉
+  oxidations:
+    - 0
+    - 5
+  brews:
+    - type: 茶杯泡法
+      temperatures:
+        - 75
+        - 85
+      quantity: '1:50'
+      durations:
+        - 45
+        - 60
+        - 80
+      times:
+        - 2
+        - 4
+    - type: 蓋碗泡法
+      temperatures:
+        - 75
+        - 85
+      quantity: '1:30'
+      durations:
+        - 30
+        - 60
+      times:
+        - 2
+        - 4
+
 - ideogram: 平陽黃湯
   pinyin: PíngYáng HuángTāng
   type: 黃茶
@@ -1411,6 +1451,47 @@
         - 4
         - 6
 
+
+        - ideogram: 老白茶
+        pinyin: Lǎo BáiChá
+        type: 白茶
+        families: 白葉茶
+        harvests: 春季
+        provinces: [中國貴州]
+        towns: [鳳岡]
+        cultivars: 政和小茶品種
+        pickings:
+          - 一芽 一葉
+          - 一芽 二葉
+        oxidations:
+          - 5
+          - 10
+        brews:
+          - type: 茶杯泡法
+            temperatures:
+              - 75
+              - 85
+            quantity: '1:50'
+            durations:
+              - 90
+              - 120
+              - 180
+            times:
+              - 4
+              - 10
+          - type: 蓋碗泡法
+            temperatures:
+              - 75
+              - 85
+            quantity: '1:30'
+            durations:
+              - 30
+              - 60
+              - 120
+            times:
+              - 4
+              - 30
+
 - ideogram: 白毫銀針
   pinyin: BáiHáo YínZhēn
   type: 白茶
@@ -1988,84 +2069,3 @@
       times:
         - 3
         - 6
-        
-- ideogram: 老白茶
-  pinyin: Lǎo báichá
-  type: 白茶
-  families: 白葉茶
-  harvests: 春季
-  provinces: [中國貴州]
-  towns: [鳳岡]
-  cultivars: 政和小茶品種
-  pickings:
-    - 一芽 一葉
-    - 一芽 二葉
-  oxidations:
-    - 5
-    - 10
-  brews:
-    - type: 茶杯泡法
-      temperatures:
-        - 75
-        - 85
-      quantity: '1:50'
-      durations:
-        - 90
-        - 120
-        - 180
-      times:
-        - 4
-        - 10
-    - type: 蓋碗泡法
-      temperatures:
-        - 75
-        - 85
-      quantity: '1:30'
-      durations:
-        - 30
-        - 60
-        - 120
-      times:
-        - 4
-        - 30
-        
-- ideogram: 一品香
-  pinyin: Yīpǐnxiāng
-  type: 綠茶
-  families: 炒青綠茶
-  harvests: 春季
-  provinces: [中國貴州]
-  towns: [鳳岡]
-  cultivars: 貴定鳥王品種
-  pickings:
-    - 一芽 一葉
-    - 一芽 二葉
-    - 一芽 三葉
-  oxidations:
-    - 0
-    - 0
-  brews:
-    - type: 茶杯泡法
-      temperatures:
-        - 75
-        - 85
-      quantity: '1:50'
-      durations:
-        - 45
-        - 60
-        - 80
-      times:
-        - 2
-        - 4
-    - type: 蓋碗泡法
-      temperatures:
-        - 75
-        - 85
-      quantity: '1:30'
-      durations:
-        - 30
-        - 60
-      times:
-        - 2
-        - 4
-

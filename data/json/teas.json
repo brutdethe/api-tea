@@ -3117,5 +3117,184 @@
         ]
       }
     ]
+  },
+  {
+    "ideogram": "紅寶石",
+    "pinyin": "HóngBǎoShí",
+    "type": "紅茶",
+    "families": [
+      "小種紅茶，紅碎紅茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": [
+      "中國貴州"
+    ],
+    "towns": [
+      "風岡"
+    ],
+    "cultivars": [],
+    "pickings": [
+      "一芽 二葉",
+      "一芽 三葉"
+    ],
+    "elevations": [
+      800,
+      1200
+    ],
+    "oxidations": [],
+    "fermentation": false,
+    "brews": [
+      {
+        "type": "蓋碗泡法",
+        "temperatures": [
+          90,
+          95
+        ],
+        "quantity": "1:30",
+        "durations": [
+          8,
+          12,
+          28
+        ],
+        "times": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "ideogram": "老白茶",
+    "pinyin": "Lǎo báichá",
+    "type": "白茶",
+    "families": [
+      "白葉茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": [
+      "中國貴州"
+    ],
+    "towns": [
+      "鳳岡"
+    ],
+    "cultivars": [
+      "政和小茶品種"
+    ],
+    "pickings": [
+      "一芽 一葉",
+      "一芽 二葉"
+    ],
+    "elevations": [],
+    "oxidations": [
+      5,
+      10
+    ],
+    "fermentation": false,
+    "brews": [
+      {
+        "type": "茶杯泡法",
+        "temperatures": [
+          75,
+          85
+        ],
+        "quantity": "1:50",
+        "durations": [
+          90,
+          120,
+          180
+        ],
+        "times": [
+          4,
+          10
+        ]
+      },
+      {
+        "type": "蓋碗泡法",
+        "temperatures": [
+          75,
+          85
+        ],
+        "quantity": "1:30",
+        "durations": [
+          30,
+          60,
+          120
+        ],
+        "times": [
+          4,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "ideogram": "一品香",
+    "pinyin": "Yīpǐnxiāng",
+    "type": "綠茶",
+    "families": [
+      "炒青綠茶"
+    ],
+    "harvests": [
+      "春季"
+    ],
+    "provinces": [
+      "中國貴州"
+    ],
+    "towns": [
+      "鳳岡"
+    ],
+    "cultivars": [
+      "貴定鳥王品種"
+    ],
+    "pickings": [
+      "一芽 一葉",
+      "一芽 二葉",
+      "一芽 三葉"
+    ],
+    "elevations": [],
+    "oxidations": [
+      0,
+      0
+    ],
+    "fermentation": false,
+    "brews": [
+      {
+        "type": "茶杯泡法",
+        "temperatures": [
+          75,
+          85
+        ],
+        "quantity": "1:50",
+        "durations": [
+          45,
+          60,
+          80
+        ],
+        "times": [
+          2,
+          4
+        ]
+      },
+      {
+        "type": "蓋碗泡法",
+        "temperatures": [
+          75,
+          85
+        ],
+        "quantity": "1:30",
+        "durations": [
+          30,
+          60
+        ],
+        "times": [
+          2,
+          4
+        ]
+      }
+    ]
   }
 ]
