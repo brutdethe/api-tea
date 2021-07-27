@@ -890,6 +890,11 @@
     "theme": "provinces"
   },
   {
+    "ideogram": "一品香",
+    "pinyin": "YīPǐnXiāng",
+    "theme": "teas"
+  },
+  {
     "ideogram": "平陽黃湯",
     "pinyin": "PíngYáng HuángTāng",
     "theme": "teas"
@@ -1070,6 +1075,11 @@
     "theme": "teas"
   },
   {
+    "ideogram": "老白茶",
+    "pinyin": "Lǎo BáiChá",
+    "theme": "teas"
+  },
+  {
     "ideogram": "白毫銀針",
     "pinyin": "BáiHáo YínZhēn",
     "theme": "teas"
@@ -1147,16 +1157,6 @@
   {
     "ideogram": "紅寶石",
     "pinyin": "HóngBǎoShí",
-    "theme": "teas"
-  },
-  {
-    "ideogram": "老白茶",
-    "pinyin": "Lǎo báichá",
-    "theme": "teas"
-  },
-  {
-    "ideogram": "一品香",
-    "pinyin": "Yīpǐnxiāng",
     "theme": "teas"
   },
   {
