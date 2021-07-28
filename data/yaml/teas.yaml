@@ -38,6 +38,44 @@
         - 2
         - 4
 
+- ideogram: 供芽
+  pinyin: Gōng Yá
+  type: 綠茶
+  families: 烘青綠茶
+  harvests: 春季
+  provinces: [中國湖北]
+  towns: [恩施]
+  cultivars: 黄金茶1号品種
+  pickings:
+    - 一芽 二葉
+  oxidations:
+    - 0
+    - 1
+  brews:
+    - type: 茶杯泡法
+      temperatures:
+        - 75
+        - 85
+      quantity: '1:50'
+      durations:
+        - 45
+        - 60
+        - 80
+      times:
+        - 2
+        - 4
+    - type: 蓋碗泡法
+      temperatures:
+        - 75
+        - 85
+      quantity: '1:30'
+      durations:
+        - 15
+        - 30
+      times:
+        - 2
+        - 4
+
 - ideogram: 平陽黃湯
   pinyin: PíngYáng HuángTāng
   type: 黃茶
